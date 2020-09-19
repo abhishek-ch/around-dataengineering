@@ -1,51 +1,60 @@
 # A Data Engineering Story - The Beginning
 
-There are many data engineering stories or workflow :happy:. I've tried to draft a typical journey of __Data Engineer__ which is really not only about
-data engineering but 
+There are many data engineering stories or workflow :happy: I've tried to draft a typical journey of __Data Engineer__ which is really not only about
+data engineering _but_ 
 
-:100: Team
-:raising_hand_woman: Data Analysts & Data Scientists
-:ghost: Finding *right Technologies
-:heart: Restart :grinning:
+:100: Team  
+:raising_hand_woman: Data Analysts & Data Scientists  
+:ghost: Finding __Right Technologies__  
+:heart: Restart !  
 
 ## Data is Coming :partying_face:
 
-And the Data arrives. Well I have no idea, what is that data all about but just heard it is around ~ 10 GB.
-Well its gonna be structured, so it gonna be really easy to estimate, isn't it :relieved:
+And the Data arrives. Well we have no idea, what is that data all about but just heard it is around ~ __20 GB__.  
+Well its gonna be structured _(or not)_, so it gonna be really easy to estimate, isn't it :relieved:  
+:smiling_imp: __#datasizeisamyth__
 
 We all connected, and all of us were pretty much convinced on easy sql engine, maybe postgres and then we can simply run 
-some basic query for data analysis.
+some basic query for data analysis.  
+
 
 ![](images/postgres.png)
 
+_Yeah we already decided!_  
 Then we finally decided to look into the data, it was CSV, yeah 10 GB of CSV ( gzipped) :hot_face: !
 
 ### Time for debate
 Nothing is easy !
-A huge file of csv, unzipped and we have now many things to consider
+A huge file of __csv__ :file_folder:, unzipped and we have now many things to consider
 	
 	* Is it really gonna be the only file ?
 	* Is the data actually clean ??
 	* Is postgres really a smart choice ?
-	* If we already have bigdata platform setup, why not using it ?
-	* Are we really gonna use all the fields in the data
+	* As we already know about bigdata & data engineering, why not building it already ?
+	* Are we really gonna need all the 300+ columns in the data
 	* ...
 
 So the best choice was to really focus on data exploration!
 
 ## Data Exploration
 
-Data Exploration is really not about loading the data, but here first we need to know the data!
-To know more about data, we have the default choice - Apache Spark
+Data Exploration is really not about loading the data, but for us, first we need to know the __Data!__  
+To know more about data, we have the default choice - :loudspeaker: __Apache Spark__  
+_No there was not much of a debate at this moment_
 
 ![](images/spark.png)
 	
 	1. Store the data on any distributed file system, lets consider here S3.
 	2. Load data in Apache Spark
-	3. Run analysis, peace of cake :pancakes:
+	3. Run analysis, peace of cake
 
-No, how can it be so easy ? Well its a single file of < 10 GB of size and Spark Driver gonna hurt very badly. So it is really not 
-a logical way to just load this data on spark and do anything.
+__NO__, how can it be so easy ?  
+
+:name_badge: Well its a single file, larger than 20 GB & Spark Driver is showing Attitude.  
+:name_badge: Spark write is behaving way more crazier, JVM Heap!  
+:name_badge: Ask for any group query, shuffling is hitting JVM hard  
+
+__#lovejvm__
 
 ### Data Partition Plan
 
