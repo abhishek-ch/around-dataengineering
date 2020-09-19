@@ -1,4 +1,12 @@
-# Abhishek
+# A Data Engineering Story - The Beginning
+
+There are many data engineering stories or workflow :happy:. I've tried to draft a typical journey of __Data Engineer__ which is really not only about
+data engineering but 
+
+	:100: Team
+	:raising_hand_woman: Data Analysts & Data Scientists
+	:ghost: Finding *right Technologies
+	:heart: Restart :grinning:
 
 ## Data is Coming :partying_face:
 
@@ -79,10 +87,10 @@ Well after many hours of discussions -
 
 _disclaimer: There are still discussions on why not apache superset or some other distributed sql engine & I am sure its never gonna end._
 
-![](images/superset.png) ![](images/sparksql.jpg) ![](images/cockroach.png)
+![](images/superset.png) ![](images/sparksql.png) ![](images/cockroach.png) ![](images/getdbt.png)
 
 But for now we have an amazing interface which can be used by our Analysts & Scientists to explore the data and learn insights.
-Hurray, we can now make Data Driven Decisions. Can we :cold_sweat:
+Hurray, we can now make Data Driven Decisions. Can we :cold_sweat: ?
 
 
 ## Big Data
@@ -155,3 +163,11 @@ Where is minitoring. Really
 	4. There is sudden spike in resource utilization, why ?
 	5. Why suddenly this job is slow ?
 	6. Nobody has any idea what am I running in cluster, nothing to worry :astonished: ?
+
+
+## After V1.0
+
+This is really not the end, but the beginning. Technically we just launched the Project and now more people gonna use it and more requirements gonna pop-up.
+Next discussions will be around _Data Warehousing, Data Analytics and Large scale Machine Learning Platform_ and what not!
+
+__So we just opened the pandoras box and things gonnna be more exciting, more debate and more technologies :satisfied:__
