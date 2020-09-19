@@ -3,10 +3,10 @@
 There are many data engineering stories or workflow :happy:. I've tried to draft a typical journey of __Data Engineer__ which is really not only about
 data engineering but 
 
-	:100: Team
-	:raising_hand_woman: Data Analysts & Data Scientists
-	:ghost: Finding *right Technologies
-	:heart: Restart :grinning:
+:100: Team
+:raising_hand_woman: Data Analysts & Data Scientists
+:ghost: Finding *right Technologies
+:heart: Restart :grinning:
 
 ## Data is Coming :partying_face:
 
