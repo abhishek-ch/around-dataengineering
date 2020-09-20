@@ -1,6 +1,13 @@
 # A Data Engineering Story - The Beginning
 
-There are many data engineering stories or workflow :happy: I've tried to draft a typical journey of __Data Engineer__ which is really not only about
+
+
+<img src="images/main.png" alt="drawing" width="600" />
+
+Data Engineering is technically Software Engineering where the main focus is around __Data__! 
+
+There are many data engineering stories or workflow :sweat_smile:  
+In this blog, I've tried to draft a classic journey of __Data Engineer__ which is really not only about
 data engineering _but_ 
 
 :100: Team  
@@ -10,18 +17,18 @@ data engineering _but_
 
 ## Data is Coming :partying_face:
 
-And the Data arrives. Well we have no idea, what is that data all about but just heard it is around ~ __20 GB__.  
+And the Data arrives. Well we have no idea, what is that data all about but the rumour is, around ~ __20 GB__.  
 Well its gonna be structured _(or not)_, so it gonna be really easy to estimate, isn't it :relieved:  
-:smiling_imp: __#datasizeisamyth__
+:smiling_imp: __#data_is_a_myth__
 
-We all connected, and all of us were pretty much convinced on easy sql engine, maybe postgres and then we can simply run 
+We all connected [Virtual], and all of us were pretty much convinced on easy sql engine, maybe postgres and then we can simply run 
 some basic query for data analysis.  
 
 
 ![](images/postgres.png)
 
 _Yeah we already decided!_  
-Then we finally decided to look into the data, it was CSV, yeah 10 GB of CSV ( gzipped) :hot_face: !
+Finally decided to look into the data, it was __CSV__, yeah 20 GB of CSV ( gzipped) :hot_face: !
 
 ### Time for debate
 Nothing is easy !
@@ -38,9 +45,9 @@ So the best choice was to really focus on data exploration!
 
 ## Data Exploration
 
-Data Exploration is really not about loading the data, but for us, first we need to know the __Data!__  
+Data Exploration is really not about loading the data, but first we need to know the __Data!__  
 To know more about data, we have the default choice - :loudspeaker: __Apache Spark__  
-_No there was not much of a debate at this moment_
+_No, there was not much of a debate at this moment_
 
 ![](images/spark.png)
 	
@@ -54,15 +61,15 @@ __NO__, how can it be so easy ?
 :name_badge: Spark write is behaving way more crazier, JVM Heap!  
 :name_badge: Ask for any group query, shuffling is hitting JVM hard  
 
-__#lovejvm__
+__#:broken_heart:jvm__
 
 ### Data Partition Plan
 
-We need a way to make this process __scalable__!
-We decided to split the data into multiple partitions of some reasonable size. As its spark, we are deciding on __~150 - 250 MB__.
-
-Do we really wanna continue using CSV ? 
-No, we need a more optimized columnar data format, so Parquet was an obvious choice for us.
+We need a way to make this process __scalable__!  
+We decided to split the data into multiple partitions of some reasonable size. Considering Spark, we fixed the range between __150 ~ 250 MB__.
+ 
+Do we really wanna continue using CSV ?   
+No, we need a more optimized columnar data format, so __Parquet__ was an obvious choice for us.
 
 ![](images/parquet.png)
 
@@ -72,21 +79,24 @@ No, we need a more optimized columnar data format, so Parquet was an obvious cho
 
 ### Data Exploration Visualization
 
-We heard data is ready, can we explore the data! Suddenly Data Analysts & Data Scientists jumped into the discussion.
-No, You cannot :rotating_light:
+We heard data is ready, can we explore the data! Suddenly Data Analysts & Data Scientists jumped into the discussion.  
+Well get ready!!! :running_man::rotating_light::boom:
 
-As a data engineer, I can imagine visualization over command line, but I am not sure my colleagues are really gonna hate me 
-for that. So, we need to provide an interface.
-So our data exploration platform should have the following -
+So convincing  Data Analysts & Data Scientists to explore the data over _commandline! is <> _  
+Well we can provide __Jupyter Notebook__ but still not the best solution. So, we really need to provide an interface to work...  
+
+Data exploration Platform should atleast have the following -
 
 	1. Open Sourced
-	2. Support Large Scale data exploration
+	2. Support Large Scale Data Exploration
 	3. Fancy Graphs
 	4. Dashboarding
 	5. Sharing
 	6. Governance
+	7. Multi Data Source Connectivity
+	8. Easy to use
 
-So technically, it asked for almost everything as a __large scale project__.
+So technically, we are expecting everything for a __large scale project__.
 Well after many hours of discussions -
 
 ![](images/presto.png) ![](images/metabse.png)
@@ -98,25 +108,26 @@ _disclaimer: There are still discussions on why not apache superset or some othe
 
 ![](images/superset.png) ![](images/sparksql.png) ![](images/cockroach.png) ![](images/getdbt.png)
 
-But for now we have an amazing interface which can be used by our Analysts & Scientists to explore the data and learn insights.
-Hurray, we can now make Data Driven Decisions. Can we :cold_sweat: ?
+But for now we provided an amazing interface which can be used by our Analysts & Scientists to explore the data and discover insights.  
+Hurray, we can now make _Data Driven Decisions_. Really, Can we :cold_sweat: ?
 
 
 ## Big Data
 
-Well we were expecting to calm down & then suddenly we got hit by data, a lot of data.
-__The problem now shifted from data to BigData__
+Well we were hoping to enjoy the moment but suddenly we got hit :bomb: by data, a lot of data.  
+__The problem now shifted from Data to Big Data__
 
-So what, we have _Spark cluster and partition_, so we will transform everything to parquet and life is great	:sunglasses:.
+So what, we have a _Spark cluster and parquet based partitioned data_, so we can transform all new data to the similar format :sunglasses:.  
 Easy guys, well there are some problems we never addressed when we started -
 
-	1. Queries are too slow
-	2. Infrastructure is burning too much money
-	3. Even its structered data, its has too many Nulls, weird characters and what not
-	4. Way too much data to explore
+	1. With so much data, Queries are way too slow
+	2. This new data is burning too much resources in Infrastructure
+	3. Even its structered data, its has too many Nulls, weird characters and what not & we never did any preprocessing
+	4. Too much data to explore
 
-We realized we never optimized the job for faster query, but just to add partitions. There was not even a discussion on data cleaning as we were 
-not aware what to expect. Big Data came too soon & we didn't had any pipeline managing that.
+We realized we never optimized the job for faster query, but just to add partitions (random).  
+There was not even a discussion on data cleaning as we were not aware what to expect.   
+> Data to Big Data was sudden & our pipeline was not designed to support that.
 
 
 ### Data Platform
