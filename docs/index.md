@@ -173,7 +173,7 @@ and build features. We are done .. yeah :cowboy_hat_face:
 No, That is No!
 Where is minitoring. Really
 
-![](images/grafana.jpg)  ![](images/promethus.png)  ![](images/datadog.png)
+![](docs/images/grafanalogo.PNG)  ![](docs/images/datadoglogo.PNG)
 
 
 	1. Job failed after office hours

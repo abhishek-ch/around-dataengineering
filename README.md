@@ -170,8 +170,7 @@ and build features. We are done .. yeah :cowboy_hat_face:
 No, That is No!
 Where is minitoring. Really
 
-![](docs/images/grafana.jpg)  ![](docs/images/promethus.png)  ![](docs/images/datadog.png)
-
+![](docs/images/grafanalogo.PNG)  ![](docs/images/datadoglogo.PNG)
 
 	1. Job failed after office hours
 	2. Everybody hates pagerduty 
