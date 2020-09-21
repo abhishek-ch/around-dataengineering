@@ -1,8 +1,5 @@
 # A Data Engineering Story - The Beginning
 
-![](images/story.png)
-
-
 Data Engineering is technically Software Engineering where the core focus is around __Data__! 
 
 There are many data engineering stories or workflows :sweat_smile:  
@@ -44,8 +41,8 @@ So the best choice was to really focus on data exploration!
 
 ## Data Exploration
 
-Data Exploration is really not about loading the data, but first we need to know the __Data!__  
-To know more about data, we have the default choice - :loudspeaker: __Apache Spark__  
+Data Exploration (here) is really not about loading the data, but more about knowing the __Data!__  
+To know more about data in distributed fashion, we have the default choice - :loudspeaker: __Apache Spark__  
 _No, there was not much of a debate at this moment_
 
 ![](images/spark.png)
@@ -70,6 +67,8 @@ We decided to split the data into multiple partitions of some reasonable size. C
 Do we really wanna continue using CSV ?   
 No, we need a more optimized columnar data format, so __Parquet__ was an obvious choice for us.
 
+>Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
+
 ![](images/parquet.png)
 
 	1. Load the data in Spark
@@ -81,8 +80,9 @@ No, we need a more optimized columnar data format, so __Parquet__ was an obvious
 We heard data is ready, can we explore the data! Suddenly Data Analysts & Data Scientists jumped into the discussion.  
 Well get ready!!! :running_man::rotating_light::boom:
 
-So convincing  Data Analysts & Data Scientists to explore the data over _commandline! is <> _  
-Well we can provide __Jupyter Notebook__ but still not the best solution. So, we really need to provide an interface to work...  
+So convincing  Data Analysts & Data Scientists to explore the data over _commandline! is <>_  
+Well we can provide __Jupyter Notebook__ but still not the best solution (programming interface is not for everyone).  
+So, we really need to provide an interface to work...  
 
 Data exploration Platform should atleast have the following -
 
@@ -98,22 +98,20 @@ Data exploration Platform should atleast have the following -
 So technically, we are expecting everything for a __large scale project__.
 Well after many hours of discussions -
 
-![](images/presto.png) ![](images/metabse.png)
+![](images/prestodb.png) ![](images/metabse.png)
 
-	 1. PRESTO, an open source distributed SQL query engine 
-	 2. METABASE, open source way for everyone in your company to ask questions and learn from data.
+> PRESTO, an open source distributed SQL query engine 
 
-_disclaimer: There are still discussions on why not apache superset or some other distributed sql engine & I am sure its never gonna end._
+> METABASE, open source way for everyone in your company to ask questions and learn from data.
 
-![](images/superset.png) ![](images/sparksql.png) ![](images/cockroach.png) ![](images/getdbt.png)
 
 But for now we provided an amazing interface which can be used by our Analysts & Scientists to explore the data and discover insights.  
-Hurray, we can now make _Data Driven Decisions_. Really, Can we :cold_sweat: ?
+Hurray, we can now make __Data Driven Decisions__. Really, Can we :cold_sweat: ?
 
 
 ## Big Data
 
-Well we were hoping to enjoy the moment but suddenly we got hit :bomb: by data, a lot of data.  
+Well we were hoping to enjoy the moment but suddenly we got hit :bomb: by data, lots and lots of data.  
 __The problem now shifted from Data to Big Data__
 
 So what, we have a _Spark cluster and parquet based partitioned data_, so we can transform all new data to the similar format :sunglasses:.  
@@ -151,6 +149,9 @@ Well entire team understands python, but Spark is still not great with Python. W
 __So why not data pipeline on Scala & Data Science related logic on Python.__
 Yeah, its 2 languages, but we can work with it.
 
+> Bringing 1+ programming languages are considered complex to manage but sometimes its more about technology rather than simplicity. 
+Scala is always better for JVM compared to python but Machine Learning
+
 
 ### Workflow 
 
@@ -170,11 +171,10 @@ experince, we concluded on __Apache Airflow__. ( #fornow )
 So now we have airflow to schedule all the jobs. There is a manual trigger via interface. Metabase to explore data and run faster query. And Spark pipeline to clean
 and build features. We are done .. yeah :cowboy_hat_face:
 
-No, That is No!
-Where is minitoring. Really
+No, That is __No!__
+Where is Monitoring. Really
 
-![](docs/images/grafanalogo.PNG)  ![](docs/images/datadoglogo.PNG)
-
+![](images/grafanalogo.PNG)  ![](images/datadoglogo.PNG)
 
 	1. Job failed after office hours
 	2. Everybody hates pagerduty 
@@ -190,3 +190,18 @@ This is really not the end, but the beginning. Technically we just launched the 
 Next discussions will be around _Data Warehousing, Data Analytics and Large scale Machine Learning Platform_ and what not!
 
 __So we just opened the pandoras box and things gonnna be more exciting, more debate and more technologies :satisfied:__
+
+
+## Disclaimer
+_There are still discussions on why not using apache superset or some other distributed sql engine & I am sure its never gonna end. 
+There are really so many convincing points of using other technologies but some notable points, we considered for selecting any technology_
+
+	1. Active Community
+	2. Features
+	3. Future issues & Upcoming release plans
+	4. Frequency of releases
+	5. Q&A availablility
+
+
+![](images/superset.png) ![](images/sparksql.png) ![](images/cockroach.png) ![](images/getdbt.png)
+
