@@ -78,7 +78,7 @@ No, we need a more optimized columnar data format, so __Parquet__ was an obvious
 We heard data is ready, can we explore the data! Suddenly Data Analysts & Data Scientists jumped into the discussion.  
 Well get ready!!! :running_man::rotating_light::boom:
 
-So convincing  Data Analysts & Data Scientists to explore the data over _commandline! is <> _  
+So convincing  Data Analysts & Data Scientists to explore the data over _commandline! is <>_  
 Well we can provide __Jupyter Notebook__ but still not the best solution. So, we really need to provide an interface to work...  
 
 Data exploration Platform should atleast have the following -
@@ -167,8 +167,8 @@ experince, we concluded on __Apache Airflow__. ( #fornow )
 So now we have airflow to schedule all the jobs. There is a manual trigger via interface. Metabase to explore data and run faster query. And Spark pipeline to clean
 and build features. We are done .. yeah :cowboy_hat_face:
 
-No, That is No!
-Where is minitoring. Really
+No, That is __No!__
+Where is Monitoring. Really
 
 ![](docs/images/grafanalogo.PNG)  ![](docs/images/datadoglogo.PNG)
 
