@@ -1,6 +1,6 @@
 # A Data Engineering Story - The Beginning
 
-
+![](images/story.png)
 
 
 Data Engineering is technically Software Engineering where the core focus is around __Data__! 
