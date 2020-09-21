@@ -1,12 +1,9 @@
 # A Data Engineering Story - The Beginning
 
 
+Data Engineering is technically Software Engineering where the core focus is around __Data__! 
 
-<img src="images/main.png" alt="drawing" width="600" />
-
-Data Engineering is technically Software Engineering where the main focus is around __Data__! 
-
-There are many data engineering stories or workflow :sweat_smile:  
+There are many data engineering stories or workflows :sweat_smile:  
 In this blog, I've tried to draft a classic journey of __Data Engineer__ which is really not only about
 data engineering _but_ 
 
@@ -28,10 +25,10 @@ some basic query for data analysis.
 ![](images/postgres.png)
 
 _Yeah we already decided!_  
-Finally decided to look into the data, it was __CSV__, yeah 20 GB of CSV ( gzipped) :hot_face: !
+Finally the data was accessible & we decided to look into the data, it was __CSV__, yeah 20 GB of CSV ( gzipped) :hot_face: !
 
-### Time for debate
-Nothing is easy !
+### Time for Debate
+Nothing is easy !  
 A huge file of __csv__ :file_folder:, unzipped and we have now many things to consider
 	
 	* Is it really gonna be the only file ?
