@@ -2,6 +2,8 @@
 
 Data Engineering is technically Software Engineering where the core focus is around __Data__! 
 
+![](images/blog2.png)
+
 There are way too many overlaps in Data Engineering & sometimes its unclear, a data engineer works for either data science
 or data analytics or really what :fearful:  
 
