@@ -1,6 +1,8 @@
-# A Data Engineering Story - The Beginning ABC
+# A Data Engineering Story - The Beginning
 
 Data Engineering is technically Software Engineering where the core focus is around __Data__! 
+
+![](images/main.png)
 
 There are many data engineering stories or workflows :sweat_smile:  
 In this blog, I've tried to draft a classic journey of __Data Engineer__ which is really not only about
