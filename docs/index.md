@@ -35,7 +35,7 @@ Scikit-learn was out of question now
 	3. There some new technologies around distribited Machine Learning. 
 	4. CAN YOU HELP US ?
 
-The last point was killer :gift_heart:. There comes the reason where a Data Engineer will have to jump in.
+The last point was killer :gift_heart:. There comes one of the reasons where a _Data Engineer_ will have to jump in.
 
 ### Setting up new technologies for Data Science.
 
