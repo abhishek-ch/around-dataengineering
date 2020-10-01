@@ -1,207 +1,125 @@
-# A Data Engineering Story - The Beginning
+# Data Engineering - More towards Data Science or Data Analytics or ...
 
 Data Engineering is technically Software Engineering where the core focus is around __Data__! 
 
-There are many data engineering stories or workflows :sweat_smile:  
-In this blog, I've tried to draft a classic journey of __Data Engineer__ which is really not only about
-data engineering _but_ 
 
-:100: Team  
-:raising_hand_woman: Data Analysts & Data Scientists  
-:ghost: Finding __Right Technologies__  
-:heart: Restart !  
+There are way too many overlaps in Data Engineering & sometimes its unclear, a data engineer works for either data science
+or data analytics or really what :fearful:  
 
-## Data is Coming :partying_face:
-
-And the Data arrives. Well we have no idea, what is that data all about but the rumour is, around ~ __20 GB__.  
-Well its gonna be structured _(or not)_, so it gonna be really easy to estimate, isn't it :relieved:  
-:smiling_imp: __#data_is_a_myth__
-
-We all connected [Virtual], and all of us were pretty much convinced on easy sql engine, maybe postgres and then we can simply run 
-some basic query for data analysis.  
+:100: Data Science or Applied Machine Learning  
+:boom: Data Analysts  
+:dash: Large scale Analytics  
+:pray: Infrastructure / Devops  
+:speech_balloon: Software Engineering  
 
 
-![](docs/images/postgres.png)
+## A Very Data Science - Unstory :ghost:
 
-_Yeah we already decided!_  
-Finally the data was accessible & we decided to look into the data, it was __CSV__, yeah 20 GB of CSV ( gzipped) :hot_face: !
+Data Scientists were busy building complicated Machine Learning model over __#scikit-learn__ and there is no better technology to conider at the moment.
 
-### Time for Debate
-Nothing is easy !  
-A huge file of __csv__ :file_folder:, unzipped and we have now many things to consider
+![](docs/images/scikit.png)
+
+We assumed everything is going great, & then data scientists scheduled a meeting :calendar: with data engineers.
+
+### The Meeting
+
+For data scientists, everything were going great. They can tune the machine learning algorithm to work anyway within a 
+single machine, so scikit-learn is great. But the problem statement changed. Suddenly one of the groups, got a problem
+regarding CNN ( Need massive data, needs everything ).  
+
+Scikit-learn was out of question now
+
+	1. Need to parallelize scikit-learn
+	2. Heard about GPU
+	3. There some new technologies around distribited Machine Learning. 
+	4. CAN YOU HELP US ?
+
+The last point was killer :gift_heart:. There comes one of the reasons where a _Data Engineer_ will have to jump in.
+
+### Setting up new technologies for Data Science.
+
+Setting up a new playground for experimenting new technologies is hard but necessary :bell:.  
+Well just setting up a single technology may be not enough so lets setup multiple technologies. Well you never know 
+
+![](docs/images/dask.png) ![](docs/images/pytorch.png) ![](docs/images/rapids.png)
+
+
+### What about Productioninzing | The Conversation
+
+:woman_student: The ML code is ready, tested its working fine  
+:running: Awesome ! Do you want something...  
+:woman_student: Of-course, isn't code should be clean, Tests & cicd  
+:running: Sure, that is the minimal requirement to run in production   
+:woman_student: Awesome, so I will be adding you as a Reviewer. Or __Role Reverse__ :smiling_imp:    
+:running: What is this Role Reverse :raising_hand:  
+:woman_student: It will be way easier, faster and better if you productionize the code and I review it, that way you will learn what I did
+& I will learn __cicd__ and other necessary stuff  
+:woman_student: Or, I will write all these and you just review.  
+
+Honestly, to know more about actual code, a Data Engineer should try to productionize Data Scientist's code, 
+
+	1. A Data Engineer can understand it way better
+	2. Helps debugging and add engineering perspective
+	3. Complement the code with Infrastructure
+	4. Bus Factor
+
 	
-	* Is it really gonna be the only file ?
-	* Is the data actually clean ??
-	* Is postgres really a smart choice ?
-	* As we already know about bigdata & data engineering, why not building it already ?
-	* Are we really gonna need all the 300+ columns in the data
-	* ...
-
-So the best choice was to really focus on data exploration!
-
-## Data Exploration
-
-Data Exploration (here) is really not about loading the data, but more about knowing the __Data!__  
-To know more about data in distributed fashion, we have the default choice - :loudspeaker: __Apache Spark__  
-_No, there was not much of a debate at this moment_
-
-![](docs/images/spark.png)
-	
-	1. Store the data on any distributed file system, lets consider here S3.
-	2. Load data in Apache Spark
-	3. Run analysis, peace of cake
-
-__NO__, how can it be so easy ?  
-
-:name_badge: Well its a single file, larger than 20 GB & Spark Driver is showing Attitude.  
-:name_badge: Spark write is behaving way more crazier, JVM Heap!  
-:name_badge: Ask for any group query, shuffling is hitting JVM hard  
-
-__#:broken_heart:jvm__
-
-### Data Partition Plan
-
-We need a way to make this process __scalable__!  
-We decided to split the data into multiple partitions of some reasonable size. Considering Spark, we fixed the range between __150 ~ 250 MB__.
- 
-Do we really wanna continue using CSV ?   
-No, we need a more optimized columnar data format, so __Parquet__ was an obvious choice for us.
-
->Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
-
-![](docs/images/parquet.png)
-
-	1. Load the data in Spark
-	2. Write the data back to S3 within partition range as Parquet Data Format.
+> Its not a discussion about a Data Scientist should not learn engineering, Infrastructure etc but if more about helping each other, finally its a Team Effort ! Its absolutely fine to not Role Reverse !
 
 
-### Data Exploration Visualization
+## The Data Analysts - Missing You :chart_with_upwards_trend:
 
-We heard data is ready, can we explore the data! Suddenly Data Analysts & Data Scientists jumped into the discussion.  
-Well get ready!!! :running_man::rotating_light::boom:
+Our SQL Ninjas were writing long complicated SQL queries & revealing insights around the data untill
 
-So convincing  Data Analysts & Data Scientists to explore the data over _commandline! is <>_  
-Well we can provide __Jupyter Notebook__ but still not the best solution (programming interface is not for everyone).  
-So, we really need to provide an interface to work...  
+	1. There is way too much data and sql is running too slow
+	2. Parquet/avro format data, now how to run query on them
+	3. Learning Python is fun but...
+	4. There are way too many data sources, can there be a single interface
+	5. Dashboarding is fun but need more flexibility
+	6. Just taking the data and running sql is getting too much complicated, can we preprcess
 
-Data exploration Platform should atleast have the following -
+### Data Analytics Platform
 
-	1. Open Sourced
-	2. Support Large Scale Data Exploration
-	3. Fancy Graphs
-	4. Dashboarding
-	5. Sharing
-	6. Governance
-	7. Multi Data Source Connectivity
-	8. Easy to use
+With many data sources and ever increasing data size, simple postgres/sql engine was not enough to handle  
+So as a Data Engineer we have to decide  
 
-So technically, we are expecting everything for a __large scale project__.
-Well after many hours of discussions -
+![](docs/images/prestodb.png) ![](docs/images/metabse.png) ![](docs/images/pyspark.png)
 
-![](docs/images/prestodb.png) ![](docs/images/metabse.png)
+:pushpin: A SQL interface with intuitive UI, supporting many different data sources like parquet, databases, csv, flatfiles etc  
+:closed_book: Licenses are expensive, __Open Source__ please  
+:watch: Can't wait too long for this setup  
+:loop: Till __Python__ happens, a library interface to transform data  
 
-> PRESTO, an open source distributed SQL query engine 
+> Data Analyst with Python knowledge is an asset but Data Engineer can still contribute & make it better
 
-> METABASE, open source way for everyone in your company to ask questions and learn from data.
+## DevOps - They take care everything :cowboy_hat_face:
 
+DevOps is almost always busy taking care many requests and then __Data Science Engineering__ teams add few more
 
-But for now we provided an amazing interface which can be used by our Analysts & Scientists to explore the data and discover insights.  
-Hurray, we can now make __Data Driven Decisions__. Really, Can we :cold_sweat: ?
+	1. Airflow is cool and working/supporting by infrastructure but wanna explore Prefect, heard its Cooler
+	2. A Temporary job needs a new Cluster setup
+	3. Want to run an experiement for longer term but only for a single Team
+	4. My data pipeline job failed, #JVM error .. My Code is fine!
+	5. Machine Learning needs distributed setup, can ...
+	6. Transfer data from one bucket to another, a Lambda please
 
+![](docs/images/prefect.jpg) ![](docs/images/airflow.png)
 
-## Big Data
-
-Well we were hoping to enjoy the moment but suddenly we got hit :bomb: by data, lots and lots of data.  
-__The problem now shifted from Data to Big Data__
-
-So what, we have a _Spark cluster and parquet based partitioned data_, so we can transform all new data to the similar format :sunglasses:.  
-Easy guys, well there are some problems we never addressed when we started -
-
-	1. With so much data, Queries are way too slow
-	2. This new data is burning too much resources in Infrastructure
-	3. Even its structered data, its has too many Nulls, weird characters and what not & we never did any preprocessing
-	4. Too much data to explore
-
-We realized we never optimized the job for faster query, but just to add partitions (random).  
-There was not even a discussion on data cleaning as we were not aware what to expect.   
-> Data to Big Data was sudden & our pipeline was not designed to support that.
+There are many specific requests come from a Team which usually got ignored that DevOps/Infrastructure can't simply support all requests and specifically individual experiment request.  
+A __Data Engineer__ can really fill the gap :sunglasses:
 
 
-### Data Platform
-
-This is where actual engineering begins. We sat with Data Analysts & Data Scientists to plan 
-
-	1. We are receiving data every data, so we need to run a batch job every day
-	2. There are more than 300 + columns in the data, but there are some specific point of interests for now
-	3. Create Data Partitions based on identifiers ( Date, Id, POIs) etc.
-	4. Data has too many gaps and have many duplicates, add spark transformations for clean data
-	5. Data Scientists are interested on more deeper level on the data, so schedule another job 
-	on top of first level of processing.
-	6. Data Analysts may want to run some crazy query, so what about manually trigger batch jobs.
-	7. There are some queries which are too common, why not keeping that inside data pipeline! :imp:
-	8. What about feature engineering :worried:
-
-### Scala / Python / Java or what ?
-
-![](docs/images/scala.png) ![](docs/images/python.jpg)
-
-Well entire team understands python, but Spark is still not great with Python. What if in future we need to connect to Kafka, well Python... Naaah!
-__So why not data pipeline on Scala & Data Science related logic on Python.__
-Yeah, its 2 languages, but we can work with it.
-
-> Bringing 1+ programming languages are considered complex to manage but sometimes its more about technology rather than simplicity. 
-Scala is always better for JVM compared to python but Machine Learning
+## Conclusion :space_invader:
+A Data Engineer can really provide inputs for many roles as its inhertence is from Software Engineering. But every company has a bit different definition of Data Engineering and sometimes its very Team Specific.
 
 
-### Workflow 
-
-We have now many jobs, running on different point in time and we are now talking about scheduler.
-Yeah not a cron job for sure, so we need a platform to programmatically author, schedule and monitor workflows.
-
-![](docs/images/airflow.png) ![](docs/images/prefect.jpg) ![](docs/images/dagster.png)
-
-__Again The Debate__
-
-This should never end, as now open source community is brining too many options and every options has its own factor, but considering other group and previous 
-experince, we concluded on __Apache Airflow__. ( #fornow )
+:station: __Data Engineer Platform__ Building and managing Large Scale Distributed System & provide ETL as a Service  
+:chart: __Data Engineer Analytics/BI__ Building large scale Analytics platform ( a bit of overlap :point_up_2:)  
+:woman: __Applied Machine Learning__ Data Engineer working closely with Data Scientists and partially applying Machine Learning Models    
+:construction_worker: __Data Integration Engineer__ Managing data interfaces from many heterogenous systems  
+:exclamation: __Software Engineer, Data__  
+:cloud: __Cloud Data Warehouse Engineer__ Reporting, ETL/ELT ( overlap)  
+:video_game: __Data Infrastructure Engineer__ Administrating and Scaling large scale cluster over global or complete enterprise level  
 
 
-## All done, Really!
-
-So now we have airflow to schedule all the jobs. There is a manual trigger via interface. Metabase to explore data and run faster query. And Spark pipeline to clean
-and build features. We are done .. yeah :cowboy_hat_face:
-
-No, That is __No!__
-Where is Monitoring. Really
-
-![](docs/images/grafanalogo.PNG)  ![](docs/images/datadoglogo.PNG)
-
-	1. Job failed after office hours
-	2. Everybody hates pagerduty 
-	3. What failed and how to debug
-	4. There is sudden spike in resource utilization, why ?
-	5. Why suddenly this job is slow ?
-	6. Nobody has any idea what am I running in cluster, nothing to worry :astonished: ?
-
-
-## After V1.0
-
-This is really not the end, but the beginning. Technically we just launched the Project and now more people gonna use it and more requirements gonna pop-up.
-Next discussions will be around _Data Warehousing, Data Analytics and Large scale Machine Learning Platform_ and what not!
-
-__So we just opened the pandoras box and things gonnna be more exciting, more debate and more technologies :satisfied:__
-
-
-## Disclaimer
-_There are still discussions on why not using apache superset or some other distributed sql engine & I am sure its never gonna end. 
-There are really so many convincing points of using other technologies but some notable points, we considered for selecting any technology_
-
-	1. Active Community
-	2. Features
-	3. Future issues & Upcoming release plans
-	4. Frequency of releases
-	5. Q&A availablility
-
-
-![](docs/images/superset.png) ![](docs/images/sparksql.png) ![](docs/images/cockroach.png) ![](docs/images/getdbt.png)
-
+_Ok Now this blog already got bit long, so I will stop here and continue later ..._
