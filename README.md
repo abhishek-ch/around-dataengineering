@@ -1,5 +1,8 @@
 # Data Engineering - More towards Data Science or Data Analytics or ...
 
+[_PREVIOUS BLOG A Data Engineering Story - The Beginning_](https://github.com/abhishek-ch/around-dataengineering/blob/blog2/docs/blog1.md)
+
+
 Data Engineering is technically Software Engineering where the core focus is around __Data__! 
 
 
