@@ -16,3 +16,6 @@
 
 #### DataEngineering vs Machine Learning :clap:
 ![DataEngineering vs Machine Learning](sketchnotes/DataEngineeringVsMachineLearningengineering.jpg)
+#### Open Source Technologies in Data Engineering
+
+![Open Source Technologies in Data Engineering](sketchnotes/DE_OS.jpg)
