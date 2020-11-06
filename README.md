@@ -19,3 +19,6 @@
 #### Open Source Technologies in Data Engineering :clap:
 
 ![Open Source Technologies in Data Engineering](sketchnotes/DE_OS.jpg)
+#### Basic Checklists while learning Apache Spark :clap:
+
+![Basic Checklists while learning Apache Spark](sketchnotes/spark_checklist.png)
