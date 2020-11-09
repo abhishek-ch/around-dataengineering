@@ -22,3 +22,6 @@
 #### Basic Checklists while learning Apache Spark :clap:
 
 ![Basic Checklists while learning Apache Spark](sketchnotes/spark_checklist.png)
+
+#### Time to Know More about DASK :clap:
+![Time to Know More about DASK](sketchnotes/TimeToLearnDask.png)
