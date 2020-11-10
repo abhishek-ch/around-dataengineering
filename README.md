@@ -5,7 +5,7 @@
 
 #### DataEngg Skills to work with DataScience :clap: 
 
-![DataEngg Skills to work with DataScience](sketchnotes/DE_skills_work_with_DS.jpg)
+![DataEngg Skills to work with DataScience](sketchnotes/kubernetes_fundamentals.png)
 #### DataEngineering Interview :clap:
 
 <img src="sketchnotes/DE_Interview.jpg" alt="Data Engineering Interview Patterns" style="width:800px;height:800px"/>
