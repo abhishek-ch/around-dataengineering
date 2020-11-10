@@ -5,7 +5,7 @@
 
 #### DataEngg Skills to work with DataScience :clap: 
 
-![DataEngg Skills to work with DataScience](sketchnotes/kubernetes_fundamentals.png)
+![DataEngg Skills to work with DataScience](sketchnotes/DE_skills_work_with_DS.jpg)
 #### DataEngineering Interview :clap:
 
 <img src="sketchnotes/DE_Interview.jpg" alt="Data Engineering Interview Patterns" style="width:800px;height:800px"/>
@@ -26,4 +26,5 @@
 #### Time to Know More about DASK :clap:
 ![Time to Know More about DASK](sketchnotes/TimeToLearnDask.png)
 
-![Kubernetes Fundamentals Required as a Data Engineer](kubernetes_fundamentals.png)
+
+![Kubernetes Fundamentals Required as a Data Engineer](sketchnotes/kubernetes_fundamentals.png)
