@@ -25,3 +25,5 @@
 
 #### Time to Know More about DASK :clap:
 ![Time to Know More about DASK](sketchnotes/TimeToLearnDask.png)
+
+![Kubernetes Fundamentals Required as a Data Engineer](kubernetes_fundamentals.png)
