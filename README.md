@@ -3,7 +3,11 @@
 #### Blog 1 :100: [A Data Engineering Story - The Beginning](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/blog1/index.md)
 #### Blog 2 :100: [Data Engineering - More towards Data Science or Data Analytics or ...](https://github.com/abhishek-ch/around-dataengineering/tree/blog2) 
 
-![Dummy Notes On Machine Learning Infrastructire](sketchnotes/arond_dq.png)
+![Getting started with Data Engineering, volume 2](sketchnotes/Getting_started_with_de_vol2.png)
+
+![Getting started with Data Engineering, volume 1](sketchnotes/gettingstart_dataengg.png)
+
+![Data Quality, A necessity for Data Driven Projects](sketchnotes/arond_dq.png)
 
 ![Dummy Notes On Machine Learning Infrastructire](sketchnotes/ML_Infra_RoughNotes.png)
 ![Some Interesting essentials while learning Apache Airflow](sketchnotes/airflow_checklist.png)
