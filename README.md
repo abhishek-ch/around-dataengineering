@@ -1,5 +1,9 @@
 # Something Around Data Engineering
 
+[Most important points around Distributed #dataengineering Platform](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-programminglanguages-distributedsystem-activity-6742777508380360704-qqvV)
+![](sketchnotes/imp_dataengg.png)
+
+
 #### Blog 1 :100: [A Data Engineering Story - The Beginning](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/blog1/index.md)
 #### Blog 2 :100: [Data Engineering - More towards Data Science or Data Analytics or ...](https://github.com/abhishek-ch/around-dataengineering/tree/blog2) 
 
