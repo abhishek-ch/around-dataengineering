@@ -2,7 +2,7 @@
 
 ####
 
-#### Machine Learning Feature Store :100: [](sketchnotes/feature_store.jpg)
+#### Machine Learning Feature Store :100: ![](sketchnotes/feature_store.jpg)
 
 #### Streamlit Project :100: [Streamlit Healthcare Machine Learning Data App](https://github.com/abhishek-ch/streamlit-healthcare-ML-App)
 
