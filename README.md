@@ -2,6 +2,8 @@
 
 ####
 
+#### Machine Learning Feature Store :100: [](sketchnotes/feature_store.jpg)
+
 #### Streamlit Project :100: [Streamlit Healthcare Machine Learning Data App](https://github.com/abhishek-ch/streamlit-healthcare-ML-App)
 
 #### :100: Points around Distributed [Most important points around Distributed #dataengineering Platform](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-programminglanguages-distributedsystem-activity-6742777508380360704-qqvV)
