@@ -2,6 +2,8 @@
 
 ####
 
+![Getting started with Data Engineering, volume 4](sketchnotes/Getting_started_with_de_vol4.PNG)
+
 #### Machine Learning Workflow :100: ![](sketchnotes/ML_workflow.png)
 
 #### Machine Learning Feature Store :100: ![](sketchnotes/feature_store.jpg)
