@@ -2,6 +2,8 @@
 
 ####
 
+![Essential Cloud Skills for Data Engineering](sketchnotes/essential_dataengg.png)
+
 ![Getting started with Data Engineering, volume 4](sketchnotes/Getting_started_with_de_vol4.PNG)
 
 #### Machine Learning Workflow :100: ![](sketchnotes/ML_workflow.png)
