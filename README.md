@@ -1,8 +1,11 @@
-# Around Data Engineering
+# A very Long never ending Learning around Data Engineering & Machine Learning
 
 ![](sketchnotes/background.jpeg)
 
+## Weekly Digest
+
 ## The Data Engineering
+
 
 #### Level 0
 * [Getting started with Data Engineering, volume 4 🎉💡](sketchnotes/Getting_started_with_de_vol4.PNG)
