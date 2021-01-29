@@ -3,6 +3,11 @@
 ![](sketchnotes/background.jpeg)
 
 ## Weekly Digest
+* [Apache Hudi - Turn Batch Jobs to Incremental Model | Complete file management on a Data Lake](https://www.linkedin.com/posts/iamabhishekchoudhary_building-a-large-scale-transactional-data-activity-6760855681277980672-kiZF)
+* [Apache Iceberg - an open table format for huge analytic datasets](https://www.linkedin.com/posts/iamabhishekchoudhary_apache-iceberg-activity-6760465145954131968-v0tp)
+* [The best example of Randomness is - #machinelearning model in Production. 🔐💭🔎](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-infrastructure-datascientists-activity-6759792666403246081-Jq3Q)
+* [Presto or Trino - #SQL on Everything ( The Design, Motivation & Performance) #presto 💭🎊💡](https://www.linkedin.com/posts/iamabhishekchoudhary_trinoprestosqloneverything-activity-6759416018025680896-DPfu)
+* [Apache Superset - An #opensource Fully Featured Business Intelligence Application 🎊🎊🎊](https://www.linkedin.com/posts/iamabhishekchoudhary_apache-superset-10-is-out-activity-6759044550578229248-rerO)
 
 ## The Data Engineering
 
@@ -51,6 +56,7 @@
 * [Most Popular #opensource BI & Data Analytics Platforms 🎊💡🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_opensource-dataengineering-datascience-activity-6749258103369322496-hc5C)
 * [datapipelines Dataframe APi is now available with #apachebeam 💯🔥💯](https://www.linkedin.com/posts/iamabhishekchoudhary_datapipelines-apachebeam-python-activity-6748167921433948160-oWfT)
 * [Disaster Recovery for Multi-Region Apache Kafka & Data Consumption using #apacheflink 🔅🎉🔅](https://www.linkedin.com/posts/iamabhishekchoudhary_disaster-recovery-for-multi-region-kafka-activity-6747422409218940928-70Rf)
+* [Kubernetes Api Structure 💯✔️💯](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-dataengineering-machinelearning-activity-6759074145817944064-dHIl)
 
 
 ## Machine Learning
@@ -77,6 +83,7 @@
 * [Statistics for #softwareengineer 🔥💯🔥](https://www.linkedin.com/posts/iamabhishekchoudhary_statsforhackers-activity-6752265241486331904-moUz)
 * [Monitoring #machinelearning Applications 🎉🎁 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-dataengineering-prometheus-activity-6751436872456687616-ZTvW)
 * [Dagster is a data orchestrator for machine learning, analytics, and ETL - Officially #machinelearning driven 🥇🥇🥇](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-dagster-apacheairflow-activity-6749618916609314816-YPnW)
+* [Short Notes on -Open source #machinelearning Tracking System](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-datascience-mlflow-activity-6759484697518096384-Szi9)
 
 ## Paper
 
@@ -97,6 +104,7 @@
 * [Advancing #drugdiscovery via Artificial Intelligence 💊🏥🏥](https://www.linkedin.com/posts/iamabhishekchoudhary_drugdiscoveryai-activity-6751143165618651136-6EX8)
 * [Apache Calcite is a dynamic data management framework 🎉📚🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apachecalcite-activity-6751114208450015232-67Wn)
 * [Lakehouse - A Paper on new Generation of #datawarehouse technology 💡🔎💡](https://www.linkedin.com/posts/iamabhishekchoudhary_datawarehouse-apacheparquet-machinelearning-activity-6747813594395668480-hepU)
+* [Calvin: Fast Distributed Transactions for Partitioned Database Systems 📝📝](https://www.linkedin.com/posts/iamabhishekchoudhary_calvin-fast-distributed-transactions-activity-6760230219019354113-b-Bi)
 
 
 #### NA
