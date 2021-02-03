@@ -3,11 +3,12 @@
 ![](sketchnotes/background.jpeg)
 
 ## Weekly Digest
-* [Apache Hudi - Turn Batch Jobs to Incremental Model | Complete file management on a Data Lake](https://www.linkedin.com/posts/iamabhishekchoudhary_building-a-large-scale-transactional-data-activity-6760855681277980672-kiZF)
-* [Apache Iceberg - an open table format for huge analytic datasets](https://www.linkedin.com/posts/iamabhishekchoudhary_apache-iceberg-activity-6760465145954131968-v0tp)
-* [The best example of Randomness is - #machinelearning model in Production. 🔐💭🔎](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-infrastructure-datascientists-activity-6759792666403246081-Jq3Q)
-* [Presto or Trino - #SQL on Everything ( The Design, Motivation & Performance) #presto 💭🎊💡](https://www.linkedin.com/posts/iamabhishekchoudhary_trinoprestosqloneverything-activity-6759416018025680896-DPfu)
-* [Apache Superset - An #opensource Fully Featured Business Intelligence Application 🎊🎊🎊](https://www.linkedin.com/posts/iamabhishekchoudhary_apache-superset-10-is-out-activity-6759044550578229248-rerO)
+* [Design - Exactly Once Delivery & Transactional Messaging in #apachekafka 🎊📋🎊](https://www.linkedin.com/posts/iamabhishekchoudhary_exactlyoncekafka-activity-6762359693802299392-Gch3)
+* [Exploring Kubernetes Operator Pattern 💡](https://www.linkedin.com/posts/iamabhishekchoudhary_exploring-kubernetes-operator-pattern-activity-6762000800911814656-Jre7)
+* [The Hop Orchestration Platform, or Apache #Hop (Incubating), aims to facilitate all aspects of data and metadata orchestration 💯💡⭐](https://www.linkedin.com/posts/iamabhishekchoudhary_hop-apachespark-apacheflink-activity-6761641585437396993-ydHg)
+* [Architecting a Kubernetes Infrastructure 💯](https://www.linkedin.com/posts/iamabhishekchoudhary_a-deep-dive-into-architecting-a-kubernetes-activity-6761257898438918144-N74g)
+
+
 
 ## The Data Engineering
 
@@ -21,6 +22,7 @@
 * [Some Interesting essentials while learning Apache Airflow](sketchnotes/airflow_checklist.png)
 * [Dagster Release 0.10.0 - Everything about Exactly-once, Fault-Tolerant Scheduling - Extremely Important Release 🎉🎉🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_dagster-machinelearning-kubernetes-activity-6757931107041255424-KAG1)
 * [#getdbt or Data Build Tools interface across all major Data Workflow Management Platform 💯✨🔥](https://www.linkedin.com/posts/iamabhishekchoudhary_getdbt-apacheairflow-dagster-activity-6750389785275240448-N8t_)
+* [Apache Superset - An #opensource Fully Featured Business Intelligence Application 🎊🎊🎊](https://www.linkedin.com/posts/iamabhishekchoudhary_apache-superset-10-is-out-activity-6759044550578229248-rerO)
 
 #### Level 1
 
@@ -35,6 +37,8 @@
 * [Change Data Analysis with Debezium and Apache Pinot 🎉💡🚿](https://www.linkedin.com/posts/iamabhishekchoudhary_apachepinot-debezium-eventsourcing-activity-6754311102718382080-gWL1)
 * [Optimizing Apache Kafka Producers & Consumers 🎊📈🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafka-strimzi-streamprocessing-activity-6753977207800037376-kNWi)
 * [Redpanda -A NON-JVM Streaming Platform for mission critical workloads 💡🎉🔆](https://www.linkedin.com/posts/iamabhishekchoudhary_redpanda-activity-6749640173656559616-Ol6C)
+* [Apache Hudi - Turn Batch Jobs to Incremental Model | Complete file management on a Data Lake](https://www.linkedin.com/posts/iamabhishekchoudhary_building-a-large-scale-transactional-data-activity-6760855681277980672-kiZF)
+* [Apache Iceberg - an open table format for huge analytic datasets](https://www.linkedin.com/posts/iamabhishekchoudhary_apache-iceberg-activity-6760465145954131968-v0tp)
 
 
 #### Gyaan
@@ -84,6 +88,7 @@
 * [Monitoring #machinelearning Applications 🎉🎁 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-dataengineering-prometheus-activity-6751436872456687616-ZTvW)
 * [Dagster is a data orchestrator for machine learning, analytics, and ETL - Officially #machinelearning driven 🥇🥇🥇](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-dagster-apacheairflow-activity-6749618916609314816-YPnW)
 * [Short Notes on -Open source #machinelearning Tracking System](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-datascience-mlflow-activity-6759484697518096384-Szi9)
+* [The best example of Randomness is - #machinelearning model in Production. 🔐💭🔎](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-infrastructure-datascientists-activity-6759792666403246081-Jq3Q)
 
 ## Paper
 
@@ -105,6 +110,7 @@
 * [Apache Calcite is a dynamic data management framework 🎉📚🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apachecalcite-activity-6751114208450015232-67Wn)
 * [Lakehouse - A Paper on new Generation of #datawarehouse technology 💡🔎💡](https://www.linkedin.com/posts/iamabhishekchoudhary_datawarehouse-apacheparquet-machinelearning-activity-6747813594395668480-hepU)
 * [Calvin: Fast Distributed Transactions for Partitioned Database Systems 📝📝](https://www.linkedin.com/posts/iamabhishekchoudhary_calvin-fast-distributed-transactions-activity-6760230219019354113-b-Bi)
+* [Presto or Trino - #SQL on Everything ( The Design, Motivation & Performance) #presto 💭🎊💡](https://www.linkedin.com/posts/iamabhishekchoudhary_trinoprestosqloneverything-activity-6759416018025680896-DPfu)
 
 
 #### NA
