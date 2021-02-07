@@ -3,10 +3,10 @@
 ![](sketchnotes/background.jpeg)
 
 ## Weekly Digest
-* [Design - Exactly Once Delivery & Transactional Messaging in #apachekafka 🎊📋🎊](https://www.linkedin.com/posts/iamabhishekchoudhary_exactlyoncekafka-activity-6762359693802299392-Gch3)
-* [Exploring Kubernetes Operator Pattern 💡](https://www.linkedin.com/posts/iamabhishekchoudhary_exploring-kubernetes-operator-pattern-activity-6762000800911814656-Jre7)
-* [The Hop Orchestration Platform, or Apache #Hop (Incubating), aims to facilitate all aspects of data and metadata orchestration 💯💡⭐](https://www.linkedin.com/posts/iamabhishekchoudhary_hop-apachespark-apacheflink-activity-6761641585437396993-ydHg)
-* [Architecting a Kubernetes Infrastructure 💯](https://www.linkedin.com/posts/iamabhishekchoudhary_a-deep-dive-into-architecting-a-kubernetes-activity-6761257898438918144-N74g)
+* [Docker is an interal part of Data Engineering ML pipeline & that makes security 🔐 extremely essential](https://www.linkedin.com/posts/iamabhishekchoudhary_docker-security-activity-6763766659426660353-_MIa)
+* [Getting started with Dataengineering Volume 5 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-infrastructure-docker-activity-6763429524764975104-lVvy)
+* [Ballista - Distributed computing platform built primarily on Rust and powered by Apache Arrow](https://www.linkedin.com/posts/iamabhishekchoudhary_ballista-a-distributed-compute-platform-activity-6763021778580246528-Zwj8)
+* [Design - Exactly Once Delivery & Transactional Messaging in Apache Kafka](https://www.linkedin.com/posts/iamabhishekchoudhary_exactlyoncekafka-activity-6762359693802299392-Gch3)
 
 
 
@@ -23,6 +23,7 @@
 * [Dagster Release 0.10.0 - Everything about Exactly-once, Fault-Tolerant Scheduling - Extremely Important Release 🎉🎉🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_dagster-machinelearning-kubernetes-activity-6757931107041255424-KAG1)
 * [#getdbt or Data Build Tools interface across all major Data Workflow Management Platform 💯✨🔥](https://www.linkedin.com/posts/iamabhishekchoudhary_getdbt-apacheairflow-dagster-activity-6750389785275240448-N8t_)
 * [Apache Superset - An #opensource Fully Featured Business Intelligence Application 🎊🎊🎊](https://www.linkedin.com/posts/iamabhishekchoudhary_apache-superset-10-is-out-activity-6759044550578229248-rerO)
+* [The Hop Orchestration Platform, or Apache #Hop (Incubating), aims to facilitate all aspects of data and metadata orchestration 💯💡⭐](https://www.linkedin.com/posts/iamabhishekchoudhary_hop-apachespark-apacheflink-activity-6761641585437396993-ydHg)
 
 #### Level 1
 
@@ -51,6 +52,7 @@
 * [Apache Beam for Search: An Introduction & Addressing the challenge of the Time Problem 🔐💡🔒](https://www.linkedin.com/posts/iamabhishekchoudhary_apachebeam-apachekafka-dataengineering-activity-6753591516708573184-1-p6)
 * [Nextflow is a Workflow Manager exclusively for #bioinformatics 🩹💊🩹](https://www.linkedin.com/posts/iamabhishekchoudhary_bioinformatics-distributedsystems-kubernetes-activity-6749644503558238209-ufTg)
 * [#apachespark Project Zen Update - Making PySpark Better 💡🔗💡](https://www.linkedin.com/posts/iamabhishekchoudhary_project-zen-improving-apache-spark-for-python-activity-6748904711069474816-3iQN)
+* [Design - Exactly Once Delivery & Transactional Messaging in #apachekafka 🎊📋🎊](https://www.linkedin.com/posts/iamabhishekchoudhary_exactlyoncekafka-activity-6762359693802299392-Gch3)
 
 
 #### Infrastructure
@@ -61,6 +63,8 @@
 * [datapipelines Dataframe APi is now available with #apachebeam 💯🔥💯](https://www.linkedin.com/posts/iamabhishekchoudhary_datapipelines-apachebeam-python-activity-6748167921433948160-oWfT)
 * [Disaster Recovery for Multi-Region Apache Kafka & Data Consumption using #apacheflink 🔅🎉🔅](https://www.linkedin.com/posts/iamabhishekchoudhary_disaster-recovery-for-multi-region-kafka-activity-6747422409218940928-70Rf)
 * [Kubernetes Api Structure 💯✔️💯](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-dataengineering-machinelearning-activity-6759074145817944064-dHIl)
+* [Architecting a Kubernetes Infrastructure 💯](https://www.linkedin.com/posts/iamabhishekchoudhary_a-deep-dive-into-architecting-a-kubernetes-activity-6761257898438918144-N74g)
+* [Exploring Kubernetes Operator Pattern 💡](https://www.linkedin.com/posts/iamabhishekchoudhary_exploring-kubernetes-operator-pattern-activity-6762000800911814656-Jre7)
 
 
 ## Machine Learning
