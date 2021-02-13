@@ -3,10 +3,14 @@
 ![](sketchnotes/background.jpeg)
 
 ## Weekly Digest
-* [Docker is an interal part of Data Engineering ML pipeline & that makes security 🔐 extremely essential](https://www.linkedin.com/posts/iamabhishekchoudhary_docker-security-activity-6763766659426660353-_MIa)
-* [Getting started with Dataengineering Volume 5 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-infrastructure-docker-activity-6763429524764975104-lVvy)
-* [Ballista - Distributed computing platform built primarily on Rust and powered by Apache Arrow](https://www.linkedin.com/posts/iamabhishekchoudhary_ballista-a-distributed-compute-platform-activity-6763021778580246528-Zwj8)
-* [Design - Exactly Once Delivery & Transactional Messaging in Apache Kafka](https://www.linkedin.com/posts/iamabhishekchoudhary_exactlyoncekafka-activity-6762359693802299392-Gch3)
+* [ZooKeeper, a distributed, open-source coordination service for distributed applications](https://www.linkedin.com/posts/iamabhishekchoudhary_zookeeperpaper-activity-6764214157366620160-84rM)
+* [Apache Iceberg Partitioning is way better than Hive ! Hidden Partitioning makes everything easier! 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-dataengineering-bigdata-activity-6764569890650238976-0skJ)
+* [Trino aka #prestosql is different from Apache Spark SQL - Exclusively designed for Distributed SQL 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_prestosql-bigdata-apachespark-activity-6764906382325010432-qg00)
+* [Apache Kafka Paper : Distributed Messaging System for Log Processing](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafkapaper-activity-6765285530247684097-ufXy)
+* [Apache Spark is NOT a Map Reduce but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apachespark-mapreduce-dataengineering-activity-6765550560524476416-2c7f)
+* [Paper: Bigtable is a distributed storage system for managing structured data that is designed to scale to a very large size](https://www.linkedin.com/posts/iamabhishekchoudhary_bigdatagoogle-activity-6765973408174923776-jrJz)
+* [Apache Iceberg - Partition Evolution, its simple but its so amazing](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-dataengineering-datascience-activity-6766299661784403968-T_-i)
+
 
 
 
@@ -14,6 +18,7 @@
 
 
 #### Level 0
+* [Getting started with Dataengineering Volume 5 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-infrastructure-docker-activity-6763429524764975104-lVvy)
 * [Getting started with Data Engineering, volume 4 🎉💡](sketchnotes/Getting_started_with_de_vol4.PNG)
 * [Getting started with Data Engineering, volume 3 🎉💡](sketchnotes/Getting_started_with_de_vol3.png)
 * [Getting started with Data Engineering, volume 2 🎉💡](sketchnotes/Getting_started_with_de_vol2.png)
@@ -40,6 +45,7 @@
 * [Redpanda -A NON-JVM Streaming Platform for mission critical workloads 💡🎉🔆](https://www.linkedin.com/posts/iamabhishekchoudhary_redpanda-activity-6749640173656559616-Ol6C)
 * [Apache Hudi - Turn Batch Jobs to Incremental Model | Complete file management on a Data Lake](https://www.linkedin.com/posts/iamabhishekchoudhary_building-a-large-scale-transactional-data-activity-6760855681277980672-kiZF)
 * [Apache Iceberg - an open table format for huge analytic datasets](https://www.linkedin.com/posts/iamabhishekchoudhary_apache-iceberg-activity-6760465145954131968-v0tp)
+* [Ballista - Distributed computing platform built primarily on Rust and powered by Apache Arrow](https://www.linkedin.com/posts/iamabhishekchoudhary_ballista-a-distributed-compute-platform-activity-6763021778580246528-Zwj8)
 
 
 #### Gyaan
@@ -65,7 +71,7 @@
 * [Kubernetes Api Structure 💯✔️💯](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-dataengineering-machinelearning-activity-6759074145817944064-dHIl)
 * [Architecting a Kubernetes Infrastructure 💯](https://www.linkedin.com/posts/iamabhishekchoudhary_a-deep-dive-into-architecting-a-kubernetes-activity-6761257898438918144-N74g)
 * [Exploring Kubernetes Operator Pattern 💡](https://www.linkedin.com/posts/iamabhishekchoudhary_exploring-kubernetes-operator-pattern-activity-6762000800911814656-Jre7)
-
+* [Docker is an interal part of Data Engineering ML pipeline & that makes security 🔐 extremely essential](https://www.linkedin.com/posts/iamabhishekchoudhary_docker-security-activity-6763766659426660353-_MIa)
 
 ## Machine Learning
 
@@ -115,6 +121,7 @@
 * [Lakehouse - A Paper on new Generation of #datawarehouse technology 💡🔎💡](https://www.linkedin.com/posts/iamabhishekchoudhary_datawarehouse-apacheparquet-machinelearning-activity-6747813594395668480-hepU)
 * [Calvin: Fast Distributed Transactions for Partitioned Database Systems 📝📝](https://www.linkedin.com/posts/iamabhishekchoudhary_calvin-fast-distributed-transactions-activity-6760230219019354113-b-Bi)
 * [Presto or Trino - #SQL on Everything ( The Design, Motivation & Performance) #presto 💭🎊💡](https://www.linkedin.com/posts/iamabhishekchoudhary_trinoprestosqloneverything-activity-6759416018025680896-DPfu)
+* [Design - Exactly Once Delivery & Transactional Messaging in Apache Kafka](https://www.linkedin.com/posts/iamabhishekchoudhary_exactlyoncekafka-activity-6762359693802299392-Gch3)
 
 
 #### NA
