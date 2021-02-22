@@ -3,13 +3,11 @@
 ![](sketchnotes/background.jpeg)
 
 ## Weekly Digest
-* [ZooKeeper, a distributed, open-source coordination service for distributed applications](https://www.linkedin.com/posts/iamabhishekchoudhary_zookeeperpaper-activity-6764214157366620160-84rM)
-* [Apache Iceberg Partitioning is way better than Hive ! Hidden Partitioning makes everything easier! 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-dataengineering-bigdata-activity-6764569890650238976-0skJ)
-* [Trino aka #prestosql is different from Apache Spark SQL - Exclusively designed for Distributed SQL 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_prestosql-bigdata-apachespark-activity-6764906382325010432-qg00)
-* [Apache Kafka Paper : Distributed Messaging System for Log Processing](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafkapaper-activity-6765285530247684097-ufXy)
-* [Apache Spark is NOT a Map Reduce but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apachespark-mapreduce-dataengineering-activity-6765550560524476416-2c7f)
-* [Paper: Bigtable is a distributed storage system for managing structured data that is designed to scale to a very large size](https://www.linkedin.com/posts/iamabhishekchoudhary_bigdatagoogle-activity-6765973408174923776-jrJz)
-* [Apache Iceberg - Partition Evolution, its simple but its so amazing](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-dataengineering-datascience-activity-6766299661784403968-T_-i)
+
+* [Paper: Ground is an open-source data context service, a system to manage all the information that informs the use of data](https://www.linkedin.com/posts/iamabhishekchoudhary_metadatadatacontextservice-activity-6767048256766697472-0A8Q)
+* [Apache Hudi - Design Principles](https://www.linkedin.com/posts/iamabhishekchoudhary_apachehudi-hadoop-streamprocessing-activity-6767445258792947712-m9c2)
+* [OpenTelemetry specification V1.0](https://www.linkedin.com/posts/iamabhishekchoudhary_opentelemetry-specification-v100-tracing-activity-6767783538310873089-N9q5)
+
 
 
 
@@ -29,6 +27,9 @@
 * [#getdbt or Data Build Tools interface across all major Data Workflow Management Platform 💯✨🔥](https://www.linkedin.com/posts/iamabhishekchoudhary_getdbt-apacheairflow-dagster-activity-6750389785275240448-N8t_)
 * [Apache Superset - An #opensource Fully Featured Business Intelligence Application 🎊🎊🎊](https://www.linkedin.com/posts/iamabhishekchoudhary_apache-superset-10-is-out-activity-6759044550578229248-rerO)
 * [The Hop Orchestration Platform, or Apache #Hop (Incubating), aims to facilitate all aspects of data and metadata orchestration 💯💡⭐](https://www.linkedin.com/posts/iamabhishekchoudhary_hop-apachespark-apacheflink-activity-6761641585437396993-ydHg)
+* [Apache Iceberg Partitioning is way better than Hive ! Hidden Partitioning makes everything easier! 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-dataengineering-bigdata-activity-6764569890650238976-0skJ)
+* [Trino aka #prestosql is different from Apache Spark SQL - Exclusively designed for Distributed SQL 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_prestosql-bigdata-apachespark-activity-6764906382325010432-qg00)
+* [Apache Spark is NOT a Map Reduce but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apachespark-mapreduce-dataengineering-activity-6765550560524476416-2c7f)
 
 #### Level 1
 
@@ -46,7 +47,8 @@
 * [Apache Hudi - Turn Batch Jobs to Incremental Model | Complete file management on a Data Lake](https://www.linkedin.com/posts/iamabhishekchoudhary_building-a-large-scale-transactional-data-activity-6760855681277980672-kiZF)
 * [Apache Iceberg - an open table format for huge analytic datasets](https://www.linkedin.com/posts/iamabhishekchoudhary_apache-iceberg-activity-6760465145954131968-v0tp)
 * [Ballista - Distributed computing platform built primarily on Rust and powered by Apache Arrow](https://www.linkedin.com/posts/iamabhishekchoudhary_ballista-a-distributed-compute-platform-activity-6763021778580246528-Zwj8)
-
+* [ZooKeeper, a distributed, open-source coordination service for distributed applications](https://www.linkedin.com/posts/iamabhishekchoudhary_zookeeperpaper-activity-6764214157366620160-84rM)
+* [Apache Iceberg - Partition Evolution, its simple but its so amazing](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-dataengineering-datascience-activity-6766299661784403968-T_-i)
 
 #### Gyaan
 
@@ -122,6 +124,9 @@
 * [Calvin: Fast Distributed Transactions for Partitioned Database Systems 📝📝](https://www.linkedin.com/posts/iamabhishekchoudhary_calvin-fast-distributed-transactions-activity-6760230219019354113-b-Bi)
 * [Presto or Trino - #SQL on Everything ( The Design, Motivation & Performance) #presto 💭🎊💡](https://www.linkedin.com/posts/iamabhishekchoudhary_trinoprestosqloneverything-activity-6759416018025680896-DPfu)
 * [Design - Exactly Once Delivery & Transactional Messaging in Apache Kafka](https://www.linkedin.com/posts/iamabhishekchoudhary_exactlyoncekafka-activity-6762359693802299392-Gch3)
+* [Apache Kafka Paper : Distributed Messaging System for Log Processing](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafkapaper-activity-6765285530247684097-ufXy)
+
+* [Paper: Bigtable is a distributed storage system for managing structured data that is designed to scale to a very large size](https://www.linkedin.com/posts/iamabhishekchoudhary_bigdatagoogle-activity-6765973408174923776-jrJz)
 
 
 #### NA
