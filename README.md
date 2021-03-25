@@ -4,9 +4,16 @@
 
 ## Weekly Digest
 
-
-
-
+* [A very normal Data Engineering work 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-python-kubernetes-activity-6772461203500384256-yrAH)
+* [What can go wrong in Distributed Data Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineers-dataengineering-machinelearning-activity-6771387632715935744-wZCk)
+* [The Berkeley View on Cloud Computing - Paper](https://www.linkedin.com/posts/iamabhishekchoudhary_serverlesscomputing-activity-6773574741639917570-uEB5)
+* [Dolt is Git for Data 🎊](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-bigdata-datascience-activity-6774623291329060864-QKYb)
+* [Everything Around PySpark Pandas UDF 📖](https://www.linkedin.com/posts/iamabhishekchoudhary_revisitingpandasudf-activity-6775378803897221120-rS3z)
+* [Architect and build an #machinelearning use case end to end using Amazon SageMaker 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_architect-and-build-the-full-machine-learning-activity-6775727947325214721-iYAW)
+* [Around Data Discovery or Metadata Management Platforms](https://www.linkedin.com/posts/iamabhishekchoudhary_datadiscovery-metadatamanagement-datascientists-activity-6777238261258682368-fkGa)
+* [Amazon S3 Object Lambda - Provide Different Views of Data to Multiple Applications](https://www.linkedin.com/posts/iamabhishekchoudhary_introducing-amazon-s3-object-lambda-use-activity-6778582018067378176-fzvy)
+* [The Google File System - The Paper 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_the-google-file-system-paper-activity-6778681429632049152-EF03)
+* [Toward Better Data Culture From First Principles by Ube](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-dataengineer-bigdata-activity-6780824810315403264-e0hC)
 
 
 
@@ -14,6 +21,7 @@
 
 
 #### Level 0
+* [Getting started with #dataengineering Volume 6 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-datapipelines-dag-activity-6770259833363980288-7biE)
 * [Getting started with Dataengineering Volume 5 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-infrastructure-docker-activity-6763429524764975104-lVvy)
 * [Getting started with Data Engineering, volume 4 🎉💡](sketchnotes/Getting_started_with_de_vol4.PNG)
 * [Getting started with Data Engineering, volume 3 🎉💡](sketchnotes/Getting_started_with_de_vol3.png)
@@ -62,6 +70,12 @@
 * [Nextflow is a Workflow Manager exclusively for #bioinformatics 🩹💊🩹](https://www.linkedin.com/posts/iamabhishekchoudhary_bioinformatics-distributedsystems-kubernetes-activity-6749644503558238209-ufTg)
 * [#apachespark Project Zen Update - Making PySpark Better 💡🔗💡](https://www.linkedin.com/posts/iamabhishekchoudhary_project-zen-improving-apache-spark-for-python-activity-6748904711069474816-3iQN)
 * [Design - Exactly Once Delivery & Transactional Messaging in #apachekafka 🎊📋🎊](https://www.linkedin.com/posts/iamabhishekchoudhary_exactlyoncekafka-activity-6762359693802299392-Gch3)
+* [underrated but important skill of a Data Engineer](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineer-datascience-dataengineering-activity-6775777891335647232-6573)
+* [Fallacies of Distributed Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-distributedsystems-cloud-activity-6776439768591998976-aE6h)
+* [As a Data Engineer, some Essentials I did which really helped Data Scientists and the Team](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineer-datascientists-kubernetes-activity-6779784194651504640-zIUP)
+
+
+
 
 
 #### Infrastructure
@@ -75,6 +89,8 @@
 * [Architecting a Kubernetes Infrastructure 💯](https://www.linkedin.com/posts/iamabhishekchoudhary_a-deep-dive-into-architecting-a-kubernetes-activity-6761257898438918144-N74g)
 * [Exploring Kubernetes Operator Pattern 💡](https://www.linkedin.com/posts/iamabhishekchoudhary_exploring-kubernetes-operator-pattern-activity-6762000800911814656-Jre7)
 * [Docker is an interal part of Data Engineering ML pipeline & that makes security 🔐 extremely essential](https://www.linkedin.com/posts/iamabhishekchoudhary_docker-security-activity-6763766659426660353-_MIa)
+* [Rack awareness for #apachekafka Streams Proposal 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafka-kafkastreams-dataengineering-activity-6779000842264592384-NA4J)
+
 
 ## Machine Learning
 
@@ -102,6 +118,7 @@
 * [Dagster is a data orchestrator for machine learning, analytics, and ETL - Officially #machinelearning driven 🥇🥇🥇](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-dagster-apacheairflow-activity-6749618916609314816-YPnW)
 * [Short Notes on -Open source #machinelearning Tracking System](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-datascience-mlflow-activity-6759484697518096384-Szi9)
 * [The best example of Randomness is - #machinelearning model in Production. 🔐💭🔎](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-infrastructure-datascientists-activity-6759792666403246081-Jq3Q)
+* [Flyte is declarative, structured, and highly scalable cloud-native workflow orchestration platform for Distributed Machine Learning](https://www.linkedin.com/posts/iamabhishekchoudhary_mlops-golang-datalineage-activity-6778218137268625408-WWdm)
 
 ## Paper
 
@@ -129,6 +146,9 @@
 
 * [Paper: Bigtable is a distributed storage system for managing structured data that is designed to scale to a very large size](https://www.linkedin.com/posts/iamabhishekchoudhary_bigdatagoogle-activity-6765973408174923776-jrJz)
 * [Paper: Ground is an open-source data context service, a system to manage all the information that informs the use of data](https://www.linkedin.com/posts/iamabhishekchoudhary_metadatadatacontextservice-activity-6767048256766697472-0A8Q)
+* [Azure Data Lake Store(ADLS) is a fully-managed, elastic, scalable, and secure file system that supports #hadoop distributed file system (HDFS) and Cosmos semantics](https://www.linkedin.com/posts/iamabhishekchoudhary_azure-data-lake-store-activity-6776108273075589120-hqWr)
+* [An LFU (Least Frequently Used) Cache eviction algorithm of O(1) Runtime complexity](https://www.linkedin.com/posts/iamabhishekchoudhary_lfu-cache-eviction-scheme-activity-6780125496920346624-BfKP)
+
 
 
 #### NA
