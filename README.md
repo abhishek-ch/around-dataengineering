@@ -4,9 +4,7 @@
 
 ## Weekly Digest
 
-* [Paper: Ground is an open-source data context service, a system to manage all the information that informs the use of data](https://www.linkedin.com/posts/iamabhishekchoudhary_metadatadatacontextservice-activity-6767048256766697472-0A8Q)
-* [Apache Hudi - Design Principles](https://www.linkedin.com/posts/iamabhishekchoudhary_apachehudi-hadoop-streamprocessing-activity-6767445258792947712-m9c2)
-* [OpenTelemetry specification V1.0](https://www.linkedin.com/posts/iamabhishekchoudhary_opentelemetry-specification-v100-tracing-activity-6767783538310873089-N9q5)
+
 
 
 
@@ -30,6 +28,9 @@
 * [Apache Iceberg Partitioning is way better than Hive ! Hidden Partitioning makes everything easier! 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-dataengineering-bigdata-activity-6764569890650238976-0skJ)
 * [Trino aka #prestosql is different from Apache Spark SQL - Exclusively designed for Distributed SQL 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_prestosql-bigdata-apachespark-activity-6764906382325010432-qg00)
 * [Apache Spark is NOT a Map Reduce but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apachespark-mapreduce-dataengineering-activity-6765550560524476416-2c7f)
+* [Apache Hudi - Design Principles](https://www.linkedin.com/posts/iamabhishekchoudhary_apachehudi-hadoop-streamprocessing-activity-6767445258792947712-m9c2)
+* [OpenTelemetry specification V1.0](https://www.linkedin.com/posts/iamabhishekchoudhary_opentelemetry-specification-v100-tracing-activity-6767783538310873089-N9q5)
+
 
 #### Level 1
 
@@ -127,6 +128,7 @@
 * [Apache Kafka Paper : Distributed Messaging System for Log Processing](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafkapaper-activity-6765285530247684097-ufXy)
 
 * [Paper: Bigtable is a distributed storage system for managing structured data that is designed to scale to a very large size](https://www.linkedin.com/posts/iamabhishekchoudhary_bigdatagoogle-activity-6765973408174923776-jrJz)
+* [Paper: Ground is an open-source data context service, a system to manage all the information that informs the use of data](https://www.linkedin.com/posts/iamabhishekchoudhary_metadatadatacontextservice-activity-6767048256766697472-0A8Q)
 
 
 #### NA
