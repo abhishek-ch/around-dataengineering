@@ -143,7 +143,6 @@
 * [Presto or Trino - #SQL on Everything ( The Design, Motivation & Performance) #presto 💭🎊💡](https://www.linkedin.com/posts/iamabhishekchoudhary_trinoprestosqloneverything-activity-6759416018025680896-DPfu)
 * [Design - Exactly Once Delivery & Transactional Messaging in Apache Kafka](https://www.linkedin.com/posts/iamabhishekchoudhary_exactlyoncekafka-activity-6762359693802299392-Gch3)
 * [Apache Kafka Paper : Distributed Messaging System for Log Processing](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafkapaper-activity-6765285530247684097-ufXy)
-
 * [Paper: Bigtable is a distributed storage system for managing structured data that is designed to scale to a very large size](https://www.linkedin.com/posts/iamabhishekchoudhary_bigdatagoogle-activity-6765973408174923776-jrJz)
 * [Paper: Ground is an open-source data context service, a system to manage all the information that informs the use of data](https://www.linkedin.com/posts/iamabhishekchoudhary_metadatadatacontextservice-activity-6767048256766697472-0A8Q)
 * [Azure Data Lake Store(ADLS) is a fully-managed, elastic, scalable, and secure file system that supports #hadoop distributed file system (HDFS) and Cosmos semantics](https://www.linkedin.com/posts/iamabhishekchoudhary_azure-data-lake-store-activity-6776108273075589120-hqWr)
