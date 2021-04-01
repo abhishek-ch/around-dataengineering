@@ -4,16 +4,12 @@
 
 ## Weekly Digest
 
-* [A very normal Data Engineering work 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-python-kubernetes-activity-6772461203500384256-yrAH)
-* [What can go wrong in Distributed Data Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineers-dataengineering-machinelearning-activity-6771387632715935744-wZCk)
-* [The Berkeley View on Cloud Computing - Paper](https://www.linkedin.com/posts/iamabhishekchoudhary_serverlesscomputing-activity-6773574741639917570-uEB5)
-* [Dolt is Git for Data 🎊](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-bigdata-datascience-activity-6774623291329060864-QKYb)
-* [Everything Around PySpark Pandas UDF 📖](https://www.linkedin.com/posts/iamabhishekchoudhary_revisitingpandasudf-activity-6775378803897221120-rS3z)
-* [Architect and build an #machinelearning use case end to end using Amazon SageMaker 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_architect-and-build-the-full-machine-learning-activity-6775727947325214721-iYAW)
-* [Around Data Discovery or Metadata Management Platforms](https://www.linkedin.com/posts/iamabhishekchoudhary_datadiscovery-metadatamanagement-datascientists-activity-6777238261258682368-fkGa)
-* [Amazon S3 Object Lambda - Provide Different Views of Data to Multiple Applications](https://www.linkedin.com/posts/iamabhishekchoudhary_introducing-amazon-s3-object-lambda-use-activity-6778582018067378176-fzvy)
-* [The Google File System - The Paper 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_the-google-file-system-paper-activity-6778681429632049152-EF03)
-* [Toward Better Data Culture From First Principles by Ube](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-dataengineer-bigdata-activity-6780824810315403264-e0hC)
+* [Full Stack Data Engineer](https://www.linkedin.com/posts/iamabhishekchoudhary_hadoop-apachespark-kubernetes-activity-6781152322971074560-VWvK)
+* [Data cleaning is Hard but why](https://www.linkedin.com/posts/iamabhishekchoudhary_whys-it-hard-to-teach-data-cleaning-activity-6782684736637693953-JiLg)
+* [ApacheKafka without ZooKeeper Sneak Peak🔎](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafka-distributedsystems-zookeeper-activity-6782957154392432640-3s5r)
+* [Important skill-set of a Dataengineer - Reduce Cost](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineer-cloud-dataengineering-activity-6783023471485091840-2QfG)
+* [Fast and Reliable Schema-Agnostic Log Analytics Platform by Uber](https://www.linkedin.com/posts/iamabhishekchoudhary_elasticsearch-elk-dataengineering-activity-6783364868515934208-jhj6)
+
 
 
 
@@ -38,7 +34,8 @@
 * [Apache Spark is NOT a Map Reduce but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apachespark-mapreduce-dataengineering-activity-6765550560524476416-2c7f)
 * [Apache Hudi - Design Principles](https://www.linkedin.com/posts/iamabhishekchoudhary_apachehudi-hadoop-streamprocessing-activity-6767445258792947712-m9c2)
 * [OpenTelemetry specification V1.0](https://www.linkedin.com/posts/iamabhishekchoudhary_opentelemetry-specification-v100-tracing-activity-6767783538310873089-N9q5)
-
+* [Everything Around PySpark Pandas UDF 📖](https://www.linkedin.com/posts/iamabhishekchoudhary_revisitingpandasudf-activity-6775378803897221120-rS3z)
+* 
 
 #### Level 1
 
@@ -73,7 +70,11 @@
 * [underrated but important skill of a Data Engineer](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineer-datascience-dataengineering-activity-6775777891335647232-6573)
 * [Fallacies of Distributed Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-distributedsystems-cloud-activity-6776439768591998976-aE6h)
 * [As a Data Engineer, some Essentials I did which really helped Data Scientists and the Team](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineer-datascientists-kubernetes-activity-6779784194651504640-zIUP)
-
+* [A very normal Data Engineering work 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-python-kubernetes-activity-6772461203500384256-yrAH)
+* [What can go wrong in Distributed Data Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineers-dataengineering-machinelearning-activity-6771387632715935744-wZCk)
+* [Architect and build an #machinelearning use case end to end using Amazon SageMaker 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_architect-and-build-the-full-machine-learning-activity-6775727947325214721-iYAW)
+* [Around Data Discovery or Metadata Management Platforms](https://www.linkedin.com/posts/iamabhishekchoudhary_datadiscovery-metadatamanagement-datascientists-activity-6777238261258682368-fkGa)
+* [Amazon S3 Object Lambda - Provide Different Views of Data to Multiple Applications](https://www.linkedin.com/posts/iamabhishekchoudhary_introducing-amazon-s3-object-lambda-use-activity-6778582018067378176-fzvy)
 
 
 
@@ -90,6 +91,9 @@
 * [Exploring Kubernetes Operator Pattern 💡](https://www.linkedin.com/posts/iamabhishekchoudhary_exploring-kubernetes-operator-pattern-activity-6762000800911814656-Jre7)
 * [Docker is an interal part of Data Engineering ML pipeline & that makes security 🔐 extremely essential](https://www.linkedin.com/posts/iamabhishekchoudhary_docker-security-activity-6763766659426660353-_MIa)
 * [Rack awareness for #apachekafka Streams Proposal 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafka-kafkastreams-dataengineering-activity-6779000842264592384-NA4J)
+* [Dolt is Git for Data 🎊](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-bigdata-datascience-activity-6774623291329060864-QKYb)
+* [Toward Better Data Culture From First Principles by Ube](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-dataengineer-bigdata-activity-6780824810315403264-e0hC)
+
 
 
 ## Machine Learning
@@ -147,6 +151,8 @@
 * [Paper: Ground is an open-source data context service, a system to manage all the information that informs the use of data](https://www.linkedin.com/posts/iamabhishekchoudhary_metadatadatacontextservice-activity-6767048256766697472-0A8Q)
 * [Azure Data Lake Store(ADLS) is a fully-managed, elastic, scalable, and secure file system that supports #hadoop distributed file system (HDFS) and Cosmos semantics](https://www.linkedin.com/posts/iamabhishekchoudhary_azure-data-lake-store-activity-6776108273075589120-hqWr)
 * [An LFU (Least Frequently Used) Cache eviction algorithm of O(1) Runtime complexity](https://www.linkedin.com/posts/iamabhishekchoudhary_lfu-cache-eviction-scheme-activity-6780125496920346624-BfKP)
+* [The Berkeley View on Cloud Computing - Paper](https://www.linkedin.com/posts/iamabhishekchoudhary_serverlesscomputing-activity-6773574741639917570-uEB5)
+* [The Google File System - The Paper 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_the-google-file-system-paper-activity-6778681429632049152-EF03)
 
 
 
