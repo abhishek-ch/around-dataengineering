@@ -3,18 +3,19 @@
 ![](sketchnotes/background.jpeg)
 
 ## Weekly Digest
-
-* [Full Stack Data Engineer](https://www.linkedin.com/posts/iamabhishekchoudhary_hadoop-apachespark-kubernetes-activity-6781152322971074560-VWvK)
-* [Data cleaning is Hard but why](https://www.linkedin.com/posts/iamabhishekchoudhary_whys-it-hard-to-teach-data-cleaning-activity-6782684736637693953-JiLg)
-* [ApacheKafka without ZooKeeper Sneak Peak🔎](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafka-distributedsystems-zookeeper-activity-6782957154392432640-3s5r)
-* [Important skill-set of a Dataengineer - Reduce Cost](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineer-cloud-dataengineering-activity-6783023471485091840-2QfG)
-* [Fast and Reliable Schema-Agnostic Log Analytics Platform by Uber](https://www.linkedin.com/posts/iamabhishekchoudhary_elasticsearch-elk-dataengineering-activity-6783364868515934208-jhj6)
-
+* [Most exciting things about #dataengineering](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-distributedsystems-machinelearning-activity-6783666378680401920-E23H)
+* [The real impact of Disks on #rocksdb State Backend in Apache Flink](https://www.linkedin.com/posts/iamabhishekchoudhary_the-impact-of-disks-on-rocksdb-state-backend-activity-6784115938338906112-FTVY)
+* [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems📋](https://www.linkedin.com/posts/iamabhishekchoudhary_simple-testing-can-prevent-most-critical-failures-activity-6784411707830779904-ds3_)
+* [Buy vs Build for ML & Data Engineering Stack - An ongoing confusion 💰](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-machinelearning-engineering-activity-6785159719511228416-sGMU)
+* [LYRA : a new Open Source audio codec using #machinelearning to produce high-quality voice calls by Google](https://www.linkedin.com/posts/iamabhishekchoudhary_lyra-enabling-voice-calls-for-the-next-activity-6785271764810305536-a1nW)
+* [Everything on PyFlink - Python with Apache Flink](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheflink-dataengineering-python-activity-6785834728302948353-0I0R)
+* [Tips for Distributed System High Availability](https://www.linkedin.com/posts/iamabhishekchoudhary_tips-for-high-availability-activity-6785942817693855744-8KFF)
+* [interesting way of collaboration between a Dataengineer & Datascientis](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineer-datascientist-datascience-activity-6786211019640369152-QrFF)
+* [Building DistributedLog: High-performance replicated log service 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystems-dataengineering-bigdata-activity-6786283090441506816-kCob)
 
 
 
 ## The Data Engineering
-
 
 #### Level 0
 * [Getting started with #dataengineering Volume 6 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-datapipelines-dag-activity-6770259833363980288-7biE)
@@ -31,10 +32,12 @@
 * [The Hop Orchestration Platform, or Apache #Hop (Incubating), aims to facilitate all aspects of data and metadata orchestration 💯💡⭐](https://www.linkedin.com/posts/iamabhishekchoudhary_hop-apachespark-apacheflink-activity-6761641585437396993-ydHg)
 * [Apache Iceberg Partitioning is way better than Hive ! Hidden Partitioning makes everything easier! 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-dataengineering-bigdata-activity-6764569890650238976-0skJ)
 * [Trino aka #prestosql is different from Apache Spark SQL - Exclusively designed for Distributed SQL 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_prestosql-bigdata-apachespark-activity-6764906382325010432-qg00)
-* [Apache Spark is NOT a Map Reduce but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apachespark-mapreduce-dataengineering-activity-6765550560524476416-2c7f)
+* [Apache Spark is NOT a Map 
+but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apachespark-mapreduce-dataengineering-activity-6765550560524476416-2c7f)
 * [Apache Hudi - Design Principles](https://www.linkedin.com/posts/iamabhishekchoudhary_apachehudi-hadoop-streamprocessing-activity-6767445258792947712-m9c2)
 * [OpenTelemetry specification V1.0](https://www.linkedin.com/posts/iamabhishekchoudhary_opentelemetry-specification-v100-tracing-activity-6767783538310873089-N9q5)
 * [Everything Around PySpark Pandas UDF 📖](https://www.linkedin.com/posts/iamabhishekchoudhary_revisitingpandasudf-activity-6775378803897221120-rS3z)
+* [Important skill-set of a Dataengineer - Reduce Cost](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineer-cloud-dataengineering-activity-6783023471485091840-2QfG)
 * 
 
 #### Level 1
@@ -55,6 +58,7 @@
 * [Ballista - Distributed computing platform built primarily on Rust and powered by Apache Arrow](https://www.linkedin.com/posts/iamabhishekchoudhary_ballista-a-distributed-compute-platform-activity-6763021778580246528-Zwj8)
 * [ZooKeeper, a distributed, open-source coordination service for distributed applications](https://www.linkedin.com/posts/iamabhishekchoudhary_zookeeperpaper-activity-6764214157366620160-84rM)
 * [Apache Iceberg - Partition Evolution, its simple but its so amazing](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-dataengineering-datascience-activity-6766299661784403968-T_-i)
+* [ApacheKafka without ZooKeeper Sneak Peak🔎](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafka-distributedsystems-zookeeper-activity-6782957154392432640-3s5r)
 
 #### Gyaan
 
@@ -75,7 +79,8 @@
 * [Architect and build an #machinelearning use case end to end using Amazon SageMaker 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_architect-and-build-the-full-machine-learning-activity-6775727947325214721-iYAW)
 * [Around Data Discovery or Metadata Management Platforms](https://www.linkedin.com/posts/iamabhishekchoudhary_datadiscovery-metadatamanagement-datascientists-activity-6777238261258682368-fkGa)
 * [Amazon S3 Object Lambda - Provide Different Views of Data to Multiple Applications](https://www.linkedin.com/posts/iamabhishekchoudhary_introducing-amazon-s3-object-lambda-use-activity-6778582018067378176-fzvy)
-
+* [Full Stack Data Engineer](https://www.linkedin.com/posts/iamabhishekchoudhary_hadoop-apachespark-kubernetes-activity-6781152322971074560-VWvK)
+* [Data cleaning is Hard but why](https://www.linkedin.com/posts/iamabhishekchoudhary_whys-it-hard-to-teach-data-cleaning-activity-6782684736637693953-JiLg)
 
 
 
@@ -93,7 +98,7 @@
 * [Rack awareness for #apachekafka Streams Proposal 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafka-kafkastreams-dataengineering-activity-6779000842264592384-NA4J)
 * [Dolt is Git for Data 🎊](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-bigdata-datascience-activity-6774623291329060864-QKYb)
 * [Toward Better Data Culture From First Principles by Ube](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-dataengineer-bigdata-activity-6780824810315403264-e0hC)
-
+* [Fast and Reliable Schema-Agnostic Log Analytics Platform by Uber](https://www.linkedin.com/posts/iamabhishekchoudhary_elasticsearch-elk-dataengineering-activity-6783364868515934208-jhj6)
 
 
 ## Machine Learning
