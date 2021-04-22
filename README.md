@@ -3,15 +3,18 @@
 ![](sketchnotes/background.jpeg)
 
 ## Weekly Digest
-* [Most exciting things about #dataengineering](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-distributedsystems-machinelearning-activity-6783666378680401920-E23H)
-* [The real impact of Disks on #rocksdb State Backend in Apache Flink](https://www.linkedin.com/posts/iamabhishekchoudhary_the-impact-of-disks-on-rocksdb-state-backend-activity-6784115938338906112-FTVY)
-* [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems📋](https://www.linkedin.com/posts/iamabhishekchoudhary_simple-testing-can-prevent-most-critical-failures-activity-6784411707830779904-ds3_)
-* [Buy vs Build for ML & Data Engineering Stack - An ongoing confusion 💰](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-machinelearning-engineering-activity-6785159719511228416-sGMU)
-* [LYRA : a new Open Source audio codec using #machinelearning to produce high-quality voice calls by Google](https://www.linkedin.com/posts/iamabhishekchoudhary_lyra-enabling-voice-calls-for-the-next-activity-6785271764810305536-a1nW)
-* [Everything on PyFlink - Python with Apache Flink](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheflink-dataengineering-python-activity-6785834728302948353-0I0R)
-* [Tips for Distributed System High Availability](https://www.linkedin.com/posts/iamabhishekchoudhary_tips-for-high-availability-activity-6785942817693855744-8KFF)
-* [interesting way of collaboration between a Dataengineer & Datascientis](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineer-datascientist-datascience-activity-6786211019640369152-QrFF)
+* [Tips for Distributed System High Availability 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_tips-for-high-availability-activity-6785942817693855744-8KFF)
 * [Building DistributedLog: High-performance replicated log service 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystems-dataengineering-bigdata-activity-6786283090441506816-kCob)
+* [How to scale Kubernetes with Assurance](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-infrastructure-dataengineering-activity-6786619511165501440-pcNS)
+* [Delta Lake Cheat Sheet](https://www.linkedin.com/posts/iamabhishekchoudhary_deltalakecheatsheet-activity-6787337208899678208-LSG3)
+* [Paper: Report on Distributed Deep Learning on Data Systems 📂](https://www.linkedin.com/posts/iamabhishekchoudhary_tech-report-of-distributed-deep-learning-activity-6787729738124341249-fFG8)
+* [Whiz: Data Analytics Execution Framework based on Intermediate Data](https://www.linkedin.com/posts/iamabhishekchoudhary_whiz-data-driven-analytics-execution-activity-6788003925300707328-2Yuy)
+* [Adding unlimited Nodes in a #dataengineering platform will eventually drop](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-distributedsystems-bigdata-activity-6788418825047080960-iTiv)
+* [ETL is an extremely important component for any modern business](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-datawarehouse-bigdata-activity-6789114504010625024-V-lz)
+* [Multiple criteria search at scale with Apache Pinot & Theta Sketches](https://www.linkedin.com/posts/iamabhishekchoudhary_solving-for-the-cardinality-of-set-intersection-activity-6789846326893969408-4exe)
+* [VM vs Containers - Similar but Different](https://www.linkedin.com/posts/iamabhishekchoudhary_docker-dataengineering-bigdata-activity-6790586642504724480-Zq0e)
+* [State of Trino aka PrestoSQL](https://www.linkedin.com/posts/iamabhishekchoudhary_trino-aka-prestosql-state-activity-6790920739471069184-Ipcq)
+
 
 
 
@@ -38,6 +41,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [OpenTelemetry specification V1.0](https://www.linkedin.com/posts/iamabhishekchoudhary_opentelemetry-specification-v100-tracing-activity-6767783538310873089-N9q5)
 * [Everything Around PySpark Pandas UDF 📖](https://www.linkedin.com/posts/iamabhishekchoudhary_revisitingpandasudf-activity-6775378803897221120-rS3z)
 * [Important skill-set of a Dataengineer - Reduce Cost](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineer-cloud-dataengineering-activity-6783023471485091840-2QfG)
+* [Everything on PyFlink - Python with Apache Flink](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheflink-dataengineering-python-activity-6785834728302948353-0I0R)
 * 
 
 #### Level 1
@@ -81,8 +85,12 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Amazon S3 Object Lambda - Provide Different Views of Data to Multiple Applications](https://www.linkedin.com/posts/iamabhishekchoudhary_introducing-amazon-s3-object-lambda-use-activity-6778582018067378176-fzvy)
 * [Full Stack Data Engineer](https://www.linkedin.com/posts/iamabhishekchoudhary_hadoop-apachespark-kubernetes-activity-6781152322971074560-VWvK)
 * [Data cleaning is Hard but why](https://www.linkedin.com/posts/iamabhishekchoudhary_whys-it-hard-to-teach-data-cleaning-activity-6782684736637693953-JiLg)
-
-
+* [Most exciting things about #dataengineering](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-distributedsystems-machinelearning-activity-6783666378680401920-E23H)
+* [The real impact of Disks on #rocksdb State Backend in Apache Flink](https://www.linkedin.com/posts/iamabhishekchoudhary_the-impact-of-disks-on-rocksdb-state-backend-activity-6784115938338906112-FTVY)
+* [Tips for Distributed System High Availability](https://www.linkedin.com/posts/iamabhishekchoudhary_tips-for-high-availability-activity-6785942817693855744-8KFF)
+* [interesting way of collaboration between a Dataengineer & Datascientis](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineer-datascientist-datascience-activity-6786211019640369152-QrFF)
+* [Building DistributedLog: High-performance replicated log service 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystems-dataengineering-bigdata-activity-6786283090441506816-kCob)
+* 
 
 #### Infrastructure
 
@@ -99,7 +107,8 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Dolt is Git for Data 🎊](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-bigdata-datascience-activity-6774623291329060864-QKYb)
 * [Toward Better Data Culture From First Principles by Ube](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-dataengineer-bigdata-activity-6780824810315403264-e0hC)
 * [Fast and Reliable Schema-Agnostic Log Analytics Platform by Uber](https://www.linkedin.com/posts/iamabhishekchoudhary_elasticsearch-elk-dataengineering-activity-6783364868515934208-jhj6)
-
+* [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems📋](https://www.linkedin.com/posts/iamabhishekchoudhary_simple-testing-can-prevent-most-critical-failures-activity-6784411707830779904-ds3_)
+* 
 
 ## Machine Learning
 
@@ -164,5 +173,6 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 #### NA
 * [Glow is an open-source toolkit for working with genomic data at biobank-scale and beyond using #apachespark & #deltalake 💊🎉💉](https://www.linkedin.com/posts/iamabhishekchoudhary_apachespark-deltalake-bioinformatics-activity-6758414696254119936-RCz5)
 * [ExPASy - Databases and software tools in proteomics, #genomics, phylogeny, systems biology, evolution, population genetics, and transcriptomics 💡💊💊](https://www.linkedin.com/posts/iamabhishekchoudhary_genomics-bioinformatics-expasy-activity-6750752435607793664-4M1Q)
+
 
 ## Cloud 
