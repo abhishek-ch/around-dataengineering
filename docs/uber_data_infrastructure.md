@@ -44,9 +44,9 @@ __Apache Pinot__
 
 _Pinot employs the lambda architecture to present a federated view between real-time and historical (offline) data._
 
-## Comparison with pinot:
-ElasticSearch: Higher memory with poor query latency compared to pinot
-Apache Druid: Pinot is similar in architecture to Apache Druid but has incorporated optimized data structures such as bit compressed forward indices, for lowering the data footprint. Starter indices is excellent
+### Comparison with pinot
+__ElasticSearch__ Higher memory with poor query latency compared to pinot
+__Apache Druid__ Pinot is similar in architecture to Apache Druid but has incorporated optimized data structures such as bit compressed forward indices, for lowering the data footprint. Starter indices is excellent
 
 * Apache Pinot is the only open-source real-time OLAP store that supports upsert. The key technical challenge for upsert is tracking the locations of the records with the same primary key. To overcome this challenge, we organize the input stream into multiple partitions by the primary key, and distribute each partition to a node for processing. As a result, all the records with the same primary key are assigned to the same node. A new routing strategy that dispatches subqueries over the segments of the same partition to the same node to ensure the integrity of the query result. Together they lead to a shared-nothing solution to this problem in Pinot.
 * Full SQL Support by integration Presto with Pinot
