@@ -3,7 +3,9 @@
 #### Dapper, Google’s production distributed systems tracing infrastructure, and describe how our design goals of low overhead, 
 application-level transparency, and ubiquitous deployment on a very large scale system were met.
 
-> Distributed Tracing System is for information about the behavior of complex #distributedsystems
+> Distributed Tracing System is for information about the behavior of complex #distributedsystems like Root Cause Analysis
+
+![image](https://user-images.githubusercontent.com/7579608/117311727-c04b2b80-ae84-11eb-9190-9255b5c5651a.png)
 
 
 _Dapper’s foremost measure of success has been its usefulness to developer and operations teams. 
@@ -28,4 +30,15 @@ links the message records back to the originating request
 
 __While black-box schemes are more portable than annotation-based methods, they need more data in order 
 to gain sufficient accuracy due to their reliance on statistical inference__
+
+[Paper Link](https://research.google/pubs/pub36356.pdf)
+
+Dapper is able to follow distributed control paths with
+near-zero intervention from application developers by relying almost entirely on instrumentation of a few common libraries!
+
+Dapper Stages:
+1. Span data is written to a local log file
+1. Dapper collectors reading the traces from daemon on production machines
+1. Collectors writing the trace to a single Bigtable repository
+
 
