@@ -3,14 +3,22 @@
 ![](sketchnotes/background.jpeg)
 
 ## Weekly Digest
-* [Dataengineering schedule breakdown, a very flexible estimate](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-distributedsystems-mlops-activity-6791336683653648384-RY3_)
-* [Paper: Real-time Data Infrastructure @ Uber](https://www.linkedin.com/posts/iamabhishekchoudhary_real-time-data-infrastructure-activity-6792384716063469568-UKc-)
-* [Diving Deep on S3 Consistency - Insightful](https://www.linkedin.com/posts/iamabhishekchoudhary_diving-deep-on-s3-consistency-activity-6793185152844513280-k48V)
-* [Paper: DBLog, A Watermark Based Change-Data-Capture Framework by Netflix](https://www.linkedin.com/posts/iamabhishekchoudhary_change-data-capture-dblog-activity-6793492331967365120-517C)
-* [Why? Data Versioning is a complicated problem for Dataengineers](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineers-apacheiceberg-deltalake-activity-6793880325475901440-Lsxx)
-* [Explainable AI Cheat Sheet](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-mlops-dataengineering-activity-6794228285145452545-YEwQ)
-* [Paper: Large Scale Distributed Systems Tracing Infrastructure](https://www.linkedin.com/posts/iamabhishekchoudhary_dapper-a-large-scale-distributed-tracing-infrastructure-activity-6796076018366070784-tHMZ)
-* [Why Data Discovery is important for Data Engineering](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-bigdata-datagovernance-activity-6797526472681771008-C-XM)
+
+* [The fundamental of writing SQL queries is different from](https://www.linkedin.com/posts/iamabhishekchoudhary_programming-dataengineering-datanalytics-activity-6797939314098520064-hMfd)
+* [Queue vs Log - Event driven Architecture](https://www.linkedin.com/posts/iamabhishekchoudhary_eventsourcing-distributedsystems-bigdata-activity-6798554566800523264-xa88)
+* [Paper:Paxos vs Raft: Distributed Consensus 📋](https://www.linkedin.com/posts/iamabhishekchoudhary_paxosvsraft-activity-6798953621909250048-4kgw)
+* [A typical Data Engineering Pipeline](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-data-bigdata-activity-6800075858917773312-W_Lc)
+* [Paper: Sorting in a #distributedsystem 📋](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystemsorting-activity-6800374901174792192-6C5O)
+* [Dagster vs Airflow - A comparison](https://www.linkedin.com/posts/iamabhishekchoudhary_moving-past-airflow-why-dagster-is-the-next-generation-activity-6800808471768969216-__wj)
+* [About Single Source of Truth in DataEngineering](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-machinelearning-dataanalytics-activity-6801541986638733312-81gM)
+* [Paper: A large scale analysis of hundreds of in-memory cache clusters](https://www.linkedin.com/posts/iamabhishekchoudhary_a-large-scale-analysis-in-memory-cache-clusters-activity-6802207087511298048-piMh)
+* [Top 5 ways to complicate a #dataengineering pipeline/application 💥](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-functionalprogramming-bigdata-activity-6802551801179631616-u6a0)
+* [Leader election is commonly used aka Master/Namenode/Leader/Driver](https://www.linkedin.com/posts/iamabhishekchoudhary_leaderelection-activity-6802979035270938624-VYYF)
+* [Getting started with #dataengineering from basics](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-mapreduce-docker-activity-6803350978432180224-GnWW)
+* ['Log' is a fundamental component of a Data Engineering Ecosystem](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-deltalake-dataengineering-activity-6804701361796636672-MOFm)
+* [Design & Architecture of Amazon Timestream - Streaming at Scale](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-data-dataengineering-activity-6805811689687281664-4edZ)
+
+
 
 
 ## The Data Engineering
@@ -38,6 +46,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Important skill-set of a Dataengineer - Reduce Cost](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineer-cloud-dataengineering-activity-6783023471485091840-2QfG)
 * [Everything on PyFlink - Python with Apache Flink](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheflink-dataengineering-python-activity-6785834728302948353-0I0R)
 * [Delta Lake Cheat Sheet](https://www.linkedin.com/posts/iamabhishekchoudhary_deltalakecheatsheet-activity-6787337208899678208-LSG3)
+* [Dataengineering schedule breakdown, a very flexible estimate](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-distributedsystems-mlops-activity-6791336683653648384-RY3_)
 
 
 #### Level 1
@@ -59,6 +68,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [ZooKeeper, a distributed, open-source coordination service for distributed applications](https://www.linkedin.com/posts/iamabhishekchoudhary_zookeeperpaper-activity-6764214157366620160-84rM)
 * [Apache Iceberg - Partition Evolution, its simple but its so amazing](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-dataengineering-datascience-activity-6766299661784403968-T_-i)
 * [ApacheKafka without ZooKeeper Sneak Peak🔎](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafka-distributedsystems-zookeeper-activity-6782957154392432640-3s5r)
+* [Why Data Discovery is important for Data Engineering](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-bigdata-datagovernance-activity-6797526472681771008-C-XM)
 
 #### Level 1.1
 * [Multiple criteria search at scale with Apache Pinot & Theta Sketches](https://www.linkedin.com/posts/iamabhishekchoudhary_solving-for-the-cardinality-of-set-intersection-activity-6789846326893969408-4exe)
@@ -115,7 +125,9 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Toward Better Data Culture From First Principles by Ube](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-dataengineer-bigdata-activity-6780824810315403264-e0hC)
 * [Fast and Reliable Schema-Agnostic Log Analytics Platform by Uber](https://www.linkedin.com/posts/iamabhishekchoudhary_elasticsearch-elk-dataengineering-activity-6783364868515934208-jhj6)
 * [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems📋](https://www.linkedin.com/posts/iamabhishekchoudhary_simple-testing-can-prevent-most-critical-failures-activity-6784411707830779904-ds3_)
-* 
+* [Diving Deep on S3 Consistency - Insightful](https://www.linkedin.com/posts/iamabhishekchoudhary_diving-deep-on-s3-consistency-activity-6793185152844513280-k48V)
+
+
 
 ## Machine Learning
 
@@ -126,6 +138,9 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Deploying #machinelearning model in Production is really HARD but #MLOps can fix that.](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-mlops-datascience-activity-6752596084746436609-r99U)
 * [List of #machinelearning & #dataengineering Technologies will be following in 2021 🎉💡🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-dataengineering-getdbt-activity-6751786250769903616-sEUb)
 * [MLOps - ZenML #machinelearning with reproducible pipelines ✅💯✅](https://www.linkedin.com/posts/iamabhishekchoudhary_maiot-iozenml-activity-6748236907542577152-nBOj)
+* [Why? Data Versioning is a complicated problem for Dataengineers](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineers-apacheiceberg-deltalake-activity-6793880325475901440-Lsxx)
+* [Explainable AI Cheat Sheet](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-mlops-dataengineering-activity-6794228285145452545-YEwQ)
+
 
 #### Project
 * [Streamlit Healthcare Machine Learning Data App](https://github.com/abhishek-ch/streamlit-healthcare-ML-App)
@@ -179,6 +194,11 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [The Google File System - The Paper 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_the-google-file-system-paper-activity-6778681429632049152-EF03)
 * [Paper: Report on Distributed Deep Learning on Data Systems 📂](https://www.linkedin.com/posts/iamabhishekchoudhary_tech-report-of-distributed-deep-learning-activity-6787729738124341249-fFG8)
 
+#### Set 2
+
+* [Paper: Real-time Data Infrastructure @ Uber](https://www.linkedin.com/posts/iamabhishekchoudhary_real-time-data-infrastructure-activity-6792384716063469568-UKc-)
+* [Paper: DBLog, A Watermark Based Change-Data-Capture Framework by Netflix](https://www.linkedin.com/posts/iamabhishekchoudhary_change-data-capture-dblog-activity-6793492331967365120-517C)
+* [Paper: Large Scale Distributed Systems Tracing Infrastructure](https://www.linkedin.com/posts/iamabhishekchoudhary_dapper-a-large-scale-distributed-tracing-infrastructure-activity-6796076018366070784-tHMZ)
 
 #### NA
 * [Glow is an open-source toolkit for working with genomic data at biobank-scale and beyond using #apachespark & #deltalake 💊🎉💉](https://www.linkedin.com/posts/iamabhishekchoudhary_apachespark-deltalake-bioinformatics-activity-6758414696254119936-RCz5)
