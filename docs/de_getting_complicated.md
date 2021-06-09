@@ -25,3 +25,7 @@ complex with growing nodes.
 necessity than Good to have! 
 
 * The trend of `every data is important \ data is gold` makes data management a nightmare. Data Governance and security for various kinds of data needs many full-time engineers.
+
+* Artificial Intelligence or Machine Learning created a whole new dimension for data products. The data requirements are different than traditional engineering. Understanding & building ML-based solutions need a lot of time.
+
+* With time, products are shifting more towards Real-time than batch. Now real-time analytics are more preferred compared to daily/weekly. Real-time processing makes everything 10-times more complicated. 
