@@ -20,7 +20,7 @@ which are also called the participant and the coordinator based on their roles i
 
 ### Prepare Phase
 
-* Once each database worker locally completes its transaction, it reponses to the coordinator with __DONE__ message.
+* Once each database worker locally completes its transaction, it reponses to the coordinator with a __DONE__ message.
 * Once the coordinator receives the message from all the workers, it sends back __PREPARE__
 * Each worker responds to the __PREPARE__ with __READY__
 * If any workers responds __NOT READY__, the coordinator broadcasts __ABORT__
@@ -30,7 +30,7 @@ which are also called the participant and the coordinator based on their roles i
 * Once the coordinator receives __READY__ from all workers, it broadcasts __COMMIT__ ( holds te details of the transaction)
 * Each worker applies the transaction and acknowledges with __DONE__
 
-_Coordinator confirms the transaction completed once it receives acknowledgements from all the workers_
+_Coordinator confirms the transaction completed once it receives acknowledgments from all the workers_
 
 
 ## Difference between Consensus & Atomic Commit
