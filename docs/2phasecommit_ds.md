@@ -9,6 +9,12 @@ Either all nodes must commit or all must abort!
 A distributed transaction system mainly consists of these two subsystems,
 which are also called the participant and the coordinator based on their roles in transaction execution.
 
+A distributed transaction system mainly consists of two subsystems, which are also called the participant and the coordinator based on their roles in transaction execution.
+
+![image](https://user-images.githubusercontent.com/7579608/123088946-a5c61500-d426-11eb-80eb-01016c301955.png)
+
+
+
 ## Steps
 
 ### Prepare Phase
