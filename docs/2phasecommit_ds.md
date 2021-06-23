@@ -1,5 +1,8 @@
 # Two-Phase Commit - Distributed System Transactions
 
+![image](https://user-images.githubusercontent.com/7579608/123090036-f8540100-d427-11eb-8637-5d1a852f4c03.png)
+
+
 In Distributed Systems, to achieve ACID, we need _Distributed Transactions_
 
 ## Atomicity Focus
