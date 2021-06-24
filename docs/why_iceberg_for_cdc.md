@@ -10,6 +10,7 @@ _Update Frequency expectations are High_
 
 > The incremental data is efficiently merged with previous full data based on a specific format. This enables the near-real-time import and real-time data read.
 
+_Copy ON Write mode ensures that the downstream data reads with the greatest performance, and the Merge On Read mode guarantees the performance of upstream data insertion, update, and deletion_
 
 ![image](https://user-images.githubusercontent.com/7579608/123259519-d5435300-d4f4-11eb-8e43-9f7c0db7420b.png)
 
