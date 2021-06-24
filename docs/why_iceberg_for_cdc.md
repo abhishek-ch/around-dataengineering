@@ -21,3 +21,6 @@ Iceberg contains two types of files:
 2. Table __metadata files__, including Snapshot files (snap-.avro), Manifest files (.avro), and TableMetadata files (*.json)
 
 ![image](https://user-images.githubusercontent.com/7579608/123260510-ef316580-d4f5-11eb-9805-b44a471377c7.png)
+
+Iceberg is a unified data lake storage architecture that supports various computing models and engines for analysis, including Spark, Presto, and Hive. The generated files are stored in column storage mode for later analysis.  
+Iceberg is designed for data lakes based on snapshots and supports incremental read. The Iceberg architecture is simple enough and has no online service nodes. Besides, Iceberg is a table-type middleware that allows the upstream platforms to customize their logic and services.
