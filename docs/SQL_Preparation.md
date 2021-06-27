@@ -10,3 +10,4 @@
 6. Learning SQL Youtube Series by Tina Huang https://www.youtube.com/watch?v=Td-cmLfQ7uU&list=PLVD3APpfd1tuXrXBWAntLx4tNaONro5dA
 7. SQL Zoo for practising different flavors https://sqlzoo.net/
 8. SQL Bolt interactive Tutorial https://sqlbolt.com/
+9. Db-Fiddle to practise SQL without huge setup https://www.db-fiddle.com/
