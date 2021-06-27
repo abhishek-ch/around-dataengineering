@@ -9,3 +9,4 @@
 5. Tricky SQL Questions https://towardsdatascience.com/2-tricky-sql-questions-you-might-be-asked-at-data-scientist-interviews-168f5226c023
 6. Learning SQL Youtube Series by Tina Huang https://www.youtube.com/watch?v=Td-cmLfQ7uU&list=PLVD3APpfd1tuXrXBWAntLx4tNaONro5dA
 7. SQL Zoo for practising different flavors https://sqlzoo.net/
+8. SQL Bolt interactive Tutorial https://sqlbolt.com/
