@@ -11,3 +11,4 @@
 7. SQL Zoo for practising different flavors https://sqlzoo.net/
 8. SQL Bolt interactive Tutorial https://sqlbolt.com/
 9. Db-Fiddle to practise SQL without huge setup https://www.db-fiddle.com/
+10. The Best Medium-Hard Data Analyst SQL Interview Questions  https://quip.com/2gwZArKuWk7W
