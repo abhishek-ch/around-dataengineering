@@ -8,6 +8,7 @@
 * [How To Manage And Monitor Apache Spark On Kubernetes](https://www.lightbend.com/blog/how-to-manage-monitor-spark-on-kubernetes-deep-dive-kubernetes-operator-for-spark)
 * [Git is hard: screwing up is easy, and figuring out how to fix your mistakes is fucking impossible](https://ohshitgit.com/)
 * [8 Practical Use Cases of Change Data Capture](https://medium.com/event-driven-utopia/8-practical-use-cases-of-change-data-capture-8f059da4c3b7)
+* [Apache Iceberg - Basics](https://2019.berlinbuzzwords.de/sites/2019.berlinbuzzwords.de/files/media/documents/buzzwords-iceberg.pdf) 
 
 
 ## Weekly Digest
