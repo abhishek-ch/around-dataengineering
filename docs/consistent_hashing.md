@@ -45,3 +45,8 @@ In consistent hashing when a Node is removed or added then the only key from tha
 To evenly distribute the load among Node when a Node is added or removed, it creates a fixed number of replicas ( known as virtual nodes) of each Node and distributed it along the circle. So instead of Node labels N1, N2 and N3, we will have N10 N11…N19, N20 N21…N29 and N30 N31…N39. The factor for a number of replicas is also known as weight, depends on the situation.
 
 
+## Notes
+
+There is a Red Black Tree Implementation of Consistent Hashing as its more memory efficient & non Collision Prone.
+read the full paper. https://www.akamai.com/uk/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf
+
