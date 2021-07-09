@@ -9,6 +9,7 @@
 * [Git is hard: screwing up is easy, and figuring out how to fix your mistakes is fucking impossible](https://ohshitgit.com/)
 * [8 Practical Use Cases of Change Data Capture](https://medium.com/event-driven-utopia/8-practical-use-cases-of-change-data-capture-8f059da4c3b7)
 * [Apache Iceberg - Basics](https://2019.berlinbuzzwords.de/sites/2019.berlinbuzzwords.de/files/media/documents/buzzwords-iceberg.pdf) 
+* [Apache Iceberg- Links](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/apache_iceberg_read.md)
 
 
 ## Weekly Digest
