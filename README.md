@@ -3,12 +3,11 @@
 ![](sketchnotes/background.jpeg)
 
 ## Interesting Reads
-* [The why and how of partitioning in Apache Iceberg](https://developer.ibm.com/technologies/artificial-intelligence/articles/the-why-and-how-of-partitioning-in-apache-iceberg/?utm_source=thenewstack&utm_medium=website&utm_campaign=platform)
+
 * [The What, Why, and When of Single-Table Design with DynamoDB](https://www.alexdebrie.com/posts/dynamodb-single-table/)
 * [How To Manage And Monitor Apache Spark On Kubernetes](https://www.lightbend.com/blog/how-to-manage-monitor-spark-on-kubernetes-deep-dive-kubernetes-operator-for-spark)
 * [Git is hard: screwing up is easy, and figuring out how to fix your mistakes is fucking impossible](https://ohshitgit.com/)
 * [8 Practical Use Cases of Change Data Capture](https://medium.com/event-driven-utopia/8-practical-use-cases-of-change-data-capture-8f059da4c3b7)
-* [Apache Iceberg - Basics](https://2019.berlinbuzzwords.de/sites/2019.berlinbuzzwords.de/files/media/documents/buzzwords-iceberg.pdf) 
 * [Apache Iceberg- Links](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/apache_iceberg_read.md)
 
 
