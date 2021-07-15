@@ -89,6 +89,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Leader election is commonly used aka Master/Namenode/Leader/Driver](https://www.linkedin.com/posts/iamabhishekchoudhary_leaderelection-activity-6802979035270938624-VYYF)
 * [Dagster vs Airflow - A comparison](https://www.linkedin.com/posts/iamabhishekchoudhary_moving-past-airflow-why-dagster-is-the-next-generation-activity-6800808471768969216-__wj)
 * [About Single Source of Truth in DataEngineering](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-machinelearning-dataanalytics-activity-6801541986638733312-81gM)
+* [Change Data Capture for Distributed Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_change-data-capture-for-distributed-databases-activity-6821429243944206336-HiJL)
 
 
 #### Gyaan
