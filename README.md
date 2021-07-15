@@ -9,6 +9,12 @@
 * [Git is hard: screwing up is easy, and figuring out how to fix your mistakes is fucking impossible](https://ohshitgit.com/)
 * [8 Practical Use Cases of Change Data Capture](https://medium.com/event-driven-utopia/8-practical-use-cases-of-change-data-capture-8f059da4c3b7)
 * [Apache Iceberg- Links](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/apache_iceberg_read.md)
+* [Kubernetes Port Forwarding Manager](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-kuberforwarder-dataengineering-activity-6821345311655555072-aEqx)
+* [Querying Parquet with Precision using DuckDB - Much faster compared to Pandas](https://www.linkedin.com/posts/iamabhishekchoudhary_querying-parquet-with-precision-using-duckdb-activity-6821024627578466304-TgRS)
+* [Building a NoSQL Database using Git](https://www.linkedin.com/posts/iamabhishekchoudhary_gitasnosqldatabase-activity-6820624465861390336-qwpo)
+* [Against SQL - An article on What is not good with #sql ](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-database-data-activity-6819964297423179776-OPr5)
+* [Using `EXPLAIN` for Data Problems - Things beyond SQL](https://www.linkedin.com/posts/iamabhishekchoudhary_databaseexplain-activity-6819573919389941760-euD5)
+* [What is Apache Pinot - Usecases & Architecture](https://www.linkedin.com/posts/iamabhishekchoudhary_building-latency-sensitive-user-facing-analytics-activity-6818810335286370304-gZAQ)
 
 
 ## Weekly Digest
