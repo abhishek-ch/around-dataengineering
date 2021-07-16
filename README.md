@@ -123,6 +123,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [The fundamental of writing SQL queries is different from](https://www.linkedin.com/posts/iamabhishekchoudhary_programming-dataengineering-datanalytics-activity-6797939314098520064-hMfd)
 * [A typical Data Engineering Pipeline](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-data-bigdata-activity-6800075858917773312-W_Lc)
 * ['Log' is a fundamental component of a Data Engineering Ecosystem](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-deltalake-dataengineering-activity-6804701361796636672-MOFm)
+* [Flink CDC](https://github.com/abhishek-ch/around-dataengineering/blob/master/flink_cdc.md)
 
 
 #### Infrastructure
