@@ -143,7 +143,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Fast and Reliable Schema-Agnostic Log Analytics Platform by Uber](https://www.linkedin.com/posts/iamabhishekchoudhary_elasticsearch-elk-dataengineering-activity-6783364868515934208-jhj6)
 * [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems📋](https://www.linkedin.com/posts/iamabhishekchoudhary_simple-testing-can-prevent-most-critical-failures-activity-6784411707830779904-ds3_)
 * [Diving Deep on S3 Consistency - Insightful](https://www.linkedin.com/posts/iamabhishekchoudhary_diving-deep-on-s3-consistency-activity-6793185152844513280-k48V)
-
+* [Ray- General Purpose ML Infrastructure](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/ray_distributed_ml.md)
 
 
 ## Machine Learning
