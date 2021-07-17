@@ -6,6 +6,8 @@ Actor(Stateful) is designed for #microservices & more complex computations.
 * Ray is Python native with core part written Cython Binding & scheduler is C++
 * Decentralized architecture gives better scheduling performance
 * Efficient Shared memory with Zero-copy read
+
+## Highlights
 - Feature processing in ETL clusters but Training data & Model Tuning in different clusters, leads to a system consist of different clusters 
 - Job Composition across multiple systems is a hard problem. Communication between heteregenous systems are usually in-efficient
 
