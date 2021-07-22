@@ -62,4 +62,4 @@ exceeds a configurable threshold. Finally,
 * Bloom filters are used to eliminate an unnecessary search within an SSTable file. Scans require that all levels be searched.
 
 Reference https://www.usenix.org/system/files/fast21-dong.pdf
-
+Other https://rockset.com/blog/rocksdb-is-eating-the-database-world/
