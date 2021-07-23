@@ -60,6 +60,25 @@ ref https://arxiv.org/abs/1503.00075#:~:text=We%20introduce%20the%20Tree%2DLSTM,
 - To retrieve the data, needs to search old disk resident parts of the tree, check in memory table and their contents before returning the result itself.
 - Writes are only addressing the memory resident table, while reads have to reconcile the data from everywhere, from memory and disk.
 
+### LSM Tree Merge
+
+- Disk resident and table files are immutable. They are written only once and never modified and can only be deleted on later stage.
+- if two tables hold the same value for the same key, meaning that an update has occurred, only the record with the latter or later timestamp will be picked and the previous one will be discarded. Since the read operation cannot physically remove the data from immutable data structure, we have to use something called dormant certificates, sometimes also called tombstones. It indicates that a record for a certain key has to be removed starting with a certain timestamp, and during the merge process records shadowed by these tombstones are going to be discarded.
+
+
+### Sorted String Table (SS Table)
+
+> Many modern LSM implementations such as RocksDB, Apache Cassandra, choose sorted string tables as their file format because of its simplicity. 
+
+- SS tables are persistent maps from keys to values ordered by the key. 
+- Structurally, SS tables are split in two parts. It's an index and the data block. The index block contains keys mapped to the block offsets, pointing to where the actual record is stored or located
+- Index is implemented using a format also with good look-up guarantees such as B-Tree, which is good for range scans, or if you just need point queries, you can use something like a hash table.
+
+> for the point queries, in order to find the value by the key, it can be done quickly by simply looking up the index and locating the data than following offset and reading the data from the data file
+
+#### Compaction
+- SS tables are immutable and are written sequentially and hold no reserved space for in-place modifications, if we had a single SS table, any insert, update, or delete operation would probably mean that we have to re-write the entire file.
+- In order to reduce the cost of reads, reconcile disk space caused by these shadowed records and reduce the amount of these tables that have to merged, the LSM Trees propose a process that reads complete SS tables from disk, merges them, and then writes them back. This process is called __Compaction__.
 
 
 Reference https://www.youtube.com/watch?v=wxcCHvQeZ-U
