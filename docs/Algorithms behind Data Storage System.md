@@ -50,5 +50,16 @@ able to return it to the user.
 - returning the data to different clients
 
 
+## LSM Tree
+ref https://arxiv.org/abs/1503.00075#:~:text=We%20introduce%20the%20Tree%2DLSTM,classification%20(Stanford%20Sentiment%20Treebank).
+
+- LSM Trees is an immutable disk resident, write-optimized data structure
+- Insert, update, and delete operations, and even for their sorted variants, do not require random IO
+- __Flush__: For sequential writes, LSM Trees batch up writes and updates in memory resident table using sorted data structures such as a binary search tree or a skip list. So anything that would allow you quickly searching; logarithmic look-up time would be pretty good. And when the size of this table, memory-based table is reaching a certain threshold, its contents are written on disk.
+- After a few flushes are performed and data ends up being split between multiple on-disk tables.
+- To retrieve the data, needs to search old disk resident parts of the tree, check in memory table and their contents before returning the result itself.
+- Writes are only addressing the memory resident table, while reads have to reconcile the data from everywhere, from memory and disk.
+
+
 
 Reference https://www.youtube.com/watch?v=wxcCHvQeZ-U
