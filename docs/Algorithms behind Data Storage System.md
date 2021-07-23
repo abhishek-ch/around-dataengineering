@@ -80,5 +80,22 @@ ref https://arxiv.org/abs/1503.00075#:~:text=We%20introduce%20the%20Tree%2DLSTM,
 - SS tables are immutable and are written sequentially and hold no reserved space for in-place modifications, if we had a single SS table, any insert, update, or delete operation would probably mean that we have to re-write the entire file.
 - In order to reduce the cost of reads, reconcile disk space caused by these shadowed records and reduce the amount of these tables that have to merged, the LSM Trees propose a process that reads complete SS tables from disk, merges them, and then writes them back. This process is called __Compaction__.
 
+* Immutable
+* Write-Optimized
+* Read Multiplexing
+* High Maintanence cost
+* Well-suited for concurrent Ops
+* Simple to implement
+
+
+## B-Tree
+
+![image](https://user-images.githubusercontent.com/7579608/126771723-36fe1686-ee28-4f03-872c-814fd66e4381.png)
+
+- B-Tree is sorted, which allows the sequential scans and simplifies look-ups pretty much the same as with SS tables that we just talked about. 
+- B-Trees are self-balancing, so there is no need to balance the tree during insertions and deletions. So the height is going to be uniform across the tree. 
+- when the B-Tree node is full, it has been split in two parts. When the occupancy of the neighboring nodes is low enough, the merged are going to be merged together. This also means that leafs, the bottom layer of the tree, are going to be always equidistant from the root of the tree.
+- B-Trees are mutable. So __inserts, updates, and deletes__ are performed on disk in place. In order to make this updates on in-place possible, B-Trees first have to locate the data, unlike LSM Trees that we just talked about. Additionally, in order to avoid resizing nodes during each update, B-Trees reserve some space for the future inserts and update operations. So these two things really set them apart from the LSM Trees.
+
 
 Reference https://www.youtube.com/watch?v=wxcCHvQeZ-U
