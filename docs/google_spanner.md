@@ -70,3 +70,4 @@ before(t) returns true if t has definitely not arrived, or t > now().latest.
 * https://www.youtube.com/watch?v=LaLT6EC7Trc&t=1867s
 * https://www.youtube.com/watch?v=C75kpQszAjs&list=PLFvZ-npsoTPLSmk3dze42oRe8kC-sjEfl
 * True time https://cloud.google.com/spanner/docs/true-time-external-consistency
+* Actual Paper https://research.google/pubs/pub39966/
