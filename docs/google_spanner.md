@@ -50,6 +50,8 @@ which users actually see the transactions wrt Global Clock (True Time)_
 
 ### True Time
 
+ref https://cloud.google.com/spanner/docs/true-time-external-consistency
+
 Spanner uses TrueTime API to assign a commit timestamps to transactions in the way that it satisfies external consistency:   
 _if a transaction T1 commits before another transaction T2 starts, then T1’s commit timestamp is smaller than T2’s._
 
@@ -64,3 +66,8 @@ after(t) returns true if t has definitely passed. E.g. t < now().earliest.
 before(t) returns true if t has definitely not arrived, or t > now().latest.
 ```
 
+
+## References
+
+https://www.youtube.com/watch?v=LaLT6EC7Trc&t=1867s
+https://www.youtube.com/watch?v=C75kpQszAjs&list=PLFvZ-npsoTPLSmk3dze42oRe8kC-sjEfl
