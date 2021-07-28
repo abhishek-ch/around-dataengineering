@@ -1,5 +1,8 @@
 # B-Tree Index and Postgres Indexing Resources
 
+![image](https://user-images.githubusercontent.com/7579608/127280521-c8a042bc-2cdd-4059-9c71-eb827f72f78f.png)
+
+
 1. Notes on PostgreSQL B-Tree Indexes https://pgdash.io/blog/postgres-btree-index.html 
 2. Efficient Use of PostgreSQL Indexes https://devcenter.heroku.com/articles/postgresql-indexes
 3. Fuzzy String Matching with Trigrams https://www.postgresonline.com/article_pfriendly/169.html
