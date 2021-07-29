@@ -57,6 +57,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Delta Lake Cheat Sheet](https://www.linkedin.com/posts/iamabhishekchoudhary_deltalakecheatsheet-activity-6787337208899678208-LSG3)
 * [Dataengineering schedule breakdown, a very flexible estimate](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-distributedsystems-mlops-activity-6791336683653648384-RY3_)
 * [Parquet - Introduction & Design, An OpenSource File Format](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheparquet-protocolbuffers-dataengineering-activity-6823244946166857729-0CZf)
+* [SQL - Avoiding Antipatterns](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlantipattern-activity-6826491257410396160-xX5P)
 
 #### Level 1
 
