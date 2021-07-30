@@ -11,6 +11,20 @@ FoundationDB adopts an unbundled architecture that decouples an
 - _built-in distributed configuration system_ 
 
 Each sub-system can be independently scaled. FoundationDB uniquely integrates a deterministic simulation framework, used to test every new feature of the system.
+FoundationDB’s focus on the “lower half” of a database, leaving the rest to its “layers”—stateless applications developed on top to provide various data models and other capabilities
+
+## Architecture
+
+Core Stateful Components -
+1. __Coordinators__, to hold metatdata. Based on Paxos
+2. __Transaction Logs__, Distributed WAL responsible for accepting commits and writes to the system. Write Once Read Never datastructure & mutations are only being held
+ transeantly. As data comes in, its appended into the file and TTL is once the Storage Server have the data
+3. __Storage Server__, Individual unit of KV system which can coordinate with eachother and becomes a single big Key Value Store. Each KV holds data for long term coming from Transaction Logs and serving read requests.
+
+![image](https://user-images.githubusercontent.com/7579608/127644956-561f3a66-fdfe-4f3b-8493-dee97a39495d.png)
+
+
+
 
 ## References
 
