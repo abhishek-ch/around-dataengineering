@@ -32,6 +32,8 @@ and Ratekeeper_ , which are re-recruited if they fail or crash.
 - _DataDistributor_ is responsible for monitoring failures and balancing data among StorageServers. 
 - _Ratekeeper_ provides overload protection for the cluster
 
+When any process starts up, it first interact with the Coordinator to find the Cluster Controller and then the process updates all its info to the controller. Then the cluster controller interacts with all of the Workers and start assigning different roles like become a log server or SS etc. CC as well responsible for __Failure Monitoring__
+
 ## References
 
 - Paper https://www.foundationdb.org/files/fdb-paper.pdf
