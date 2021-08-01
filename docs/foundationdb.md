@@ -36,14 +36,23 @@ When any process starts up, it first interact with the Coordinator to find the C
 
 ### Data Plan
 
-Transaction Management provides transaction processing and consists of a stateless processes
+Transaction Management provides transaction processing and consists of a stateless processes, designed to provide the __Consistency Model__
 * _Sequencer_, assigns a read version and a commit version to each transaction
 * _Proxies_, MVCC read versions to clients and orchestrate transaction commits.
 * _Resolvers_, check for conflicts between transactions 
 
 __LogServers__ act as replicated, sharded, distributed persistent queues, where each queue stores WAL data for a StorageServer.  
 
-The SS consists of a number of __StorageServers__ for serving client reads, where each StorageServer stores a set of data shards, i.e., contiguous key ranges. StorageServers are the majority of processes in the system, and together they form a _distributed B-tree_
+The SS consists of a number of __StorageServers__(SS) for serving client reads, where each StorageServer stores a set of data shards, i.e., contiguous key ranges. StorageServers are the majority of processes in the system, and together they form a _distributed B-tree_
+
+#### Read
+
+> FoundationDB has a 5 Second Transaction Limit
+
+* Reads are directly going to the SS, responsible for the desired range of Key. Reads are vesioned, so client will have to pass a Version along with the desired key.
+* SS holds recent commits along with Version in _Memory_
+* To abide the 5 sec rule, SS limits the in-memory history !
+
 
 ## References
 
