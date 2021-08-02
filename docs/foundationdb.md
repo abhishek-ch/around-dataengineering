@@ -54,6 +54,25 @@ The SS consists of a number of __StorageServers__(SS) for serving client reads, 
 * To abide the 5 sec rule, SS limits the in-memory history !
 
 
+- Key location metadata is cached by the client and if that is not available, the client can ask for key location from proxy
+- if the shards are refreshed or key location changes, the SS will intimate the client about cache invalidation, and the client can redirect to proxy
+- Load balancing/ data distribution is automated which reshuffles shards internally, based on  2 phase commit protocol.
+
+### Commit
+- Writes are cached upon the clients, commit bundles everything done in a transaction, and send as a single unit to one of the proxies 
+- Proxy assigns a new commit version to the transaction
+- Proxy aware of SS and transaction log mapping
+
+> Master only job is to return incremental commit versions to the users
+
+#### Resolvers
+_After a commit version, the resolver detects the differences between reading and the new  commit version_
+
+⭐ When one starts a transaction, the client can see all commits ever made in the system
+To get the latest version of reading, proxies sync versioning in-between and return the latest version to the client. 
+This technique is batched for scaling reason 
+
+
 ## References
 
 - Paper https://www.foundationdb.org/files/fdb-paper.pdf
