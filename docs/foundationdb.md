@@ -73,6 +73,11 @@ To get the latest version of reading, proxies sync versioning in-between and ret
 This technique is batched for scaling reason 
 
 
+## When Transaction Log Dies:Failure Handling - Explicit
+- Cluster Controller tries to find the failing TL and will replicate the entire Transaction Subsystem (Master, Proxies, Resolvers & Transactions Logs) using Paxos
+- The new master will look for the old TL logs for the last committed version. During this process, the master will block all transactions
+
+
 ## References
 
 - Paper https://www.foundationdb.org/files/fdb-paper.pdf
