@@ -15,13 +15,14 @@ FoundationDB’s focus on the “lower half” of a database, leaving the rest t
 
 ## Architecture
 
+![image](https://user-images.githubusercontent.com/7579608/127644956-561f3a66-fdfe-4f3b-8493-dee97a39495d.png)
+
 Core Stateful Components -
 1. __Coordinators__, to hold metatdata. Based on Paxos
 2. __Transaction Logs__, Distributed WAL responsible for accepting commits and writes to the system. Write Once Read Never datastructure & mutations are only being held
  transeantly. As data comes in, its appended into the file and TTL is once the Storage Server have the data
 3. __Storage Server__, Individual unit of KV system which can coordinate with eachother and becomes a single big Key Value Store. Each KV holds data for long term coming from Transaction Logs and serving read requests. _Each Storage Server is linked with designated set of Transaction Logs to add __Efficiency__ in the system_
 
-![image](https://user-images.githubusercontent.com/7579608/127644956-561f3a66-fdfe-4f3b-8493-dee97a39495d.png)
 
 ## The main design principles 
 - FDB decouples the transaction management system (write path) from
