@@ -35,8 +35,7 @@ by simplifying the normal transaction processing
 
 ### Cluster Controller
 
-![image](https://user-images.githubusercontent.com/7579608/127984422-64c85d56-88ac-4586-97ee-18a281b4a1f2.png)
-
+<img src="https://user-images.githubusercontent.com/7579608/127984422-64c85d56-88ac-4586-97ee-18a281b4a1f2.png" alt="drawing" width="600"/>
 
 Cluster Controller is a leader elected by the Coordinators, to organize all the processes in the cluster. The work and communication is similar to Quoram.
 - The ClusterController monitors all servers in the cluster and recruits three singleton processes ie _Sequencer, DataDistributor,
@@ -57,6 +56,19 @@ Transaction Management provides transaction processing and consists of a statele
 __LogServers__ act as replicated, sharded, distributed persistent queues, where each queue stores WAL data for a StorageServer.  
 
 The SS consists of a number of __StorageServers__(SS) for serving client reads, where each StorageServer stores a set of data shards, i.e., contiguous key ranges. StorageServers are the majority of processes in the system, and together they form a _distributed B-tree_
+
+### Bootstraping
+
+FDB has no external dependency on other services
+
+<img src="https://user-images.githubusercontent.com/7579608/127987433-a4ae89af-f5fb-4760-b3f0-626fc1ea2f75.png" alt="drawing" width="300"/>
+
+- Using Coordinators as a disk Paxos group, servers attempt to become the ClusterController if one does not exist.
+- New `ClusterController` --recruits-- `Sequencer`  --read configuration from-- `Old  LS Stored in Coordinators` --> `new TS LS` 
+- `Proxies` --recover system metadata-- `Old  LS Stored`
+- The Sequencer waits until the new TS finishes recovery, and then writes the new LS configuration to all Coordinators. 
+- At this time, the new transaction system becomes ready to accept client transactions.
+
 
 #### Read
 
