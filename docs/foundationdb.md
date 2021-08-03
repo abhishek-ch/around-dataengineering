@@ -93,10 +93,11 @@ This technique is batched for scaling reason
 ## Notes
 - Transaction size is limited to 10 MB, including the size of all written keys and values as well as the size of all keys in read or write conflict ranges that
 are explicitly specified.
+- FDB targets OLTP workloads that are read-mostly, read and write a small set of keys, have low contention, and require scalability
+- Reads scale linearly with the number of __StorageServers__. Similarly, writes are scaled by adding more processes to __Proxies, Resolvers, and LogServers__ in TS and LS.
 
 ## References
 
 - Paper https://www.foundationdb.org/files/fdb-paper.pdf
 - Technical Overview https://www.youtube.com/watch?v=EMwhsGsxfPU
 - Paper Overview https://www.youtube.com/watch?v=A6Ob1lebIzQ
--  
