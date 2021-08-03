@@ -69,6 +69,17 @@ FDB has no external dependency on other services
 - The Sequencer waits until the new TS finishes recovery, and then writes the new LS configuration to all Coordinators. 
 - At this time, the new transaction system becomes ready to accept client transactions.
 
+### Reconfiguration
+For any Failure _A reconfiguration process brings the transaction management system to a new configuration, i.e., a clean state_
+
+![image](https://user-images.githubusercontent.com/7579608/128000173-87f7d76c-6eaf-4fa7-9bfa-51076d0dd519.png)
+
+Sequencer process monitors the health of Proxies, Resolvers, and LogServers. If any one of the monitored processes fails or the database configuration changes,
+the Sequencer process terminates. 
+The ClusterController will detect the Sequencer failure event, then recruit a new Sequencer, which follows the above bootstrapping process to spawn the new TS
+and LS instance. 
+> In this way, transaction processing is divided into epochs, where each epoch represents a generation of the transaction management system with its unique Sequencer process
+
 
 #### Read
 
