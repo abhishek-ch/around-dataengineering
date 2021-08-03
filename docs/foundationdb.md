@@ -84,7 +84,7 @@ and LS instance.
 
 #### End-2-End
 
-<img src="https://user-images.githubusercontent.com/7579608/128011854-5b4367d8-3236-421f-8d71-f0c9c42a7eac.png" alt="drawing" width="800" height="600"/>
+<img src="https://user-images.githubusercontent.com/7579608/128011854-5b4367d8-3236-421f-8d71-f0c9c42a7eac.png" alt="drawing" width="1000" height="800"/>
 
 
 
