@@ -23,7 +23,19 @@ Core Stateful Components -
 
 ![image](https://user-images.githubusercontent.com/7579608/127644956-561f3a66-fdfe-4f3b-8493-dee97a39495d.png)
 
+## The main design principles 
+- FDB decouples the transaction management system (write path) from
+the distributed storage (read path) and scales them independently
+- Instead of fixing all possible failure scenarios, the transaction system proactively shuts down when it detects a failure, Such an error handling strategy is desirable as long as the recovery is quick, and pays dividends
+by simplifying the normal transaction processing
+- Mean-Time-To-Recovery (MTTR), In our production clusters, the total time is usually less than five seconds
+- Simulation Testing Framework: FDB relies on a randomized, deterministic simulation framework for testing the correctness of its distributed database.
+
+
 ### Cluster Controller
+
+![image](https://user-images.githubusercontent.com/7579608/127984422-64c85d56-88ac-4586-97ee-18a281b4a1f2.png)
+
 
 Cluster Controller is a leader elected by the Coordinators, to organize all the processes in the cluster. The work and communication is similar to Quoram.
 - The ClusterController monitors all servers in the cluster and recruits three singleton processes ie _Sequencer, DataDistributor,
@@ -77,6 +89,10 @@ This technique is batched for scaling reason
 - Cluster Controller tries to find the failing TL and will replicate the entire Transaction Subsystem (Master, Proxies, Resolvers & Transactions Logs) using Paxos
 - The new master will look for the old TL logs for the last committed version. During this process, the master will block all transactions
 
+
+## Notes
+- Transaction size is limited to 10 MB, including the size of all written keys and values as well as the size of all keys in read or write conflict ranges that
+are explicitly specified.
 
 ## References
 
