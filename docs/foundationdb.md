@@ -80,6 +80,13 @@ The ClusterController will detect the Sequencer failure event, then recruit a ne
 and LS instance. 
 > In this way, transaction processing is divided into epochs, where each epoch represents a generation of the transaction management system with its unique Sequencer process
 
+### Transaction Management
+
+#### End-2-End
+
+<img src="https://user-images.githubusercontent.com/7579608/128011854-5b4367d8-3236-421f-8d71-f0c9c42a7eac.png" alt="drawing" width="800" height="600"/>
+
+
 
 #### Read
 
