@@ -49,4 +49,8 @@ A read on primary will always see the most recent write
 All transactions are serializable by default on a shard, and we don’t support lower isolation levels.
 Transactions use optimistic concurrency control to detect and resolve conflicts
 
-Conditional write is implemented using “server-side transactions”. 
+Conditional write is implemented using “server-side transactions
+”. 
+
+## Reference
+https://engineering.fb.com/2021/08/06/core-data/zippydb/
