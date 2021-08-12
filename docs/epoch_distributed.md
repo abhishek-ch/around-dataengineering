@@ -38,9 +38,9 @@ Unbalanced Distributed Systems Infrastructure -
 - Domain & Application Specific Accelrators like __GPU, TPU__ will become the most obvious choice
 - Large individual hardwares like GPU, CPU will move to a fixed cost model 
 
-### Trends
+## Trends
 
-#### Scaling out efficient:
+### Scaling out efficient:
 
 <img src="https://user-images.githubusercontent.com/7579608/129146339-ffd549a6-e7f3-42fe-a660-46d28abc3647.png" alt="drawing" width="400"/>
 
@@ -50,11 +50,11 @@ Highly Efficient, this leads extracting lesser benefits from individual server f
 In Tight Coupling, we will focus on extracting more benefits from individual server, which may lead flatten curve much earlier.
 
 
-#### Matching Application Balance to Virtual Cluster Composition - Software Defined Infrastructure
+### Matching Application Balance to Virtual Cluster Composition - Software Defined Infrastructure
 
 Able to extract the Balance Point of a particular Distributed System & being able to carve out an isolated subset of you _compute, communication, Accelerator & Storage Infrastructure_ to match the __Balance Point__
 
-#### Developer Productivity
+### Developer Productivity
 
 
 ## Reference
