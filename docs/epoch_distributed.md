@@ -57,6 +57,16 @@ Able to extract the Balance Point of a particular Distributed System & being abl
 ### Developer Productivity
 
 
+## Software-Defined Infrastructure Clusters
+
+![image](https://user-images.githubusercontent.com/7579608/129151540-108779ef-dfca-4e3f-bf9d-1b830f1ccfe8.png)
+
+It will be extremely hard to manage the Concurrency & Threading across Servers.
+
+
+![image](https://user-images.githubusercontent.com/7579608/129154406-0a4650a7-28cf-4971-a459-829f28f3a867.png)
+
+
 ## Reference
 - https://www.youtube.com/watch?v=27zuReojDVw
 - https://docplayer.net/195591723-Coming-of-age-in-the-fifth-epoch-of-distributed-computing-the-power-of-sustained-exponential-growth.html
