@@ -42,7 +42,7 @@ Unbalanced Distributed Systems Infrastructure -
 
 #### Scaling out efficient:
 
-![image](https://user-images.githubusercontent.com/7579608/129146339-ffd549a6-e7f3-42fe-a660-46d28abc3647.png)
+<img src="https://user-images.githubusercontent.com/7579608/129146339-ffd549a6-e7f3-42fe-a660-46d28abc3647.png" alt="drawing" width="400"/>
 
 Tightly-Coupled Distributed Systems may be preferred compared to Loose Coupling.
 With _Loosely-coupled Distributed System_ it was easy to scale out applications from 1 Server to 10 of thousands of Server but we are not neceesarliy 
