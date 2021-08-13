@@ -45,11 +45,26 @@ _This is the easiest point to start and understand the setup. You can write your
 
 <img src="https://user-images.githubusercontent.com/7579608/129331119-1c2a481d-6697-4d3e-a5ff-80dfab374775.png" alt="3star" width="200"/>
 
-![image](https://user-images.githubusercontent.com/7579608/129329967-49756866-3d28-4869-8382-2f26bde3600c.png)
-
 <br/>
 <br/>
 <img src="https://user-images.githubusercontent.com/7579608/129333363-a44f0eff-f18a-4897-80da-548570619967.png" alt="image" width="800"/>
+
+
+### Data Preview
+
+<img src="https://user-images.githubusercontent.com/7579608/129344403-984cd562-46fd-496c-9eca-df2dfd094889.png" alt="image" width="600"/>
+
+### Data Upload
+<img src="https://user-images.githubusercontent.com/7579608/129347370-7821e940-0ce5-421b-90a8-d48342f11362.png" alt="image" width="500"/>
+
+## Lineage
+
+- Currently its in Beta
+
+
+## Future
+
+![image](https://user-images.githubusercontent.com/7579608/129350054-91e517b2-6711-447c-859f-409cd78923f1.png)
 
 
 
