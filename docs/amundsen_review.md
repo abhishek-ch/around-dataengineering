@@ -20,7 +20,7 @@ Think of it as __Google Search__ for data.
 
 ## Special Notes:
 * _OSS Community is Awesome_
-* __Slack Communuty__ is very active
+* __Slack Community__ is very active
 * Check RFCs and PR for upcoming features
 * Code is very well documented and it really easy to make changes
 
