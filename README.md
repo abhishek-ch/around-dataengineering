@@ -4,6 +4,7 @@
 
 ## Interesting Reads
 
+* [Amundsen Review](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/amundsen_review.md)
 * [Deep Dive - Foundation DB](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/foundationdb.md)
 * [The What, Why, and When of Single-Table Design with DynamoDB](https://www.alexdebrie.com/posts/dynamodb-single-table/)
 * [How To Manage And Monitor Apache Spark On Kubernetes](https://www.lightbend.com/blog/how-to-manage-monitor-spark-on-kubernetes-deep-dive-kubernetes-operator-for-spark)
