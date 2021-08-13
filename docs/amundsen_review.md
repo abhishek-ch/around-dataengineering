@@ -7,18 +7,18 @@ Amundsen is a data discovery and metadata engine for improving the productivity 
 
 ## Installation
 
-### Local Docker Installation
 <img src="https://user-images.githubusercontent.com/7579608/129318915-a0883b0f-8253-415c-a073-7088d4e6572f.png" alt="drawing" width="200"/>
 
+### Local Docker Installation
 <img src="https://user-images.githubusercontent.com/7579608/129319201-278bb037-1e72-4aad-879e-ebddff865329.png" alt="drawing" width="160"/>
 
-* Process is Straight forward using Docker https://www.amundsen.io/amundsen/installation/
-* Loading Data to the UI sometimes creates problem but it works
-
-<img src="https://user-images.githubusercontent.com/7579608/129319598-d64fd2a6-aaab-4f53-b57d-22a85c040240.png" alt="drawing" width="360"/>
-
-
+Process is Straight forward using Docker https://www.amundsen.io/amundsen/installation/. 
 _This is the easiest point to start and understand the setup. You can write your custom Data Uploader to verify_
+
+<img src="https://user-images.githubusercontent.com/7579608/129325076-a8340328-55ee-458c-b5d0-636327373df5.png" alt="drawing" width="560"/>
+
+
+
 
 
 
