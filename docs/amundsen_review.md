@@ -1,11 +1,31 @@
-# Amundsen, A data discovery and metadata engine, Non Technical EASY REVIEW
+<img src="https://user-images.githubusercontent.com/7579608/129318190-769c4574-b046-40b9-a1ef-33af38732d7f.png" alt="5star" width="800"/>
 
-<img src="https://user-images.githubusercontent.com/7579608/129318190-769c4574-b046-40b9-a1ef-33af38732d7f.png" alt="5star" width="400"/>
+# Amundsen: ABC's Non-Technical REVIEW
 
 
-Amundsen is a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data
+Amundsen is a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+Think of it as __Google Search__ for data.
+<br/>
+<br/>
 
 ![](images/amund.png)
+
+## Notes
+* Deployed using Kubernetes and Running in Staging --> Production
+* Feedback from Data Engineers, Data Scientists, Data Analysts & Researchers
+* Access by Non Technical Users as well
+* Deployed and made changes in the code!
+* Using ElasticSearch external & Neo4j from Helm
+
+
+## Special Notes:
+* _OSS Community is Awesome_
+* __Slack Communuty__ is very active
+* Check RFCs and PR for upcoming features
+* Code is very well documented and it really easy to make changes
+
+> For any further discussion please reach out in Linkedin or Telegram https://t.me/datainfra
+
 
 
 ## Basic Setup
@@ -56,7 +76,7 @@ _This is the easiest point to start and understand the setup. You can write your
 <img src="https://user-images.githubusercontent.com/7579608/129347370-7821e940-0ce5-421b-90a8-d48342f11362.png" alt="image" width="500"/>
 
 
-## Future
+# Future
 
 ![image](https://user-images.githubusercontent.com/7579608/129359682-42857cfa-6f76-482f-a075-de499ece8470.png)
 
