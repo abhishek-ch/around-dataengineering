@@ -41,6 +41,13 @@ _This is the easiest point to start and understand the setup. You can write your
 - Search is quick and clean. Shows enough infomartion
 - Resource UI has enough kwds to search but can be improved
 
+### Metadata Info
+
+<img src="https://user-images.githubusercontent.com/7579608/129331119-1c2a481d-6697-4d3e-a5ff-80dfab374775.png" alt="3star" width="200"/>
+
+
+![image](https://user-images.githubusercontent.com/7579608/129329967-49756866-3d28-4869-8382-2f26bde3600c.png)
+
 
 
 
