@@ -17,16 +17,15 @@
 * [Against SQL - An article on What is not good with #sql ](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-database-data-activity-6819964297423179776-OPr5)
 * [Using `EXPLAIN` for Data Problems - Things beyond SQL](https://www.linkedin.com/posts/iamabhishekchoudhary_databaseexplain-activity-6819573919389941760-euD5)
 * [What is Apache Pinot - Usecases & Architecture](https://www.linkedin.com/posts/iamabhishekchoudhary_building-latency-sensitive-user-facing-analytics-activity-6818810335286370304-gZAQ)
-
+* [10 SQL Queries to Blow Your Mind 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlmightiestqueries-activity-6829031645870374912-HW88)
+* [Change Data Streaming Patterns in Distributedsystems](https://www.linkedin.com/posts/iamabhishekchoudhary_cdcpatterns-activity-6828573352563654656-CDS1)
+* [Cuckoo Hashing - An alternative to chaining and linear probing for collision handling ](https://www.linkedin.com/posts/iamabhishekchoudhary_cuckoo-hashing-activity-6832911622126784512-3rZB)
 
 ## Weekly Digest
 
-* [Deep Dive on Why Apache Iceberg for Change Data Capture, using Apache Flink 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-deltalake-realtime-activity-6813803694627336192-W7M7)
-* [Code Review Best Practice, bcz Developers, hate code reviews](https://www.linkedin.com/posts/iamabhishekchoudhary_codereviewbestpractice-activity-6812358358906019840-Qfw5)
-* [Explaining Apache Kafka - In children's book format](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafka-streamprocessing-dataengineering-activity-6811538408763121664-5qpL)
 * [How #dataengineering get complicated over time](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-realtime-streamprocessing-activity-6808383006567383040-xY-g)
-* [Distributed System Synchronization](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystemclocksynchronization-activity-6808035719366373376-T_GK)
-* [Paper: Consistent hashing - Resizing cluster or Load in a #distributedsystems with a simple concept](https://www.linkedin.com/posts/iamabhishekchoudhary_consistenthashing-activity-6807248364808282112-2ef2)
+* [What is eBPF - Sandboxing Programs inside #linux Kernel](https://www.linkedin.com/posts/iamabhishekchoudhary_facebook-google-isovalent-microsoft-and-activity-6831817260462608384-p6QN0)
+* [Absolute Basic Explanation of SSTable & Log Structured Merge Trees - Sorted String Table & Faster Random Writes](https://www.linkedin.com/posts/iamabhishekchoudhary_datastructures-cassandra-dataengineering-activity-6833629108484784128-u-bN)
 
 
 
@@ -60,6 +59,8 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Dataengineering schedule breakdown, a very flexible estimate](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-distributedsystems-mlops-activity-6791336683653648384-RY3_)
 * [Parquet - Introduction & Design, An OpenSource File Format](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheparquet-protocolbuffers-dataengineering-activity-6823244946166857729-0CZf)
 * [SQL - Avoiding Antipatterns](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlantipattern-activity-6826491257410396160-xX5P)
+* [Explaining Apache Kafka - In children's book format](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafka-streamprocessing-dataengineering-activity-6811538408763121664-5qpL)
+
 
 #### Level 1
 
@@ -93,6 +94,8 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Dagster vs Airflow - A comparison](https://www.linkedin.com/posts/iamabhishekchoudhary_moving-past-airflow-why-dagster-is-the-next-generation-activity-6800808471768969216-__wj)
 * [About Single Source of Truth in DataEngineering](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-machinelearning-dataanalytics-activity-6801541986638733312-81gM)
 * [Change Data Capture for Distributed Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_change-data-capture-for-distributed-databases-activity-6821429243944206336-HiJL)
+* [Deep Dive on Why Apache Iceberg for Change Data Capture, using Apache Flink 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-deltalake-realtime-activity-6813803694627336192-W7M7)
+* [OpenMetadata is an Open Standard for Metadata. A Single place to Discover, Collaborate, and Get your data right](https://www.linkedin.com/posts/iamabhishekchoudhary_metadata-datamesh-amundsen-activity-6833223767699845120-8U5h)
 
 
 #### Gyaan
@@ -128,6 +131,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * ['Log' is a fundamental component of a Data Engineering Ecosystem](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-deltalake-dataengineering-activity-6804701361796636672-MOFm)
 * [Flink CDC](https://github.com/abhishek-ch/around-dataengineering/blob/master/flink_cdc.md)
 * [Readings Around Databases](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/Reading_ardound_database.md)
+* [Code Review Best Practice, bcz Developers, hate code reviews](https://www.linkedin.com/posts/iamabhishekchoudhary_codereviewbestpractice-activity-6812358358906019840-Qfw5)
 
 
 #### Infrastructure
@@ -148,6 +152,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems📋](https://www.linkedin.com/posts/iamabhishekchoudhary_simple-testing-can-prevent-most-critical-failures-activity-6784411707830779904-ds3_)
 * [Diving Deep on S3 Consistency - Insightful](https://www.linkedin.com/posts/iamabhishekchoudhary_diving-deep-on-s3-consistency-activity-6793185152844513280-k48V)
 * [Ray- General Purpose ML Infrastructure](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/ray_distributed_ml.md)
+* [Kubernetes Hardening Guide by National Security Agency](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-hardening-guide-activity-6831118268779020288-KQfU)
 
 
 ## Machine Learning
@@ -183,6 +188,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Tips for Distributed System High Availability 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_tips-for-high-availability-activity-6785942817693855744-8KFF)
 * [Building DistributedLog: High-performance replicated log service 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystems-dataengineering-bigdata-activity-6786283090441506816-kCob)
 * [How to scale Kubernetes with Assurance](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-infrastructure-dataengineering-activity-6786619511165501440-pcNS)
+* [Apache Calcite - Building Sql Query Processor from Scratch over Lucene](https://www.linkedin.com/posts/iamabhishekchoudhary_calcite-tutorial-lucene-activity-6833330741460447233-CCfP)
 
 ## Paper
 
@@ -224,6 +230,11 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Paper: Sorting in a #distributedsystem 📋](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystemsorting-activity-6800374901174792192-6C5O)
 * [Paper: A large scale analysis of hundreds of in-memory cache clusters](https://www.linkedin.com/posts/iamabhishekchoudhary_a-large-scale-analysis-in-memory-cache-clusters-activity-6802207087511298048-piMh)
 * [Design & Architecture of Amazon Timestream - Streaming at Scale](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-data-dataengineering-activity-6805811689687281664-4edZ)
+* [Distributed System Synchronization](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystemclocksynchronization-activity-6808035719366373376-T_GK)
+* [Paper: Consistent hashing - Resizing cluster or Load in a #distributedsystems with a simple concept](https://www.linkedin.com/posts/iamabhishekchoudhary_consistenthashing-activity-6807248364808282112-2ef2)
+* [Deep Dive - Foundation DB (unbundled database, OLTP, strict serializability, multi-version concurrency control, optimistic concurrency control, simulation testing)](https://www.linkedin.com/posts/iamabhishekchoudhary_foundationdb-opensource-database-activity-6828300478351237120-ENDF)
+* [Distributed Database - ZippyDB is the largest strongly consistent, geographically distributed key-value store at Facebook Database](https://www.linkedin.com/posts/iamabhishekchoudhary_database-rocksdb-zookeeper-activity-6830432000072048640-y8nw)
+
 
 #### NA
 * [Glow is an open-source toolkit for working with genomic data at biobank-scale and beyond using #apachespark & #deltalake 💊🎉💉](https://www.linkedin.com/posts/iamabhishekchoudhary_apachespark-deltalake-bioinformatics-activity-6758414696254119936-RCz5)
