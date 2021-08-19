@@ -4,6 +4,7 @@
 
 ## Interesting Reads
 
+* [Cockroach DB Architecture](https://www.linkedin.com/posts/iamabhishekchoudhary_cockroachdbarchitecture-activity-6834117247510855680-VeCF)
 * [Amundsen Review](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/amundsen_review.md)
 * [Deep Dive - Foundation DB](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/foundationdb.md)
 * [The What, Why, and When of Single-Table Design with DynamoDB](https://www.alexdebrie.com/posts/dynamodb-single-table/)
