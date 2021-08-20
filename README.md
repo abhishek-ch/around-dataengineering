@@ -221,6 +221,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [The Berkeley View on Cloud Computing - Paper](https://www.linkedin.com/posts/iamabhishekchoudhary_serverlesscomputing-activity-6773574741639917570-uEB5)
 * [The Google File System - The Paper 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_the-google-file-system-paper-activity-6778681429632049152-EF03)
 * [Paper: Report on Distributed Deep Learning on Data Systems 📂](https://www.linkedin.com/posts/iamabhishekchoudhary_tech-report-of-distributed-deep-learning-activity-6787729738124341249-fFG8)
+* [Crystal: A Unified Cache Storage System for Analytical Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_crystal-semantic-caching-activity-6834495561652076544-UGVO)
 
 #### Set 2
 
