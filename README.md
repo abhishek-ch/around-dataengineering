@@ -4,6 +4,7 @@
 
 ## Interesting Reads
 
+* [How to choose a Distributed Database](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/how_to_choose_db.md)
 * [Cockroach DB Architecture](https://www.linkedin.com/posts/iamabhishekchoudhary_cockroachdbarchitecture-activity-6834117247510855680-VeCF)
 * [Amundsen Review](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/amundsen_review.md)
 * [Deep Dive - Foundation DB](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/foundationdb.md)
