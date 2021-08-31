@@ -237,6 +237,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Paper: Consistent hashing - Resizing cluster or Load in a #distributedsystems with a simple concept](https://www.linkedin.com/posts/iamabhishekchoudhary_consistenthashing-activity-6807248364808282112-2ef2)
 * [Deep Dive - Foundation DB (unbundled database, OLTP, strict serializability, multi-version concurrency control, optimistic concurrency control, simulation testing)](https://www.linkedin.com/posts/iamabhishekchoudhary_foundationdb-opensource-database-activity-6828300478351237120-ENDF)
 * [Distributed Database - ZippyDB is the largest strongly consistent, geographically distributed key-value store at Facebook Database](https://www.linkedin.com/posts/iamabhishekchoudhary_database-rocksdb-zookeeper-activity-6830432000072048640-y8nw)
+* [BigData Metadata Management System](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/Metadata_management.md)
 
 
 #### NA
