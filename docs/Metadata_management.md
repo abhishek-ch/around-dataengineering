@@ -89,7 +89,7 @@ the blocks that are currently active in the table. Inside the blocks, it
 is possible to have rows that are not visible at the timestamp. They
 are filtered out when reading the block.
 
-##Incremental Generation
+## Incremental Generation
 
 Every DML operation leads to update of Column Metadata
 
@@ -101,7 +101,7 @@ __This change log is written to a highly available, durable replicated storage s
 LSM style merges on the change log to produce baselines and deltas of changes.
 _At any given read timestamp, the table’s metadata can be constructed by reading the baseline available at that timestamp and any deltas from the baseline up to the read timestamp_
 
-##Query Planning:
+## Query Planning:
 Loading table metadata before query planning of 10GB+ tables are huge so it defers the reading of physical metadata for the tables until the actual dispatch of partitions to the workers. 
 To facilitate this, 
 * The query planner first uses only the logical metadata to generate a query plan with constants folded and filters pushed down. 
