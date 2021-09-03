@@ -98,6 +98,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Change Data Capture for Distributed Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_change-data-capture-for-distributed-databases-activity-6821429243944206336-HiJL)
 * [Deep Dive on Why Apache Iceberg for Change Data Capture, using Apache Flink 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-deltalake-realtime-activity-6813803694627336192-W7M7)
 * [OpenMetadata is an Open Standard for Metadata. A Single place to Discover, Collaborate, and Get your data right](https://www.linkedin.com/posts/iamabhishekchoudhary_metadata-datamesh-amundsen-activity-6833223767699845120-8U5h)
+* [About Lakehouse](https://www.linkedin.com/posts/iamabhishekchoudhary_datawarehouse-lakehouse-machinelearning-activity-6839506317648941056-d23r)
 
 
 #### Gyaan
