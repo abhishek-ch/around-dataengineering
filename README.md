@@ -62,6 +62,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Parquet - Introduction & Design, An OpenSource File Format](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheparquet-protocolbuffers-dataengineering-activity-6823244946166857729-0CZf)
 * [SQL - Avoiding Antipatterns](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlantipattern-activity-6826491257410396160-xX5P)
 * [Explaining Apache Kafka - In children's book format](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafka-streamprocessing-dataengineering-activity-6811538408763121664-5qpL)
+* [The Perfect #dataengineering: Top INVALID Reasons behind #datapipelines failures](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-datapipelines-data-activity-6839946812015603712-FnZq)
 
 
 #### Level 1
