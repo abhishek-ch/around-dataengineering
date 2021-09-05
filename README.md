@@ -157,6 +157,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Diving Deep on S3 Consistency - Insightful](https://www.linkedin.com/posts/iamabhishekchoudhary_diving-deep-on-s3-consistency-activity-6793185152844513280-k48V)
 * [Ray- General Purpose ML Infrastructure](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/ray_distributed_ml.md)
 * [Kubernetes Hardening Guide by National Security Agency](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-hardening-guide-activity-6831118268779020288-KQfU)
+* [Everything around Load Balancer](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystems-datainfrastructure-loadbalancing-activity-6840255837957607424-oOmk)
 
 
 ## Machine Learning
