@@ -241,6 +241,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Deep Dive - Foundation DB (unbundled database, OLTP, strict serializability, multi-version concurrency control, optimistic concurrency control, simulation testing)](https://www.linkedin.com/posts/iamabhishekchoudhary_foundationdb-opensource-database-activity-6828300478351237120-ENDF)
 * [Distributed Database - ZippyDB is the largest strongly consistent, geographically distributed key-value store at Facebook Database](https://www.linkedin.com/posts/iamabhishekchoudhary_database-rocksdb-zookeeper-activity-6830432000072048640-y8nw)
 * [BigData Metadata Management System](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/Metadata_management.md)
+* [Machine Learning for Database Optimizations](https://www.linkedin.com/posts/iamabhishekchoudhary_databases-machinelearning-dataengineering-activity-6841287258293846016-QRVZ)
 
 
 #### NA
