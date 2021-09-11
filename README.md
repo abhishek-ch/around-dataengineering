@@ -242,6 +242,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Distributed Database - ZippyDB is the largest strongly consistent, geographically distributed key-value store at Facebook Database](https://www.linkedin.com/posts/iamabhishekchoudhary_database-rocksdb-zookeeper-activity-6830432000072048640-y8nw)
 * [BigData Metadata Management System](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/Metadata_management.md)
 * [Machine Learning for Database Optimizations](https://www.linkedin.com/posts/iamabhishekchoudhary_databases-machinelearning-dataengineering-activity-6841287258293846016-QRVZ)
+* [SingleStore - A Distributed Database Management System. It's really more than a Database](https://www.linkedin.com/posts/iamabhishekchoudhary_singlestore-database-activity-6842396205964681216-3SLY)
 
 
 #### NA
