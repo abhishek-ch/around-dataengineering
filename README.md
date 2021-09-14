@@ -22,6 +22,7 @@
 * [10 SQL Queries to Blow Your Mind 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlmightiestqueries-activity-6829031645870374912-HW88)
 * [Change Data Streaming Patterns in Distributedsystems](https://www.linkedin.com/posts/iamabhishekchoudhary_cdcpatterns-activity-6828573352563654656-CDS1)
 * [Cuckoo Hashing - An alternative to chaining and linear probing for collision handling ](https://www.linkedin.com/posts/iamabhishekchoudhary_cuckoo-hashing-activity-6832911622126784512-3rZB)
+* [Riak Database](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/riakdb.md)
 
 ## Weekly Digest
 
