@@ -244,6 +244,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [BigData Metadata Management System](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/Metadata_management.md)
 * [Machine Learning for Database Optimizations](https://www.linkedin.com/posts/iamabhishekchoudhary_databases-machinelearning-dataengineering-activity-6841287258293846016-QRVZ)
 * [SingleStore - A Distributed Database Management System. It's really more than a Database](https://www.linkedin.com/posts/iamabhishekchoudhary_singlestore-database-activity-6842396205964681216-3SLY)
+* [ArrowSAM, in-memory genomics SAM format based on Apache Arrow](https://www.linkedin.com/posts/iamabhishekchoudhary_arrowsam-apache-arrow-based-genomics-sam-activity-6843895456158814208-K86l)
 
 
 #### NA
