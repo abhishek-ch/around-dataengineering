@@ -23,6 +23,7 @@
 * [Change Data Streaming Patterns in Distributedsystems](https://www.linkedin.com/posts/iamabhishekchoudhary_cdcpatterns-activity-6828573352563654656-CDS1)
 * [Cuckoo Hashing - An alternative to chaining and linear probing for collision handling ](https://www.linkedin.com/posts/iamabhishekchoudhary_cuckoo-hashing-activity-6832911622126784512-3rZB)
 * [Riak Database](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/riakdb.md)
+* [Database Indexing](https://www.linkedin.com/posts/iamabhishekchoudhary_databaseindexes-activity-6844509295476924416-Jzto)
 
 ## Weekly Digest
 
