@@ -160,6 +160,19 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Ray- General Purpose ML Infrastructure](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/ray_distributed_ml.md)
 * [Kubernetes Hardening Guide by National Security Agency](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-hardening-guide-activity-6831118268779020288-KQfU)
 * [Everything around Load Balancer](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystems-datainfrastructure-loadbalancing-activity-6840255837957607424-oOmk)
+* [Data Lakehouse - Is it really the end of Datawarehouse](https://www.linkedin.com/posts/iamabhishekchoudhary_datawarehouse-lakehouse-machinelearning-activity-6839506317648941056-d23r)
+
+
+## SQL
+* [Advanced SQL - Reference CS 564 Database Management Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_advanced-sql-2-activity-6845598540790599680-gTgH)
+* [SQL and Advanced SQL - An asset](https://www.linkedin.com/posts/iamabhishekchoudhary_advancedsql-activity-6844892160798584832-gBTl)
+* [Database Indexing - Almost Everything](https://www.linkedin.com/posts/iamabhishekchoudhary_databaseindexes-activity-6844509295476924416-Jzto)
+* [Tuning SQL queries - Tips for writing efficient & faster Queries](https://www.linkedin.com/posts/iamabhishekchoudhary_query-optimization-techniques-sql-activity-6844123194836742144-aptY)
+* [Database Schema Design - Schema Design is a Complicated Necessity](https://www.linkedin.com/posts/iamabhishekchoudhary_database-schema-design-activity-6843509027025022976-qbRF)
+* [SQL Query Processing Plan - Basics](https://www.linkedin.com/posts/iamabhishekchoudhary_queryprocessingplan-activity-6843139272497774592-10sT)
+* [Revisiting SQL Basics - The beginning of Data Science & Data Engineering](https://www.linkedin.com/posts/iamabhishekchoudhary_basic-sql-activity-6842758586142142464-kJ_U)
+* [Distributed Advanced Queries - Presto/Trino](https://www.linkedin.com/posts/iamabhishekchoudhary_advanced-sql-distributed-query-engine-prestotrino-activity-6845952140645593088-r6BJ)
+
 
 
 ## Machine Learning
@@ -228,6 +241,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [The Google File System - The Paper 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_the-google-file-system-paper-activity-6778681429632049152-EF03)
 * [Paper: Report on Distributed Deep Learning on Data Systems 📂](https://www.linkedin.com/posts/iamabhishekchoudhary_tech-report-of-distributed-deep-learning-activity-6787729738124341249-fFG8)
 * [Crystal: A Unified Cache Storage System for Analytical Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_crystal-semantic-caching-activity-6834495561652076544-UGVO)
+* [VoltDB](https://www.linkedin.com/feed/update/urn:li:activity:6846055501105553408/)
 
 #### Set 2
 
