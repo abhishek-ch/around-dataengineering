@@ -172,6 +172,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [SQL Query Processing Plan - Basics](https://www.linkedin.com/posts/iamabhishekchoudhary_queryprocessingplan-activity-6843139272497774592-10sT)
 * [Revisiting SQL Basics - The beginning of Data Science & Data Engineering](https://www.linkedin.com/posts/iamabhishekchoudhary_basic-sql-activity-6842758586142142464-kJ_U)
 * [Distributed Advanced Queries - Presto/Trino](https://www.linkedin.com/posts/iamabhishekchoudhary_advanced-sql-distributed-query-engine-prestotrino-activity-6845952140645593088-r6BJ)
+* [SQL Notes For Professionals, 100+ pages](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlnotes4professional-activity-6846303034914471936-q1T9)
 
 
 
