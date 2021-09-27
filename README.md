@@ -174,6 +174,11 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Distributed Advanced Queries - Presto/Trino](https://www.linkedin.com/posts/iamabhishekchoudhary_advanced-sql-distributed-query-engine-prestotrino-activity-6845952140645593088-r6BJ)
 * [SQL Notes For Professionals, 100+ pages](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlnotes4professional-activity-6846303034914471936-q1T9)
 * [Table Partitioning](https://www.linkedin.com/posts/iamabhishekchoudhary_database-dataengineering-sql-activity-6846689189979844609-yXQS)
+* [SQL complex Queries - Nested Queries & Aggregation](https://www.linkedin.com/posts/iamabhishekchoudhary_nested-queries-and-aggregation-activity-6847059870416474112-tSkY)
+* [Gossip Protocols - Designed for Data Consistency & Fault-Tolerance](https://www.linkedin.com/posts/iamabhishekchoudhary_p2p-gossip-protocol-activity-6847021932785786880-A2Oj)
+* [Table Partitioning - An Important Concept](https://www.linkedin.com/posts/iamabhishekchoudhary_database-dataengineering-sql-activity-6846689189979844609-yXQS)
+* [Database Concurrency Control : 2 Phase Locking](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-database-dataengineering-activity-6847472978335195136-qqaC)
+* [Database Entity Relationship Model](https://www.linkedin.com/posts/iamabhishekchoudhary_the-entity-relationship-er-model-activity-6848113792358907904-bwRc)
 
 
 
