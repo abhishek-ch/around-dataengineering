@@ -138,6 +138,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Flink CDC](https://github.com/abhishek-ch/around-dataengineering/blob/master/flink_cdc.md)
 * [Readings Around Databases](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/Reading_ardound_database.md)
 * [Code Review Best Practice, bcz Developers, hate code reviews](https://www.linkedin.com/posts/iamabhishekchoudhary_codereviewbestpractice-activity-6812358358906019840-Qfw5)
+* [Important Performance Criteria to measure DataEngineering Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-distributedsystems-datastructures-activity-6848612433121157120-wrNi)
 
 
 #### Infrastructure
@@ -179,6 +180,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Table Partitioning - An Important Concept](https://www.linkedin.com/posts/iamabhishekchoudhary_database-dataengineering-sql-activity-6846689189979844609-yXQS)
 * [Database Concurrency Control : 2 Phase Locking](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-database-dataengineering-activity-6847472978335195136-qqaC)
 * [Database Entity Relationship Model](https://www.linkedin.com/posts/iamabhishekchoudhary_the-entity-relationship-er-model-activity-6848113792358907904-bwRc)
+* [SQL Join Fundamentals](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-joins-activity-6848474520647458816-3ACA)
 
 
 
