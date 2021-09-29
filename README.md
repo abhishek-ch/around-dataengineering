@@ -181,6 +181,8 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Database Concurrency Control : 2 Phase Locking](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-database-dataengineering-activity-6847472978335195136-qqaC)
 * [Database Entity Relationship Model](https://www.linkedin.com/posts/iamabhishekchoudhary_the-entity-relationship-er-model-activity-6848113792358907904-bwRc)
 * [SQL Join Fundamentals](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-joins-activity-6848474520647458816-3ACA)
+* [Database Indexing](https://www.linkedin.com/posts/iamabhishekchoudhary_database-performanceandindexes-activity-6848848899260653569-l1gz)
+* [Database Indexing Notes](https://www.inf.unibz.it/~artale/DB2/handout2.pdf)
 
 
 
