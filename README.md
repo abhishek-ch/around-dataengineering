@@ -15,11 +15,7 @@
 * [Apache Iceberg- Links](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/apache_iceberg_read.md)
 * [Kubernetes Port Forwarding Manager](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-kuberforwarder-dataengineering-activity-6821345311655555072-aEqx)
 * [Querying Parquet with Precision using DuckDB - Much faster compared to Pandas](https://www.linkedin.com/posts/iamabhishekchoudhary_querying-parquet-with-precision-using-duckdb-activity-6821024627578466304-TgRS)
-* [Building a NoSQL Database using Git](https://www.linkedin.com/posts/iamabhishekchoudhary_gitasnosqldatabase-activity-6820624465861390336-qwpo)
-* [Against SQL - An article on What is not good with #sql ](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-database-data-activity-6819964297423179776-OPr5)
-* [Using `EXPLAIN` for Data Problems - Things beyond SQL](https://www.linkedin.com/posts/iamabhishekchoudhary_databaseexplain-activity-6819573919389941760-euD5)
 * [What is Apache Pinot - Usecases & Architecture](https://www.linkedin.com/posts/iamabhishekchoudhary_building-latency-sensitive-user-facing-analytics-activity-6818810335286370304-gZAQ)
-* [10 SQL Queries to Blow Your Mind 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlmightiestqueries-activity-6829031645870374912-HW88)
 * [Change Data Streaming Patterns in Distributedsystems](https://www.linkedin.com/posts/iamabhishekchoudhary_cdcpatterns-activity-6828573352563654656-CDS1)
 * [Cuckoo Hashing - An alternative to chaining and linear probing for collision handling ](https://www.linkedin.com/posts/iamabhishekchoudhary_cuckoo-hashing-activity-6832911622126784512-3rZB)
 * [Riak Database](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/riakdb.md)
@@ -132,7 +128,6 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Building DistributedLog: High-performance replicated log service 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystems-dataengineering-bigdata-activity-6786283090441506816-kCob)
 * [Whiz: Data Analytics Execution Framework based on Intermediate Data](https://www.linkedin.com/posts/iamabhishekchoudhary_whiz-data-driven-analytics-execution-activity-6788003925300707328-2Yuy)
 * [Adding unlimited Nodes in a #dataengineering platform will eventually drop](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-distributedsystems-bigdata-activity-6788418825047080960-iTiv)
-* [The fundamental of writing SQL queries is different from](https://www.linkedin.com/posts/iamabhishekchoudhary_programming-dataengineering-datanalytics-activity-6797939314098520064-hMfd)
 * [A typical Data Engineering Pipeline](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-data-bigdata-activity-6800075858917773312-W_Lc)
 * ['Log' is a fundamental component of a Data Engineering Ecosystem](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-deltalake-dataengineering-activity-6804701361796636672-MOFm)
 * [Flink CDC](https://github.com/abhishek-ch/around-dataengineering/blob/master/flink_cdc.md)
@@ -183,6 +178,13 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [SQL Join Fundamentals](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-joins-activity-6848474520647458816-3ACA)
 * [Database Indexing](https://www.linkedin.com/posts/iamabhishekchoudhary_database-performanceandindexes-activity-6848848899260653569-l1gz)
 * [Database Indexing Notes](https://www.inf.unibz.it/~artale/DB2/handout2.pdf)
+* [SQL Injection Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-injection-introduction-activity-6849573020533608448-tsWX)
+* [SQL Constraints Fundamentals](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-constraints-activity-6849207436176363520-hiDU)
+* [The fundamental of writing SQL queries is different from](https://www.linkedin.com/posts/iamabhishekchoudhary_programming-dataengineering-datanalytics-activity-6797939314098520064-hMfd)
+* [Building a NoSQL Database using Git](https://www.linkedin.com/posts/iamabhishekchoudhary_gitasnosqldatabase-activity-6820624465861390336-qwpo)
+* [Against SQL - An article on What is not good with #sql ](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-database-data-activity-6819964297423179776-OPr5)
+* [Using `EXPLAIN` for Data Problems - Things beyond SQL](https://www.linkedin.com/posts/iamabhishekchoudhary_databaseexplain-activity-6819573919389941760-euD5)
+* [10 SQL Queries to Blow Your Mind 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlmightiestqueries-activity-6829031645870374912-HW88)
 
 
 
