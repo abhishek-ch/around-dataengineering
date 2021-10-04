@@ -185,6 +185,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Against SQL - An article on What is not good with #sql ](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-database-data-activity-6819964297423179776-OPr5)
 * [Using `EXPLAIN` for Data Problems - Things beyond SQL](https://www.linkedin.com/posts/iamabhishekchoudhary_databaseexplain-activity-6819573919389941760-euD5)
 * [10 SQL Queries to Blow Your Mind 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlmightiestqueries-activity-6829031645870374912-HW88)
+* [Views, Stored Procedures, Functions & Triggers - SQL ](https://www.linkedin.com/posts/iamabhishekchoudhary_viewstoredproceduretriggersql-activity-6850663245687115776-1V75)
 
 
 
