@@ -157,6 +157,8 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Kubernetes Hardening Guide by National Security Agency](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-hardening-guide-activity-6831118268779020288-KQfU)
 * [Everything around Load Balancer](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystems-datainfrastructure-loadbalancing-activity-6840255837957607424-oOmk)
 * [Data Lakehouse - Is it really the end of Datawarehouse](https://www.linkedin.com/posts/iamabhishekchoudhary_datawarehouse-lakehouse-machinelearning-activity-6839506317648941056-d23r)
+* [Real-Time Exactly-Once Processing with Apache Flink, Kafka, and Pinot @uber](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystems-apacheflink-apachekafka-activity-6850759002620522496-zq8w)
+* [WTH is Kubernetes Operator? - An Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_k8s-operator-introduction-activity-6850331132089679872-_sVt)
 
 
 ## SQL
@@ -186,6 +188,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Using `EXPLAIN` for Data Problems - Things beyond SQL](https://www.linkedin.com/posts/iamabhishekchoudhary_databaseexplain-activity-6819573919389941760-euD5)
 * [10 SQL Queries to Blow Your Mind 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlmightiestqueries-activity-6829031645870374912-HW88)
 * [Views, Stored Procedures, Functions & Triggers - SQL ](https://www.linkedin.com/posts/iamabhishekchoudhary_viewstoredproceduretriggersql-activity-6850663245687115776-1V75)
+* [SQL Transaction & ACID Property](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-transaction-activity-6851020805803958272-w69d)
 
 
 
