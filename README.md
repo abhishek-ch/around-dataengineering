@@ -189,6 +189,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [10 SQL Queries to Blow Your Mind 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlmightiestqueries-activity-6829031645870374912-HW88)
 * [Views, Stored Procedures, Functions & Triggers - SQL ](https://www.linkedin.com/posts/iamabhishekchoudhary_viewstoredproceduretriggersql-activity-6850663245687115776-1V75)
 * [SQL Transaction & ACID Property](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-transaction-activity-6851020805803958272-w69d)
+* [How to Solve complex SQL queries](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlcomplexqueriesapproach-activity-6851755823228604416-uoVK)
 
 
 
@@ -259,6 +260,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Paper: Report on Distributed Deep Learning on Data Systems 📂](https://www.linkedin.com/posts/iamabhishekchoudhary_tech-report-of-distributed-deep-learning-activity-6787729738124341249-fFG8)
 * [Crystal: A Unified Cache Storage System for Analytical Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_crystal-semantic-caching-activity-6834495561652076544-UGVO)
 * [VoltDB](https://www.linkedin.com/feed/update/urn:li:activity:6846055501105553408/)
+* [Magnet - Apache Spark Shuffle mechanism to handle petabytes of daily shuffled data and clusters with thousands of nodes](https://www.linkedin.com/posts/iamabhishekchoudhary_magnet-sharkshuffleservice-activity-6851903731227799552-EmLz)
 
 #### Set 2
 
