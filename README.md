@@ -190,6 +190,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Views, Stored Procedures, Functions & Triggers - SQL ](https://www.linkedin.com/posts/iamabhishekchoudhary_viewstoredproceduretriggersql-activity-6850663245687115776-1V75)
 * [SQL Transaction & ACID Property](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-transaction-activity-6851020805803958272-w69d)
 * [How to Solve complex SQL queries](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlcomplexqueriesapproach-activity-6851755823228604416-uoVK)
+* [Apache Spark SQL - The Introduction from RDMBS till SparkSQL](https://www.linkedin.com/posts/iamabhishekchoudhary_sparksqlintroduction-activity-6852476659761782785-MOLf)
 
 
 
