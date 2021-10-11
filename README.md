@@ -191,6 +191,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [SQL Transaction & ACID Property](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-transaction-activity-6851020805803958272-w69d)
 * [How to Solve complex SQL queries](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlcomplexqueriesapproach-activity-6851755823228604416-uoVK)
 * [Apache Spark SQL - The Introduction from RDMBS till SparkSQL](https://www.linkedin.com/posts/iamabhishekchoudhary_sparksqlintroduction-activity-6852476659761782785-MOLf)
+* [Advanced SQL & Functions](https://www.linkedin.com/posts/iamabhishekchoudhary_advanced-sql-functions-activity-6853198639423123456-0g0q)
 
 
 
@@ -281,6 +282,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [SingleStore - A Distributed Database Management System. It's really more than a Database](https://www.linkedin.com/posts/iamabhishekchoudhary_singlestore-database-activity-6842396205964681216-3SLY)
 * [ArrowSAM, in-memory genomics SAM format based on Apache Arrow](https://www.linkedin.com/posts/iamabhishekchoudhary_arrowsam-apache-arrow-based-genomics-sam-activity-6843895456158814208-K86l)
 * [Realtime Data Processing FB - Deep Dive on #streamprocessing](https://www.linkedin.com/posts/iamabhishekchoudhary_realtimedataprocessingatfacebook-activity-6849698562062786560-UhTQ)
+* [ArangoDB - Native multi-model NoSQL Distributed #database, From #sql to NoSQL](https://www.linkedin.com/posts/iamabhishekchoudhary_arangodb-from-relational-to-nosql-activity-6853329534280888325-8GSX)
 
 
 #### NA
