@@ -98,6 +98,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Deep Dive on Why Apache Iceberg for Change Data Capture, using Apache Flink 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_apacheiceberg-deltalake-realtime-activity-6813803694627336192-W7M7)
 * [OpenMetadata is an Open Standard for Metadata. A Single place to Discover, Collaborate, and Get your data right](https://www.linkedin.com/posts/iamabhishekchoudhary_metadata-datamesh-amundsen-activity-6833223767699845120-8U5h)
 * [About Lakehouse](https://www.linkedin.com/posts/iamabhishekchoudhary_datawarehouse-lakehouse-machinelearning-activity-6839506317648941056-d23r)
+* [etcd - A distributed, reliable key-value store for the most critical data of a distributed system](https://www.linkedin.com/posts/iamabhishekchoudhary_etcd-distributed-reliable-key-value-store-activity-6854393688827711488-1mts)
 
 
 #### Gyaan
@@ -192,6 +193,10 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [How to Solve complex SQL queries](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlcomplexqueriesapproach-activity-6851755823228604416-uoVK)
 * [Apache Spark SQL - The Introduction from RDMBS till SparkSQL](https://www.linkedin.com/posts/iamabhishekchoudhary_sparksqlintroduction-activity-6852476659761782785-MOLf)
 * [Advanced SQL & Functions](https://www.linkedin.com/posts/iamabhishekchoudhary_advanced-sql-functions-activity-6853198639423123456-0g0q)
+* [Basic & Intermediate on Database Sharding](https://www.linkedin.com/posts/iamabhishekchoudhary_database-sharding-basic-intermediate-activity-6855026526132477952-UGya)
+* [Complex Database Queries with PostgreSQL](https://www.linkedin.com/posts/iamabhishekchoudhary_complex-database-queries-activity-6854642670451650560-P7xv)
+* [Query Evaluation - Technical Details "when you execute SQL Query"](https://www.linkedin.com/posts/iamabhishekchoudhary_queryevaluation-activity-6853910123237183488-kdw7)
+* [What is Materialized View & how does work in Distributed Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_materialized-view-activity-6853558113245773824-6gBQ)
 
 
 
