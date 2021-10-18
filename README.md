@@ -197,6 +197,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Complex Database Queries with PostgreSQL](https://www.linkedin.com/posts/iamabhishekchoudhary_complex-database-queries-activity-6854642670451650560-P7xv)
 * [Query Evaluation - Technical Details "when you execute SQL Query"](https://www.linkedin.com/posts/iamabhishekchoudhary_queryevaluation-activity-6853910123237183488-kdw7)
 * [What is Materialized View & how does work in Distributed Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_materialized-view-activity-6853558113245773824-6gBQ)
+* [Breaking Down NoSQL Sharding, Replication & Consistency](https://www.linkedin.com/posts/iamabhishekchoudhary_whynosqlshardingiscomplicated-activity-6855744363792781312-KxQz)
 
 
 
