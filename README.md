@@ -160,6 +160,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Data Lakehouse - Is it really the end of Datawarehouse](https://www.linkedin.com/posts/iamabhishekchoudhary_datawarehouse-lakehouse-machinelearning-activity-6839506317648941056-d23r)
 * [Real-Time Exactly-Once Processing with Apache Flink, Kafka, and Pinot @uber](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystems-apacheflink-apachekafka-activity-6850759002620522496-zq8w)
 * [WTH is Kubernetes Operator? - An Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_k8s-operator-introduction-activity-6850331132089679872-_sVt)
+* [Lessons Learned from Sharding Postgres](https://www.linkedin.com/posts/iamabhishekchoudhary_herding-elephants-lessons-learned-from-sharding-activity-6856096160822697984-x4es)
 
 
 ## SQL
@@ -198,6 +199,8 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Query Evaluation - Technical Details "when you execute SQL Query"](https://www.linkedin.com/posts/iamabhishekchoudhary_queryevaluation-activity-6853910123237183488-kdw7)
 * [What is Materialized View & how does work in Distributed Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_materialized-view-activity-6853558113245773824-6gBQ)
 * [Breaking Down NoSQL Sharding, Replication & Consistency](https://www.linkedin.com/posts/iamabhishekchoudhary_whynosqlshardingiscomplicated-activity-6855744363792781312-KxQz)
+* [Database Query Optimization Technique](https://www.linkedin.com/posts/iamabhishekchoudhary_queryoptimizationtechniques-activity-6856460121778790400-PWrb)
+
 
 
 
