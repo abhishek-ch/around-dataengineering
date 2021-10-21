@@ -200,6 +200,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [What is Materialized View & how does work in Distributed Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_materialized-view-activity-6853558113245773824-6gBQ)
 * [Breaking Down NoSQL Sharding, Replication & Consistency](https://www.linkedin.com/posts/iamabhishekchoudhary_whynosqlshardingiscomplicated-activity-6855744363792781312-KxQz)
 * [Database Query Optimization Technique](https://www.linkedin.com/posts/iamabhishekchoudhary_queryoptimizationtechniques-activity-6856460121778790400-PWrb)
+* [Intermediate SQL](https://www.linkedin.com/posts/iamabhishekchoudhary_intermediate-sql-activity-6856827085349040128-IxvM)
 
 
 
