@@ -239,6 +239,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Building DistributedLog: High-performance replicated log service 🎉](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystems-dataengineering-bigdata-activity-6786283090441506816-kCob)
 * [How to scale Kubernetes with Assurance](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-infrastructure-dataengineering-activity-6786619511165501440-pcNS)
 * [Apache Calcite - Building Sql Query Processor from Scratch over Lucene](https://www.linkedin.com/posts/iamabhishekchoudhary_calcite-tutorial-lucene-activity-6833330741460447233-CCfP)
+* [Database Storage](https://www.linkedin.com/posts/iamabhishekchoudhary_database-storage-basics-activity-6858266378051350528-0F1-)
 
 ## Paper
 
