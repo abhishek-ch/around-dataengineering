@@ -203,6 +203,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Breaking Down NoSQL Sharding, Replication & Consistency](https://www.linkedin.com/posts/iamabhishekchoudhary_whynosqlshardingiscomplicated-activity-6855744363792781312-KxQz)
 * [Database Query Optimization Technique](https://www.linkedin.com/posts/iamabhishekchoudhary_queryoptimizationtechniques-activity-6856460121778790400-PWrb)
 * [Intermediate SQL](https://www.linkedin.com/posts/iamabhishekchoudhary_intermediate-sql-activity-6856827085349040128-IxvM)
+* [SQL Stored Procedures](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlproceduresdeep-dive-activity-6859022836573507584-3Khi)
 
 
 
