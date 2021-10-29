@@ -298,6 +298,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [ArrowSAM, in-memory genomics SAM format based on Apache Arrow](https://www.linkedin.com/posts/iamabhishekchoudhary_arrowsam-apache-arrow-based-genomics-sam-activity-6843895456158814208-K86l)
 * [Realtime Data Processing FB - Deep Dive on #streamprocessing](https://www.linkedin.com/posts/iamabhishekchoudhary_realtimedataprocessingatfacebook-activity-6849698562062786560-UhTQ)
 * [ArangoDB - Native multi-model NoSQL Distributed #database, From #sql to NoSQL](https://www.linkedin.com/posts/iamabhishekchoudhary_arangodb-from-relational-to-nosql-activity-6853329534280888325-8GSX)
+* [To BLOB or Not To BLOB: Large Object Storage in a Database or a Filesystem](https://www.linkedin.com/posts/iamabhishekchoudhary_large-object-storage-in-a-database-or-a-filesystem-activity-6859838164094255104-1P4M)
 
 
 #### NA
