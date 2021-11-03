@@ -30,8 +30,6 @@
 * [Absolute Basic Explanation of SSTable & Log Structured Merge Trees - Sorted String Table & Faster Random Writes](https://www.linkedin.com/posts/iamabhishekchoudhary_datastructures-cassandra-dataengineering-activity-6833629108484784128-u-bN)
 
 
-
-
 ## The Data Engineering
 
 #### Level 0
@@ -164,6 +162,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Real-Time Exactly-Once Processing with Apache Flink, Kafka, and Pinot @uber](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystems-apacheflink-apachekafka-activity-6850759002620522496-zq8w)
 * [WTH is Kubernetes Operator? - An Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_k8s-operator-introduction-activity-6850331132089679872-_sVt)
 * [Lessons Learned from Sharding Postgres](https://www.linkedin.com/posts/iamabhishekchoudhary_herding-elephants-lessons-learned-from-sharding-activity-6856096160822697984-x4es)
+* [What is Kubernetes- An introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-introduction-activity-6861168802697220096-wCI1)
 
 
 ## SQL
@@ -205,6 +204,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Database Query Optimization Technique](https://www.linkedin.com/posts/iamabhishekchoudhary_queryoptimizationtechniques-activity-6856460121778790400-PWrb)
 * [Intermediate SQL](https://www.linkedin.com/posts/iamabhishekchoudhary_intermediate-sql-activity-6856827085349040128-IxvM)
 * [SQL Stored Procedures](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlproceduresdeep-dive-activity-6859022836573507584-3Khi)
+* [OLAP & OLTP - Datawarehouse Data Mining](https://www.linkedin.com/posts/iamabhishekchoudhary_olap-vs-oltp-activity-6860811031833296896-fapF)
 
 
 
@@ -244,6 +244,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [How to scale Kubernetes with Assurance](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-infrastructure-dataengineering-activity-6786619511165501440-pcNS)
 * [Apache Calcite - Building Sql Query Processor from Scratch over Lucene](https://www.linkedin.com/posts/iamabhishekchoudhary_calcite-tutorial-lucene-activity-6833330741460447233-CCfP)
 * [Database Storage](https://www.linkedin.com/posts/iamabhishekchoudhary_database-storage-basics-activity-6858266378051350528-0F1-)
+* [ACID is the foundation of Database, BASE is for NoSQL Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_acid-base-activity-6861531231998275584-q8ih)
 
 ## Paper
 
@@ -299,11 +300,13 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Realtime Data Processing FB - Deep Dive on #streamprocessing](https://www.linkedin.com/posts/iamabhishekchoudhary_realtimedataprocessingatfacebook-activity-6849698562062786560-UhTQ)
 * [ArangoDB - Native multi-model NoSQL Distributed #database, From #sql to NoSQL](https://www.linkedin.com/posts/iamabhishekchoudhary_arangodb-from-relational-to-nosql-activity-6853329534280888325-8GSX)
 * [To BLOB or Not To BLOB: Large Object Storage in a Database or a Filesystem](https://www.linkedin.com/posts/iamabhishekchoudhary_large-object-storage-in-a-database-or-a-filesystem-activity-6859838164094255104-1P4M)
+* [How to bring robustness while Designing Large Scale Complex Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_robustness-in-complex-system-activity-6861671058144010240-18bY)
 
 
 #### NA
 * [Glow is an open-source toolkit for working with genomic data at biobank-scale and beyond using #apachespark & #deltalake 💊🎉💉](https://www.linkedin.com/posts/iamabhishekchoudhary_apachespark-deltalake-bioinformatics-activity-6758414696254119936-RCz5)
 * [ExPASy - Databases and software tools in proteomics, #genomics, phylogeny, systems biology, evolution, population genetics, and transcriptomics 💡💊💊](https://www.linkedin.com/posts/iamabhishekchoudhary_genomics-bioinformatics-expasy-activity-6750752435607793664-4M1Q)
+* [What is Metadata - A Data Engineering necessity](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-metadata-activity-6860433758181474304-qLcY)
 
 
 ## Cloud 
