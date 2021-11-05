@@ -100,6 +100,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [About Lakehouse](https://www.linkedin.com/posts/iamabhishekchoudhary_datawarehouse-lakehouse-machinelearning-activity-6839506317648941056-d23r)
 * [etcd - A distributed, reliable key-value store for the most critical data of a distributed system](https://www.linkedin.com/posts/iamabhishekchoudhary_etcd-distributed-reliable-key-value-store-activity-6854393688827711488-1mts)
 * [What is Redis](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-redis-data-store-activity-6859358023492648960-YxoZ)
+* [What is Hive](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-apache-hive-activity-6862273737388032000-nRSq)
 
 
 #### Gyaan
