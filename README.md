@@ -85,6 +85,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Why Data Discovery is important for Data Engineering](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-bigdata-datagovernance-activity-6797526472681771008-C-XM)
 * [Queue vs Log - Event driven Architecture](https://www.linkedin.com/posts/iamabhishekchoudhary_eventsourcing-distributedsystems-bigdata-activity-6798554566800523264-xa88)
 
+
 #### Level 1.1
 * [Multiple criteria search at scale with Apache Pinot & Theta Sketches](https://www.linkedin.com/posts/iamabhishekchoudhary_solving-for-the-cardinality-of-set-intersection-activity-6789846326893969408-4exe)
 * [VM vs Containers - Similar but Different](https://www.linkedin.com/posts/iamabhishekchoudhary_docker-dataengineering-bigdata-activity-6790586642504724480-Zq0e)
@@ -101,9 +102,10 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [etcd - A distributed, reliable key-value store for the most critical data of a distributed system](https://www.linkedin.com/posts/iamabhishekchoudhary_etcd-distributed-reliable-key-value-store-activity-6854393688827711488-1mts)
 * [What is Redis](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-redis-data-store-activity-6859358023492648960-YxoZ)
 * [What is Hive](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-apache-hive-activity-6862273737388032000-nRSq)
+* [What is Data Warehouse - An Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-data-warehouse-activity-6862625346521583616-x6Yl)
 
 
-#### Gyaan
+#### Dataengineering Core 
 
 * [A Data Engineering Story - The Beginning](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/blog1/index.md)
 * [Data Engineering - More towards Data Science or Data Analytics or ...](https://github.com/abhishek-ch/around-dataengineering/tree/blog2) 
@@ -137,6 +139,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Readings Around Databases](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/Reading_ardound_database.md)
 * [Code Review Best Practice, bcz Developers, hate code reviews](https://www.linkedin.com/posts/iamabhishekchoudhary_codereviewbestpractice-activity-6812358358906019840-Qfw5)
 * [Important Performance Criteria to measure DataEngineering Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-distributedsystems-datastructures-activity-6848612433121157120-wrNi)
+* [Database Internals - Storage](https://www.linkedin.com/posts/iamabhishekchoudhary_database-storage-internals-activity-6863372646696972288-Hsia)
 
 
 #### Infrastructure
