@@ -209,6 +209,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Intermediate SQL](https://www.linkedin.com/posts/iamabhishekchoudhary_intermediate-sql-activity-6856827085349040128-IxvM)
 * [SQL Stored Procedures](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlproceduresdeep-dive-activity-6859022836573507584-3Khi)
 * [OLAP & OLTP - Datawarehouse Data Mining](https://www.linkedin.com/posts/iamabhishekchoudhary_olap-vs-oltp-activity-6860811031833296896-fapF)
+* [Database Fundamentals](https://www.linkedin.com/posts/iamabhishekchoudhary_database-fundamentals-activity-6863695598084775936-ZgKM)
 
 
 
