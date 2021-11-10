@@ -308,10 +308,11 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [How to bring robustness while Designing Large Scale Complex Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_robustness-in-complex-system-activity-6861671058144010240-18bY)
 
 
-#### NA
+#### Advanced
 * [Glow is an open-source toolkit for working with genomic data at biobank-scale and beyond using #apachespark & #deltalake 💊🎉💉](https://www.linkedin.com/posts/iamabhishekchoudhary_apachespark-deltalake-bioinformatics-activity-6758414696254119936-RCz5)
 * [ExPASy - Databases and software tools in proteomics, #genomics, phylogeny, systems biology, evolution, population genetics, and transcriptomics 💡💊💊](https://www.linkedin.com/posts/iamabhishekchoudhary_genomics-bioinformatics-expasy-activity-6750752435607793664-4M1Q)
 * [What is Metadata - A Data Engineering necessity](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-metadata-activity-6860433758181474304-qLcY)
+* [What is Distributed Database](https://www.linkedin.com/posts/iamabhishekchoudhary_distributeddatabaseintroduction-activity-6864058792556982272-ulZZ)
 
 
 ## Cloud 
