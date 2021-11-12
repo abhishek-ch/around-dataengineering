@@ -61,6 +61,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [SQL - Avoiding Antipatterns](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlantipattern-activity-6826491257410396160-xX5P)
 * [Explaining Apache Kafka - In children's book format](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafka-streamprocessing-dataengineering-activity-6811538408763121664-5qpL)
 * [The Perfect #dataengineering: Top INVALID Reasons behind #datapipelines failures](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-datapipelines-data-activity-6839946812015603712-FnZq)
+* [What is ETL](https://www.linkedin.com/posts/iamabhishekchoudhary_etl-introduction-ugcPost-6864433492600635392-sbBl)
 
 
 #### Level 1
@@ -167,6 +168,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [WTH is Kubernetes Operator? - An Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_k8s-operator-introduction-activity-6850331132089679872-_sVt)
 * [Lessons Learned from Sharding Postgres](https://www.linkedin.com/posts/iamabhishekchoudhary_herding-elephants-lessons-learned-from-sharding-activity-6856096160822697984-x4es)
 * [What is Kubernetes- An introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-introduction-activity-6861168802697220096-wCI1)
+* [ELK Stack - Introduction of Scalable Monitoring](https://www.linkedin.com/posts/iamabhishekchoudhary_elk-stack-introduction-activity-6864796949678223360-j-oo)
 
 
 ## SQL
