@@ -104,6 +104,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [What is Redis](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-redis-data-store-activity-6859358023492648960-YxoZ)
 * [What is Hive](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-apache-hive-activity-6862273737388032000-nRSq)
 * [What is Data Warehouse - An Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-data-warehouse-activity-6862625346521583616-x6Yl)
+* [Fundamentals of Designing Data Warehouse](https://www.linkedin.com/posts/iamabhishekchoudhary_fundamentals-of-designing-data-warehouse-activity-6865875658413793280-3Cln)
 
 
 #### Dataengineering Core 
