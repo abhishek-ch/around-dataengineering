@@ -170,6 +170,8 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Lessons Learned from Sharding Postgres](https://www.linkedin.com/posts/iamabhishekchoudhary_herding-elephants-lessons-learned-from-sharding-activity-6856096160822697984-x4es)
 * [What is Kubernetes- An introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-introduction-activity-6861168802697220096-wCI1)
 * [ELK Stack - Introduction of Scalable Monitoring](https://www.linkedin.com/posts/iamabhishekchoudhary_elk-stack-introduction-activity-6864796949678223360-j-oo)
+* [What is NGINX - An Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_nginx-introduction-activity-6867698654820519937-Z_cX)
+* [What is Load Balancer - An Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-load-balancer-an-introduction-activity-6866977826793435136-SmCk)
 
 
 ## SQL
@@ -213,7 +215,8 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [SQL Stored Procedures](https://www.linkedin.com/posts/iamabhishekchoudhary_sqlproceduresdeep-dive-activity-6859022836573507584-3Khi)
 * [OLAP & OLTP - Datawarehouse Data Mining](https://www.linkedin.com/posts/iamabhishekchoudhary_olap-vs-oltp-activity-6860811031833296896-fapF)
 * [Database Fundamentals](https://www.linkedin.com/posts/iamabhishekchoudhary_database-fundamentals-activity-6863695598084775936-ZgKM)
-
+* [SQL Subqueries](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-subqueries-activity-6868420033782059008-wfr8)
+* [NewSQL Introduction - Basic to Intermediate](https://www.linkedin.com/posts/iamabhishekchoudhary_newsql-introduction-activity-6867339297767387136-O-sG)
 
 
 
