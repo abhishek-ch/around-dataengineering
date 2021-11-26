@@ -217,6 +217,8 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Database Fundamentals](https://www.linkedin.com/posts/iamabhishekchoudhary_database-fundamentals-activity-6863695598084775936-ZgKM)
 * [SQL Subqueries](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-subqueries-activity-6868420033782059008-wfr8)
 * [NewSQL Introduction - Basic to Intermediate](https://www.linkedin.com/posts/iamabhishekchoudhary_newsql-introduction-activity-6867339297767387136-O-sG)
+* [SQL Intermediate & basics Deep Dive](https://www.linkedin.com/posts/iamabhishekchoudhary_introduction-to-sql-intermediate-deep-dive-activity-6869861428271091712-Pbmm)
+* [SQL Basics - The Starting point](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-basics-ugcPost-6869502880605360128-78iw)
 
 
 
