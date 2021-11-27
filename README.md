@@ -258,6 +258,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Apache Calcite - Building Sql Query Processor from Scratch over Lucene](https://www.linkedin.com/posts/iamabhishekchoudhary_calcite-tutorial-lucene-activity-6833330741460447233-CCfP)
 * [Database Storage](https://www.linkedin.com/posts/iamabhishekchoudhary_database-storage-basics-activity-6858266378051350528-0F1-)
 * [ACID is the foundation of Database, BASE is for NoSQL Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_acid-base-activity-6861531231998275584-q8ih)
+* [Some common elements behind many Distributed Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_databases-dataengineering-datainfrastructure-activity-6870277667103526912-d0d6)
 
 ## Paper
 
