@@ -220,7 +220,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [SQL Intermediate & basics Deep Dive](https://www.linkedin.com/posts/iamabhishekchoudhary_introduction-to-sql-intermediate-deep-dive-activity-6869861428271091712-Pbmm)
 * [SQL Basics - The Starting point](https://www.linkedin.com/posts/iamabhishekchoudhary_sql-basics-ugcPost-6869502880605360128-78iw)
 * [Data Warehousing & OLAP Technology](https://www.linkedin.com/posts/iamabhishekchoudhary_dwholap-activity-6871337092929138689-QMcd)
-
+* [Snowflake Datawarehouse](https://www.linkedin.com/posts/iamabhishekchoudhary_snowflake-activity-6871720966620282880-23OI)
 
 
 ## Machine Learning
@@ -316,6 +316,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [ArangoDB - Native multi-model NoSQL Distributed #database, From #sql to NoSQL](https://www.linkedin.com/posts/iamabhishekchoudhary_arangodb-from-relational-to-nosql-activity-6853329534280888325-8GSX)
 * [To BLOB or Not To BLOB: Large Object Storage in a Database or a Filesystem](https://www.linkedin.com/posts/iamabhishekchoudhary_large-object-storage-in-a-database-or-a-filesystem-activity-6859838164094255104-1P4M)
 * [How to bring robustness while Designing Large Scale Complex Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_robustness-in-complex-system-activity-6861671058144010240-18bY)
+* [Facebook Datawarehouse](https://www.linkedin.com/posts/iamabhishekchoudhary_data-warehouse-analytics-infrastructure-activity-6872096948296454145-KrwG)
 
 
 #### Advanced
