@@ -142,6 +142,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Code Review Best Practice, bcz Developers, hate code reviews](https://www.linkedin.com/posts/iamabhishekchoudhary_codereviewbestpractice-activity-6812358358906019840-Qfw5)
 * [Important Performance Criteria to measure DataEngineering Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-distributedsystems-datastructures-activity-6848612433121157120-wrNi)
 * [Database Internals - Storage](https://www.linkedin.com/posts/iamabhishekchoudhary_database-storage-internals-activity-6863372646696972288-Hsia)
+* [Data Integration for Databases & Data Warehousing - An Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_data-integration-introduction-activity-6872779193617309696-HU54)
 
 
 #### Infrastructure
