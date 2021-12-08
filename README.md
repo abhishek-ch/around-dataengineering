@@ -223,6 +223,9 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Data Warehousing & OLAP Technology](https://www.linkedin.com/posts/iamabhishekchoudhary_dwholap-activity-6871337092929138689-QMcd)
 * [Snowflake Datawarehouse](https://www.linkedin.com/posts/iamabhishekchoudhary_snowflake-activity-6871720966620282880-23OI)
 
+### NoSQL
+* [NoSQL & MongoDB]https://www.linkedin.com/posts/iamabhishekchoudhary_nosql-mongodb-activity-6874231633654935553-Z66u)
+
 
 ## Machine Learning
 
