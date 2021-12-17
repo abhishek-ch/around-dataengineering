@@ -173,6 +173,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [ELK Stack - Introduction of Scalable Monitoring](https://www.linkedin.com/posts/iamabhishekchoudhary_elk-stack-introduction-activity-6864796949678223360-j-oo)
 * [What is NGINX - An Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_nginx-introduction-activity-6867698654820519937-Z_cX)
 * [What is Load Balancer - An Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-load-balancer-an-introduction-activity-6866977826793435136-SmCk)
+* [What is OAuth 2 - Introduction|API Based Authorization](https://www.linkedin.com/posts/iamabhishekchoudhary_oauth-2-introduction-activity-6877542164289728512-m1WG)
 
 
 ## SQL
