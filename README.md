@@ -225,6 +225,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Snowflake Datawarehouse](https://www.linkedin.com/posts/iamabhishekchoudhary_snowflake-activity-6871720966620282880-23OI)
 * [RelationalAlgebra & SQL](https://www.linkedin.com/posts/iamabhishekchoudhary_relationalalgebrasql-activity-6874631115001393152-nMFW)
 * [Logical Schema Design: SQL Database](https://www.linkedin.com/posts/iamabhishekchoudhary_logical-schema-design-sql-activity-6876437920027439104-uncn)
+* [Kubernetes Pod Internals - Deep Dive](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-pod-internals-activity-6878625725881171968-MfQn)
 
 
 ### NoSQL
