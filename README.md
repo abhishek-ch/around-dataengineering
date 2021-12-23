@@ -335,6 +335,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [ExPASy - Databases and software tools in proteomics, #genomics, phylogeny, systems biology, evolution, population genetics, and transcriptomics 💡💊💊](https://www.linkedin.com/posts/iamabhishekchoudhary_genomics-bioinformatics-expasy-activity-6750752435607793664-4M1Q)
 * [What is Metadata - A Data Engineering necessity](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-metadata-activity-6860433758181474304-qLcY)
 * [What is Distributed Database](https://www.linkedin.com/posts/iamabhishekchoudhary_distributeddatabaseintroduction-activity-6864058792556982272-ulZZ)
+* [To Partition, or Not to Partition, That is the Join Question in a Real System](https://www.linkedin.com/posts/iamabhishekchoudhary_when-does-radix-partitioning-pay-of-in-database-activity-6879826992397742080-Fqzn)
 
 
 ## Cloud 
