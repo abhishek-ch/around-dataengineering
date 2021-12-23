@@ -21,6 +21,7 @@
 * [Riak Database](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/riakdb.md)
 * [Database Indexing](https://www.linkedin.com/posts/iamabhishekchoudhary_databaseindexes-activity-6844509295476924416-Jzto)
 * [Parallel Databases using Map Reduce](https://www.linkedin.com/posts/iamabhishekchoudhary_parallel-databases-using-map-reduce-activity-6858620336083136512-NtTz)
+* [REST vs GraphQL](https://www.linkedin.com/posts/iamabhishekchoudhary_restapi-vs-graphql-activity-6879712973284364288-O8ad)
 
 
 ## Weekly Digest
