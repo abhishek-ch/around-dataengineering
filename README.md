@@ -176,6 +176,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [What is Load Balancer - An Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-load-balancer-an-introduction-activity-6866977826793435136-SmCk)
 * [What is OAuth 2 - Introduction|API Based Authorization](https://www.linkedin.com/posts/iamabhishekchoudhary_oauth-2-introduction-activity-6877542164289728512-m1WG)
 * [Kubernetes & Networks - It's hard because multiple options are available](https://www.linkedin.com/posts/iamabhishekchoudhary_k8s-networks-activity-6880088004594151424-FhbK)
+* [Kubernetes Reconciliation](https://www.linkedin.com/posts/iamabhishekchoudhary_k8s-what-is-reconciliation-activity-6881167406342004736-FbuO)
 
 
 ## SQL
