@@ -339,6 +339,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [What is Metadata - A Data Engineering necessity](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-metadata-activity-6860433758181474304-qLcY)
 * [What is Distributed Database](https://www.linkedin.com/posts/iamabhishekchoudhary_distributeddatabaseintroduction-activity-6864058792556982272-ulZZ)
 * [To Partition, or Not to Partition, That is the Join Question in a Real System](https://www.linkedin.com/posts/iamabhishekchoudhary_when-does-radix-partitioning-pay-of-in-database-activity-6879826992397742080-Fqzn)
+* [Paper: Solana- A new architecture for a high performance blockchain-inspired by Distributed Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_solana-whitepaper-distributed-blockchain-activity-6881606001796235264-jDBU)
 
 
 ## Cloud 
