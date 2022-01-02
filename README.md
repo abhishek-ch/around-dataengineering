@@ -331,6 +331,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Facebook Datawarehouse](https://www.linkedin.com/posts/iamabhishekchoudhary_data-warehouse-analytics-infrastructure-activity-6872096948296454145-KrwG)
 * [Building a performant OLTP system on an open-source columnar format, and supporting near-zero overhead data export to external tools](https://www.linkedin.com/posts/iamabhishekchoudhary_columnar-format-for-both-oltp-olap-using-activity-6876921762639036416-hYV1)
 * [Towards Demystifying Serverless Machine Learning Training](https://www.linkedin.com/posts/iamabhishekchoudhary_towards-demystifying-serverless-machine-learning-activity-6880184328421294080-WVi7)
+* [Paper: Scalable Linear Algebra on top of Distributed Databases, this will simplify Machine Learning on Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_scalable-linear-algebra-on-a-relational-database-activity-6883378575798611968-PZg1)
 
 
 #### Advanced
