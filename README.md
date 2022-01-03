@@ -246,6 +246,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [MLOps - ZenML #machinelearning with reproducible pipelines ✅💯✅](https://www.linkedin.com/posts/iamabhishekchoudhary_maiot-iozenml-activity-6748236907542577152-nBOj)
 * [Why? Data Versioning is a complicated problem for Dataengineers](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineers-apacheiceberg-deltalake-activity-6793880325475901440-Lsxx)
 * [Explainable AI Cheat Sheet](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-mlops-dataengineering-activity-6794228285145452545-YEwQ)
+* [Designing Machine Learning infrastructure](https://www.linkedin.com/posts/iamabhishekchoudhary_lifescience-dataengineering-activity-6883778465296990208-8RUn)
 
 
 #### Project
