@@ -229,6 +229,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [RelationalAlgebra & SQL](https://www.linkedin.com/posts/iamabhishekchoudhary_relationalalgebrasql-activity-6874631115001393152-nMFW)
 * [Logical Schema Design: SQL Database](https://www.linkedin.com/posts/iamabhishekchoudhary_logical-schema-design-sql-activity-6876437920027439104-uncn)
 * [Kubernetes Pod Internals - Deep Dive](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-pod-internals-activity-6878625725881171968-MfQn)
+* [The Illustrated Children's Guide to Kubernetes](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-children-book-activity-6884036918624034816-DtTK)
 
 
 ### NoSQL
