@@ -177,6 +177,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [What is OAuth 2 - Introduction|API Based Authorization](https://www.linkedin.com/posts/iamabhishekchoudhary_oauth-2-introduction-activity-6877542164289728512-m1WG)
 * [Kubernetes & Networks - It's hard because multiple options are available](https://www.linkedin.com/posts/iamabhishekchoudhary_k8s-networks-activity-6880088004594151424-FhbK)
 * [Kubernetes Reconciliation](https://www.linkedin.com/posts/iamabhishekchoudhary_k8s-what-is-reconciliation-activity-6881167406342004736-FbuO)
+* [Troubleshooting Kubernetes App](https://www.linkedin.com/posts/iamabhishekchoudhary_troubleshooting-kubernetes-app-activity-6885146702148435968-n1oo)
 
 
 ## SQL
