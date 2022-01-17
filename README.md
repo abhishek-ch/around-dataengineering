@@ -337,6 +337,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Building a performant OLTP system on an open-source columnar format, and supporting near-zero overhead data export to external tools](https://www.linkedin.com/posts/iamabhishekchoudhary_columnar-format-for-both-oltp-olap-using-activity-6876921762639036416-hYV1)
 * [Towards Demystifying Serverless Machine Learning Training](https://www.linkedin.com/posts/iamabhishekchoudhary_towards-demystifying-serverless-machine-learning-activity-6880184328421294080-WVi7)
 * [Paper: Scalable Linear Algebra on top of Distributed Databases, this will simplify Machine Learning on Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_scalable-linear-algebra-on-a-relational-database-activity-6883378575798611968-PZg1)
+* [Paper: Are You Sure You Want to Use MMAP in Your Database Management System](https://www.linkedin.com/posts/iamabhishekchoudhary_paper-dont-use-mmap-in-your-database-management-activity-6888862226975924224-J4Tn)
 
 
 #### Advanced
