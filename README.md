@@ -86,6 +86,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [ApacheKafka without ZooKeeper Sneak Peak🔎](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafka-distributedsystems-zookeeper-activity-6782957154392432640-3s5r)
 * [Why Data Discovery is important for Data Engineering](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-bigdata-datagovernance-activity-6797526472681771008-C-XM)
 * [Queue vs Log - Event driven Architecture](https://www.linkedin.com/posts/iamabhishekchoudhary_eventsourcing-distributedsystems-bigdata-activity-6798554566800523264-xa88)
+* [Database Indexing](https://www.linkedin.com/posts/iamabhishekchoudhary_postgres-indexes-for-newbies-activity-6889845127477563392-04Kp)
 
 
 #### Level 1.1
