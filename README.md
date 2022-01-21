@@ -181,6 +181,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Kubernetes Reconciliation](https://www.linkedin.com/posts/iamabhishekchoudhary_k8s-what-is-reconciliation-activity-6881167406342004736-FbuO)
 * [Troubleshooting Kubernetes App](https://www.linkedin.com/posts/iamabhishekchoudhary_troubleshooting-kubernetes-app-activity-6885146702148435968-n1oo)
 * [Kubernetes Best Practices - Classics](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-best-practices-activity-6886580619527155712--h7D)
+* [Paper: Serverless Computing: A Survey of Opportunities, Challenges, and Applications](https://www.linkedin.com/posts/iamabhishekchoudhary_serverless-computing-activity-6890329219063189504-7P-5)
 
 
 ## SQL
