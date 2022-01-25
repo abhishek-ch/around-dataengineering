@@ -146,6 +146,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Database Internals - Storage](https://www.linkedin.com/posts/iamabhishekchoudhary_database-storage-internals-activity-6863372646696972288-Hsia)
 * [Data Integration for Databases & Data Warehousing - An Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_data-integration-introduction-activity-6872779193617309696-HU54)
 * [What is Protocol Buffer - An excellent important data interchange format for serialization, "Zero Copy" format](https://www.linkedin.com/posts/iamabhishekchoudhary_protocol-buffer-activity-6886960430330232832-ONrn)
+* [Memcached, Redis & Elasticache - To accelerate your data or databases](https://www.linkedin.com/posts/iamabhishekchoudhary_memory-memcached-redis-elasticache-activity-6891708019474788352-8ur_)
 
 
 #### Infrastructure
