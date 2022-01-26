@@ -353,6 +353,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Paper: Solana- A new architecture for a high performance blockchain-inspired by Distributed Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_solana-whitepaper-distributed-blockchain-activity-6881606001796235264-jDBU)
 * [Scaling Large Production Clusters with Partitioned Synchronization](https://www.linkedin.com/posts/iamabhishekchoudhary_scaling-large-production-clusters-activity-6881968002917638144-5CiQ)
 * [Paper: Volcano Operator Model is based on relational algebra](https://www.linkedin.com/posts/iamabhishekchoudhary_volcano-query-processing-engine-activity-6884139657123241984-ZwEY)
+* [Paper: Faster and Cheaper Serverless Computing on Harvested Resources](https://www.linkedin.com/posts/iamabhishekchoudhary_faster-and-cheaper-serverless-computing-on-activity-6892139456795598850-X-Qs)
 
 
 ## Cloud 
