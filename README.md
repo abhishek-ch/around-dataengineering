@@ -241,6 +241,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 
 ### NoSQL
 * [NoSQL & MongoDB]https://www.linkedin.com/posts/iamabhishekchoudhary_nosql-mongodb-activity-6874231633654935553-Z66u)
+* [CouchDB Introduction - • Document Storage Database](https://www.linkedin.com/posts/iamabhishekchoudhary_couchdb-document-db-activity-6892768901944401921-zxkA)
 
 
 ## Machine Learning
