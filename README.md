@@ -237,6 +237,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Kubernetes Pod Internals - Deep Dive](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-pod-internals-activity-6878625725881171968-MfQn)
 * [The Illustrated Children's Guide to Kubernetes](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-children-book-activity-6884036918624034816-DtTK)
 * [SQL Subqueries by Example](https://www.linkedin.com/posts/iamabhishekchoudhary_understanding-subqueries-by-examples-activity-6890591994150760448-mdsN)
+* [What is Write-Ahead-Logging (WAL)](https://www.linkedin.com/posts/iamabhishekchoudhary_wal-write-ahead-log-activity-6894184345448321024-dW5p)
 
 
 ### NoSQL
