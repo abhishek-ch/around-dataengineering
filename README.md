@@ -357,6 +357,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Scaling Large Production Clusters with Partitioned Synchronization](https://www.linkedin.com/posts/iamabhishekchoudhary_scaling-large-production-clusters-activity-6881968002917638144-5CiQ)
 * [Paper: Volcano Operator Model is based on relational algebra](https://www.linkedin.com/posts/iamabhishekchoudhary_volcano-query-processing-engine-activity-6884139657123241984-ZwEY)
 * [Paper: Faster and Cheaper Serverless Computing on Harvested Resources](https://www.linkedin.com/posts/iamabhishekchoudhary_faster-and-cheaper-serverless-computing-on-activity-6892139456795598850-X-Qs)
+* [DBOS: A Paper on DBMS-oriented Operating System](https://www.linkedin.com/posts/iamabhishekchoudhary_dbos-database-operating-system-activity-6895067128035127296-V7Hh)
 
 
 ## Cloud 
