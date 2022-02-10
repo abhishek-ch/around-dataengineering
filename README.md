@@ -184,6 +184,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Troubleshooting Kubernetes App](https://www.linkedin.com/posts/iamabhishekchoudhary_troubleshooting-kubernetes-app-activity-6885146702148435968-n1oo)
 * [Kubernetes Best Practices - Classics](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-best-practices-activity-6886580619527155712--h7D)
 * [Paper: Serverless Computing: A Survey of Opportunities, Challenges, and Applications](https://www.linkedin.com/posts/iamabhishekchoudhary_serverless-computing-activity-6890329219063189504-7P-5)
+* [Choosing the Kubernetes Local Cluster](https://www.linkedin.com/posts/iamabhishekchoudhary_local-kubernetes-cluster-which-why-activity-6897194508409278464-CV61)
 
 
 ## SQL
@@ -362,4 +363,5 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [DBOS: A Paper on DBMS-oriented Operating System](https://www.linkedin.com/posts/iamabhishekchoudhary_dbos-database-operating-system-activity-6895067128035127296-V7Hh)
 
 
-## Cloud 
+## Basics
+* [What is Compiler - Programming language Processor](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-compiler-activity-6897471758522212353-w9rs)
