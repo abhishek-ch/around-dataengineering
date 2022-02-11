@@ -1,0 +1,23 @@
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: spark-worker
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      component: spark-worker
+  template:
+    metadata:
+      labels:
+        component: spark-worker
+    spec:
+      containers:
+        - name: spark-worker
+          image: spark-kind:3.2.0
+          command: ["/spark-worker"]
+          ports:
+            - containerPort: 8081
+          resources:
+            requests:
+              cpu: 1000m

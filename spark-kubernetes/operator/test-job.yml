@@ -1,0 +1,39 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: spark-on-eks
+spec:
+  template:
+    spec:
+      securityContext:
+        runAsUser: 65534
+        runAsGroup: 65534
+      containers:
+        - name: spark-test
+          image: docker.io/library/spark-kind:3.2.0
+          command: [
+            "/bin/sh",
+            "-c",
+            "/opt/spark/bin/spark-submit \
+            --master k8s://https://172.18.0.2:6443 \
+            --deploy-mode cluster \
+            --name spark-on-eks \
+            --class org.apache.spark.examples.SparkPi \
+            --conf spark.executor.instances=2 \
+            --conf spark.executor.memory=1G \
+            --conf spark.executor.cores=2 \
+            --conf spark.sql.shuffle.partitions=60 \
+            --conf spark.kubernetes.container.image=docker.io/library/spark-kind:3.2.0 \
+            --conf spark.kubernetes.container.image.pullPolicy=Always \
+            --conf spark.kubernetes.authenticate.driver.serviceAccountName=spark \
+            --conf spark.driver.host=$(hostname -i) \
+            --conf spark.driver.pod.name=$(hostname) \
+            --conf spark.jars.ivy=/tmp \
+            local:///opt/spark/examples/jars/spark-examples_2.12-3.1.1.jar"
+          ]
+      serviceAccountName: spark
+      restartPolicy: Never
+  backoffLimit: 2
+
+
+  # https://kubernetes.default.svc.cluster.local
