@@ -366,3 +366,4 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 
 ## Basics
 * [What is Compiler - Programming language Processor](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-compiler-activity-6897471758522212353-w9rs)
+* [Understanding Raft Consensus](https://www.linkedin.com/posts/iamabhishekchoudhary_raft-consensus-activity-6898202083418279936-Bl-J)
