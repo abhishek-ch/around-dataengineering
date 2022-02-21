@@ -364,6 +364,9 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Paper: Faster and Cheaper Serverless Computing on Harvested Resources](https://www.linkedin.com/posts/iamabhishekchoudhary_faster-and-cheaper-serverless-computing-on-activity-6892139456795598850-X-Qs)
 * [DBOS: A Paper on DBMS-oriented Operating System](https://www.linkedin.com/posts/iamabhishekchoudhary_dbos-database-operating-system-activity-6895067128035127296-V7Hh)
 
+## Discussions
+[Should you pick Managed Service or build self Managed Open Source Infrastructure](https://www.linkedin.com/posts/iamabhishekchoudhary_data-engineering-managed-service-vs-self-activity-6901439190475579392-BxxY)
+
 
 ## Basics
 * [What is Compiler - Programming language Processor](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-compiler-activity-6897471758522212353-w9rs)
