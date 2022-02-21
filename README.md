@@ -109,6 +109,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [What is Data Warehouse - An Introduction](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-data-warehouse-activity-6862625346521583616-x6Yl)
 * [Fundamentals of Designing Data Warehouse](https://www.linkedin.com/posts/iamabhishekchoudhary_fundamentals-of-designing-data-warehouse-activity-6865875658413793280-3Cln)
 * [Database Relational Model - A way of looking at Data](https://www.linkedin.com/posts/iamabhishekchoudhary_database-relational-model-activity-6888768611230511104-Eyu4)
+* [Data Engineering Infrastructure Notes](https://www.linkedin.com/posts/iamabhishekchoudhary_data-engineering-infrastructure-notes-activity-6901541636677910528-jjxL)
 
 #### Dataengineering Core 
 
