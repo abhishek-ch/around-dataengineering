@@ -365,6 +365,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Paper: Volcano Operator Model is based on relational algebra](https://www.linkedin.com/posts/iamabhishekchoudhary_volcano-query-processing-engine-activity-6884139657123241984-ZwEY)
 * [Paper: Faster and Cheaper Serverless Computing on Harvested Resources](https://www.linkedin.com/posts/iamabhishekchoudhary_faster-and-cheaper-serverless-computing-on-activity-6892139456795598850-X-Qs)
 * [DBOS: A Paper on DBMS-oriented Operating System](https://www.linkedin.com/posts/iamabhishekchoudhary_dbos-database-operating-system-activity-6895067128035127296-V7Hh)
+* [SSD Storage - Scale Caching without increasing too much cost & Smart Indexing for faster data query](https://www.linkedin.com/posts/iamabhishekchoudhary_lifescience-dataengineering-datainfrastructure-activity-6902532964022849537-EBYE)
 
 ## Discussions
 [Should you pick Managed Service or build self Managed Open Source Infrastructure](https://www.linkedin.com/posts/iamabhishekchoudhary_data-engineering-managed-service-vs-self-activity-6901439190475579392-BxxY)
