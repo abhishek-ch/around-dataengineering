@@ -375,3 +375,4 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [What is Compiler - Programming language Processor](https://www.linkedin.com/posts/iamabhishekchoudhary_what-is-compiler-activity-6897471758522212353-w9rs)
 * [Understanding Raft Consensus](https://www.linkedin.com/posts/iamabhishekchoudhary_raft-consensus-activity-6898202083418279936-Bl-J)
 * [How does SSH (Secure Shell) Work](https://www.linkedin.com/posts/iamabhishekchoudhary_lifescience-dataengineering-datainfrastructure-activity-6903984507943227392-Rqcw)
+* [Operation System Memory Management - Why Do you even need Virtual Memory](https://www.linkedin.com/posts/iamabhishekchoudhary_lifescience-dataengineering-datainfrastructure-activity-6904349820576690176-1pgR)
