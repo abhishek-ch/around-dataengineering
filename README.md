@@ -245,6 +245,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [SQL Subqueries by Example](https://www.linkedin.com/posts/iamabhishekchoudhary_understanding-subqueries-by-examples-activity-6890591994150760448-mdsN)
 * [What is Write-Ahead-Logging (WAL)](https://www.linkedin.com/posts/iamabhishekchoudhary_wal-write-ahead-log-activity-6894184345448321024-dW5p)
 * [SQL Transactions](SQL Transactions - a sequence of database operations)
+* [Linux Productivity Tools - This is a Data Infrastructure necessity](https://www.linkedin.com/posts/iamabhishekchoudhary_linux-productivity-activity-6905439443684007937-A5PF)
 
 
 ### NoSQL
@@ -264,6 +265,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Why? Data Versioning is a complicated problem for Dataengineers](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineers-apacheiceberg-deltalake-activity-6793880325475901440-Lsxx)
 * [Explainable AI Cheat Sheet](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-mlops-dataengineering-activity-6794228285145452545-YEwQ)
 * [Designing Machine Learning infrastructure](https://www.linkedin.com/posts/iamabhishekchoudhary_lifescience-dataengineering-activity-6883778465296990208-8RUn)
+* [What is Log - Foundation behind Databases & Distributed Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystem-database-lifescience-activity-6905525481894948864-L2nG)
 
 
 #### Project
