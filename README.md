@@ -266,6 +266,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Explainable AI Cheat Sheet](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-mlops-dataengineering-activity-6794228285145452545-YEwQ)
 * [Designing Machine Learning infrastructure](https://www.linkedin.com/posts/iamabhishekchoudhary_lifescience-dataengineering-activity-6883778465296990208-8RUn)
 * [What is Log - Foundation behind Databases & Distributed Systems](https://www.linkedin.com/posts/iamabhishekchoudhary_distributedsystem-database-lifescience-activity-6905525481894948864-L2nG)
+* [How does the GIT version control work?](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-dataengineering-activity-6906610679105912832-K7wL)
 
 
 #### Project
