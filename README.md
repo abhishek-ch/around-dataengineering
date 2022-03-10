@@ -64,6 +64,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Explaining Apache Kafka - In children's book format](https://www.linkedin.com/posts/iamabhishekchoudhary_apachekafka-streamprocessing-dataengineering-activity-6811538408763121664-5qpL)
 * [The Perfect #dataengineering: Top INVALID Reasons behind #datapipelines failures](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-datapipelines-data-activity-6839946812015603712-FnZq)
 * [What is ETL](https://www.linkedin.com/posts/iamabhishekchoudhary_etl-introduction-ugcPost-6864433492600635392-sbBl)
+* [What is Proxy & Reverse Proxy](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-activity-6907655591100354560-5DDk)
 
 
 #### Level 1
