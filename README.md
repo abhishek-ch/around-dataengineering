@@ -296,6 +296,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [ACID is the foundation of Database, BASE is for NoSQL Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_acid-base-activity-6861531231998275584-q8ih)
 * [Some common elements behind many Distributed Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_databases-dataengineering-datainfrastructure-activity-6870277667103526912-d0d6)
 * [Failure Recovery in TrinoDB](https://www.linkedin.com/posts/iamabhishekchoudhary_failure-recovery-in-trino-activity-6893925269191610368-7g98)
+* [What is LLVM](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-activity-6909794301438799872-yjJt)
 
 ## Paper
 
