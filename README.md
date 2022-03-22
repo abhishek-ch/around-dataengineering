@@ -23,6 +23,7 @@
 * [Parallel Databases using Map Reduce](https://www.linkedin.com/posts/iamabhishekchoudhary_parallel-databases-using-map-reduce-activity-6858620336083136512-NtTz)
 * [REST vs GraphQL](https://www.linkedin.com/posts/iamabhishekchoudhary_restapi-vs-graphql-activity-6879712973284364288-O8ad)
 * [Linux Namespace & Control Group(cgroup)](https://www.linkedin.com/posts/iamabhishekchoudhary_namespaces-and-cgroups-the-basis-of-linux-activity-6897116562046672897-B5va)
+* [SQL Lexical Structure](https://www.linkedin.com/posts/iamabhishekchoudhary_database-golang-dataengineering-activity-6911963969658220544-LCxB)
 
 
 ## Weekly Digest
