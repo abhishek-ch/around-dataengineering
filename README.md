@@ -299,7 +299,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Failure Recovery in TrinoDB](https://www.linkedin.com/posts/iamabhishekchoudhary_failure-recovery-in-trino-activity-6893925269191610368-7g98)
 * [What is LLVM](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-activity-6909794301438799872-yjJt)
 * [What is Garbage Collection](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-activity-6910230886785445888-p1qS)
-* [What is Canary Deployment](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-activity-6913057128144379904-HZ_F)
+* [What is Canary Deployment](https://www.linkedin.com/posts/iamabhishekchoudhary_dataengineering-activity-6913058649288409088-He1R?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 ## Paper
 
