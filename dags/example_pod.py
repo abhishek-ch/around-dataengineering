@@ -44,7 +44,23 @@ with DAG(
         get_logs=True
     )
 
+
+    pytest = KubernetesPodOperator(
+        namespace='default',
+        image="python-docker:test",
+        image_pull_policy="IfNotPresent",
+        name="Pytest_Abc",
+        task_id="Python_test",
+        dag=dag,
+        is_delete_operator_pod=False,
+        in_cluster=True,
+        startup_timeout_seconds=600,
+        get_logs=True
+    )
+
     end = DummyOperator(task_id='end', dag=dag, trigger_rule='all_success')
 
-    start >> test >> end
+    start >> test 
+    start >> pytest
+    pytest >> end
 
