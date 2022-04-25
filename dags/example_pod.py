@@ -34,7 +34,7 @@ with DAG(
     test = KubernetesPodOperator(
         namespace='default',
         image="nginx:1.14.2",
-        image_pull_policy="Always",
+        image_pull_policy="IfNotPresent",
         name="nginx_run",
         task_id="nginx_run",
         dag=dag,
