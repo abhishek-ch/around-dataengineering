@@ -51,6 +51,8 @@ with DAG(
         image_pull_policy="IfNotPresent",
         name="Pytest_Abc",
         task_id="Python_test",
+        cmds=["/bin/sh", "-c",
+              f"python -u test.py"],
         dag=dag,
         is_delete_operator_pod=False,
         in_cluster=True,
