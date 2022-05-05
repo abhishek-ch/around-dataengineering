@@ -378,7 +378,8 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Paper: Lineage Tracing for General Data Warehouse Transformations](https://www.linkedin.com/posts/iamabhishekchoudhary_paper-lineage-tracing-activity-6909529244867960832-z-kS?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 ## Discussions
-[Should you pick Managed Service or build self Managed Open Source Infrastructure](https://www.linkedin.com/posts/iamabhishekchoudhary_data-engineering-managed-service-vs-self-activity-6901439190475579392-BxxY)
+* [Should you pick Managed Service or build self Managed Open Source Infrastructure](https://www.linkedin.com/posts/iamabhishekchoudhary_data-engineering-managed-service-vs-self-activity-6901439190475579392-BxxY)
+* [What is Sigstore](https://www.linkedin.com/posts/iamabhishekchoudhary_github-sigstoresigstore-common-go-library-activity-6927946358867824640-qbpK)
 
 
 ## Basics
