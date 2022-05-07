@@ -380,6 +380,8 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 ## Discussions
 * [Should you pick Managed Service or build self Managed Open Source Infrastructure](https://www.linkedin.com/posts/iamabhishekchoudhary_data-engineering-managed-service-vs-self-activity-6901439190475579392-BxxY)
 * [What is Sigstore](https://www.linkedin.com/posts/iamabhishekchoudhary_github-sigstoresigstore-common-go-library-activity-6927946358867824640-qbpK)
+* [Security Threat Model](https://owasp.org/www-community/Threat_Modeling_Process)
+* [Kubernetes Security & Secrets](https://www.macchaffee.com/blog/2022/k8s-secrets/)
 
 
 ## Basics
