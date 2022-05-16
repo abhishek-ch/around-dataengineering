@@ -384,6 +384,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [What is Sigstore](https://www.linkedin.com/posts/iamabhishekchoudhary_github-sigstoresigstore-common-go-library-activity-6927946358867824640-qbpK)
 * [Security Threat Model](https://owasp.org/www-community/Threat_Modeling_Process)
 * [Kubernetes Security & Secrets](https://www.macchaffee.com/blog/2022/k8s-secrets/)
+* [2 ways of Data/ML Product Development](https://www.linkedin.com/posts/iamabhishekchoudhary_machinelearning-activity-6931979116527177729-EQzG?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 
 ## Basics
