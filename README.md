@@ -24,6 +24,7 @@
 * [REST vs GraphQL](https://www.linkedin.com/posts/iamabhishekchoudhary_restapi-vs-graphql-activity-6879712973284364288-O8ad)
 * [Linux Namespace & Control Group(cgroup)](https://www.linkedin.com/posts/iamabhishekchoudhary_namespaces-and-cgroups-the-basis-of-linux-activity-6897116562046672897-B5va)
 * [SQL Lexical Structure](https://www.linkedin.com/posts/iamabhishekchoudhary_database-golang-dataengineering-activity-6911963969658220544-LCxB)
+* [Everything about the Linux kernel](https://www.linkedin.com/posts/iamabhishekchoudhary_github-0xaxlinux-insides-a-little-bit-activity-6932325041955061760-QlwG?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 
 ## Weekly Digest
