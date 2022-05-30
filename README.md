@@ -194,6 +194,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Monitoring Kubernetes - Fundamentals of #kubernetes Infrastructure Monitoring](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-monitoring-fundamental-activity-6897830067133571072-hmnv)
 * [Kubernetes Controller Manager](https://www.linkedin.com/posts/iamabhishekchoudhary_kubernetes-controller-manager-concept-activity-6900449709870104577-4T0d)
 * [Kubernetes: Why the Pod is still in the Pending State?](https://www.linkedin.com/posts/iamabhishekchoudhary_understanding-kubernetes-pod-pending-problems-activity-6931949104704962560-OOOl?utm_source=linkedin_share&utm_medium=member_desktop_web)
+* [Kubernetes Liveness & Readiness Probe](https://www.linkedin.com/posts/iamabhishekchoudhary_introduction-to-kubernetes-probes-activity-6936950535275048961-8wYL?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 
 ## SQL
