@@ -384,6 +384,8 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Deployment Archetypes for Cloud Applications](https://www.linkedin.com/posts/iamabhishekchoudhary_deployment-archetypes-for-cloud-applications-activity-6934872860444299264-_2Dm?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * [PolarDB Serverless: A Cloud Native Database for Disaggregated Data Centers](https://www.linkedin.com/posts/iamabhishekchoudhary_polardb-serverless-activity-6948647647712837633-_gRs?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * [Everything You Always Wanted to Know About Compiled and Vectorized Queries But Were Afraid to Ask](https://www.linkedin.com/posts/iamabhishekchoudhary_vectorizationvscompilation-activity-6951179494887981056-DC3b?utm_source=linkedin_share&utm_medium=member_desktop_web)
+* [Dual use of artifcial-intelligence-powered drug
+discovery](https://www.nature.com/articles/s42256-022-00465-9.pdf)
 
 ## Discussions
 * [Should you pick Managed Service or build self Managed Open Source Infrastructure](https://www.linkedin.com/posts/iamabhishekchoudhary_data-engineering-managed-service-vs-self-activity-6901439190475579392-BxxY)
