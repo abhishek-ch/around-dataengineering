@@ -365,6 +365,7 @@ but an MPP/MPI Engine](https://www.linkedin.com/posts/iamabhishekchoudhary_apach
 * [Paper: Scalable Linear Algebra on top of Distributed Databases, this will simplify Machine Learning on Databases](https://www.linkedin.com/posts/iamabhishekchoudhary_scalable-linear-algebra-on-a-relational-database-activity-6883378575798611968-PZg1)
 * [Paper: Are You Sure You Want to Use MMAP in Your Database Management System](https://www.linkedin.com/posts/iamabhishekchoudhary_paper-dont-use-mmap-in-your-database-management-activity-6888862226975924224-J4Tn)
 * [What is RBAC or Role-Based Access Control](https://www.linkedin.com/posts/iamabhishekchoudhary_rbac-activity-6939859154085814272-v_nB?utm_source=linkedin_share&utm_medium=member_desktop_web)
+* [Vectorization vs. Compilation in Query Execution](https://www.linkedin.com/posts/iamabhishekchoudhary_vectorization-vs-compilation-in-query-execution-activity-6967759062994194432-HX9e?utm_source=share&utm_medium=member_desktop)
 
 
 #### Advanced
