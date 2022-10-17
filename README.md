@@ -2,6 +2,9 @@
 
 ![](sketchnotes/background.jpeg)
 
+## New Tech
+* [Dragonfly is a faster Redis or Memcached alternative, that I recently tried.](https://www.linkedin.com/posts/iamabhishekchoudhary_github-dragonflydbdragonfly-a-modern-activity-6987806780424617984-sfOk?utm_source=share&utm_medium=member_desktop)
+
 ## Interesting Reads
 
 * [How to choose a Distributed Database](https://github.com/abhishek-ch/around-dataengineering/blob/master/docs/how_to_choose_db.md)
